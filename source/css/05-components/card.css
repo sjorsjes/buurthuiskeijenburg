@@ -1,0 +1,7 @@
+.card {
+	background-color: var(--color-white);
+
+	&__content {
+		padding: var(--distance-m) 0;
+	}
+}

@@ -1,0 +1,48 @@
+/* Base colors */
+:root {
+	--color-white: #fff;
+	--color-black: #222;
+	--color-gray: #777;
+
+	--color-blue: #03c4eb;
+	--color-purple: #6f4994;
+	--color-green: #2db5ae;
+	--color-yellow-light: #fef7ef;
+	--color-pink-light: #fdeff3;
+	--color-gray-light: #f8f9f9;
+
+	--color-text: var(--color-gray);
+	--color-link: var(----color-black);
+
+	--font-face-body: 'Open Sans', helvetica, arial, sans-serif;
+
+	--font-weight-normal: 400;
+	--font-weight-bold: 700;
+
+	--font-size-base: 1rem;
+
+	--font-size-s: calc(var(--font-size-base) * 0.875);
+	--font-size-m: var(--font-size-base);
+	--font-size-l: calc(var(--font-size-base) * 1.25);
+	--font-size-xl: calc(var(--font-size-base) * 1.5);
+	--font-size-xxl: calc(var(--font-size-base) * 4);
+
+	--border-width: 1px;
+
+	--distance-xxs: 0.25rem;
+	--distance-xs: 0.5rem;
+	--distance-s: 0.75rem;
+	--distance-m: 1rem;
+	--distance-l: 1.5rem;
+	--distance-xl: 2rem;
+	--distance-xxl: 3rem;
+
+	--radius: 0;
+	--radius-small: 2px;
+	--radius-full: 100%;
+}
+
+@custom-media --small (min-width: 30rem);
+@custom-media --medium (min-width: 45rem);
+@custom-media --large (min-width: 62rem);
+@custom-media --xlarge (min-width: 75rem);

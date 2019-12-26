@@ -1,0 +1,11 @@
+.float-right {
+	float: right;
+}
+
+.is-hidden {
+	display: none;
+}
+
+.mobile-menu-active {
+	overflow: hidden;
+}

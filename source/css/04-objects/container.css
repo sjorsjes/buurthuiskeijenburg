@@ -1,0 +1,16 @@
+.container {
+	max-width: 75rem;
+
+	margin: 0 5vw;
+}
+
+@media (--xlarge) {
+	.container {
+		margin: 0 auto;
+	}
+}
+
+.content {
+	max-width: 44rem;
+	margin: 0 auto;
+}

@@ -1,0 +1,19 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+
+	color: var(--color-text);
+	font: normal 1rem/1.7 var(--font-face-body);
+	font-kerning: normal;
+	text-decoration-skip: ink;
+	text-rendering: optimizeLegibility;
+
+	background: var(--color-yellow-light);
+
+	scroll-behavior: smooth;
+}
