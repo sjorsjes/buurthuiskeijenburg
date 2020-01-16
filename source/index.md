@@ -1,6 +1,6 @@
 ---
 layout: base
-tags: nav
-navtitle: home
-navorder: 0
+eleventyNavigation:
+    key: Home
+    order: 1
 ---

@@ -1,6 +1,8 @@
 ---
-title: Huisregels
-layout: content
+eleventyNavigation:
+    parent: Keijenburg
+    key: Huisregels
+    order: 4
 ---
 
 Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht of op welke grond dan ook, is niet toegestaan.

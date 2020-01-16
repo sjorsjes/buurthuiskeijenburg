@@ -1,5 +1,4 @@
 ---
-title: Home
 ---
 
 <!doctype html>
@@ -11,7 +10,11 @@ title: Home
 	<title>
 		Buurthuis Keijenburg
 		{% if page.url !== "/" %}
+			{% if title %}
 			- {{ title }}
+			{% elif eleventyNavigation and eleventyNavigation.key %}
+			- {{ eleventyNavigation.key }}
+			{% endif %}
 		{% endif %}
 	 </title>
 
@@ -19,7 +22,7 @@ title: Home
 	<link rel="icon" href="{{ "/" | url }}favicon.ico" type="image/x-icon">
 
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&display=swap" rel="stylesheet">
-	<link href="{{ "/" | url }}css/main.min.css" rel="stylesheet">
+	<link href="{{ "/" | url }}lib/css/main.min.css" rel="stylesheet">
 </head>
 <body>
 	<div class="wrapper">
@@ -34,6 +37,6 @@ title: Home
 		{% include "../footer.njk" %}
 	</div>
 
-	<script src="{{ "/" | url }}js/main.js"></script>
+	<script src="{{ "/" | url }}lib/js/main.js"></script>
 </body>
 </html>

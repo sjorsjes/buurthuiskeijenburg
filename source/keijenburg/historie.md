@@ -1,6 +1,9 @@
 ---
+eleventyNavigation:
+    parent: Keijenburg
+    key: De historie
+    order: 1
 title: De historie van het gebouw van buurthuis Keijenburg en de stichting buurthuis Keijenburg
-layout: content
 ---
 
 De voorloper van het huidige buurthuis Keijenburg was het Josephpatronaat met als openingsdatum 26 januari 1931. Het gebouw, verbonden aan de in de jaren twintig gerealiseerde St.Josephkerk , bestaat in 2021 negentig jaar.

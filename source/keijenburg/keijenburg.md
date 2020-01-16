@@ -1,13 +1,8 @@
 ---
-title: Over ons
-tags: nav
-navorder: 1
-layout: content
+eleventyNavigation:
+    order: 4
+    key: Keijenburg
 ---
-
-* [Historie]({{ page.url }}historie)
-* [Huisregels]({{ page.url }}huisregels)
-* [Algemene Verordening Gegevensbescherming]({{ page.url }}algemene-verordening-gegevensbescherming)
 
 <<< FOTO >>>
 

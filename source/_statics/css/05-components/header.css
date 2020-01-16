@@ -12,4 +12,14 @@
 	left: 0;
 
 	background-color: var(--color-green);
+
+	@media (--large) {
+		position: relative;
+		top: auto;
+		right: auto;
+		bottom: auto;
+		left: auto;
+
+		background-color: var(--color-white);
+	}
 }

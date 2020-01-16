@@ -1,13 +1,8 @@
 ---
-title: Vrijwilligers
-tags: nav
-navorder: 2
-layout: content
+eleventyNavigation:
+    order: 3
+    key: Het team
 ---
-
-* [Vrijwilligers]({{ page.url }}onze-vrijwilligers)
-* [Personeelsleden]({{ page.url }}personeelsleden)
-* [Bestuursleden]({{ page.url }}bestuursleden)
 
 <<< FOTO >>>
 

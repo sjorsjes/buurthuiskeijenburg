@@ -24,7 +24,7 @@
 
 	appearance: none;
 
-	@media (--small) {
+	@media (--large) {
 		display: none;
 	}
 
@@ -95,24 +95,18 @@
 
 	font-size: var(--font-size-l);
 
-	@media (--small) {
-		margin-top: 1rem;
-		margin-left: auto;
-	}
-
-	.navigation__list {
+	@media (--large) {
 		position: relative;
 		top: auto;
 		left: auto;
+		display: block;
 
-		margin-top: 0;
-		margin-left: 1rem;
+		width: auto;
+
+		margin-top: 1rem;
+		margin-left: auto;
 
 		font-size: var(--font-size-m);
-
-		@media (--small) {
-			display: none;
-		}
 	}
 }
 
@@ -121,7 +115,7 @@
 
 	text-align: center;
 
-	@media (--small) {
+	@media (--large) {
 		display: inline-block;
 
 		text-align: left;
@@ -134,16 +128,26 @@
 	color: var(--color-white);
 	text-decoration: none;
 
-	@media (--small) {
+	@media (--large) {
+		padding: 0.5rem;
+
 		color: var(--color-text);
 	}
 
 	&:hover {
 		color: var(--color-black);
+
+		@media (--large) {
+			color: var(--color-green);
+		}
 	}
 
 	&.is-active {
 		position: relative;
+
+		@media (--large) {
+			color: var(--color-green);
+		}
 	}
 
 	&.is-active:before {
@@ -157,12 +161,20 @@
 		background-color: var(--color-white);
 
 		content: '';
+
+		@media (--large) {
+			background-color: var(--color-green);
+		}
 	}
 }
 
 .mobile-menu-active {
 	.navigation__logo {
 		filter: brightness(10);
+
+		@media (--large) {
+			filter: brightness(100%);
+		}
 	}
 
 	.navigation__mobile-toggle .navigation__mobile-toggle__icon {

@@ -1,10 +1,26 @@
 ---
 layout: base
-title: Tales from the front
 ---
 
 <div class="content">
-	<h1 class="page__title">{{ title }}</h1>
+	{% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
+		<nav class="breadcrumb" aria-labelledby="breadcrumb">
+			<h2 class="sr-only" id="breadcrumb">Breadcrumbs: </h2>
+			{{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml({ listClass: 'lo lo-inline', listItemClass: 'lo-c', activeListItemClass: 'breadcrumb-active' }) | safe }}
+		</nav>
+	{% endif %}
+
+	<h1 class="page__title">
+		{% if title %}
+			{{ title }}
+		{% elif eleventyNavigation and eleventyNavigation.key %}
+			{{ eleventyNavigation.key }}
+		{% endif %}
+	</h1>
+
+	{% if eleventyNavigation and eleventyNavigation.key %}
+		{{ collections.all | eleventyNavigation(eleventyNavigation.key) | eleventyNavigationToHtml({ listClass: 'lo lo-inline', listItemClass: 'lo-c', activeListItemClass: 'breadcrumb-active' }) | safe }}
+	{% endif %}
 
 	{{ content | safe }}
 </div>
