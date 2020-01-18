@@ -8,6 +8,10 @@ h1 {
 	margin: 0 0 var(--distance-xs);
 
 	font-size: var(--font-size-l);
+
+	& + p {
+		margin-top: calc(var(--distance-xs) * -1);
+	}
 }
 
 @media (--small) {
@@ -15,6 +19,10 @@ h1 {
 		margin: 0 0 var(--distance-m);
 
 		font-size: var(--font-size-xl);
+
+		& + p {
+			margin-top: calc(var(--distance-m) * -1);
+		}
 	}
 }
 
@@ -22,6 +30,10 @@ h2 {
 	margin: 0 0 var(--distance-xs);
 
 	font-size: var(--font-size-m);
+
+	& + p {
+		margin-top: calc(var(--distance-xs) * -1);
+	}
 }
 
 @media (--small) {
@@ -29,6 +41,10 @@ h2 {
 		margin: 0 0 var(--distance-m);
 
 		font-size: var(--font-size-l);
+
+		& + p {
+			margin-top: calc(var(--distance-m) * -1);
+		}
 	}
 }
 
@@ -44,6 +60,10 @@ h3, h4, h5, h6 {
 		margin: 0 0 var(--distance-xs);
 
 		font-size: var(--font-size-m);
+
+		& + p {
+			margin-top: calc(var(--distance-xs) * -1);
+		}
 	}
 }
 
@@ -63,8 +83,13 @@ a {
 	color: var(--color-link);
 }
 
-a:hover {
-	color: var(--color-text);
+a:visited {
+	color: var(--color-link);
+}
+
+a:hover,
+a:visited:hover {
+	color: var(--color-black);
 }
 
 blockquote {

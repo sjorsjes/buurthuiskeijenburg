@@ -68,6 +68,8 @@
 
 	@media (--large) {
 		width: auto;
+
+		margin-bottom: 0;
 	}
 
 	&.is-active > .navigation__link {
@@ -119,8 +121,17 @@
 		}
 	}
 
+	/* Seperate line for browser support */
+	/* https://css-tricks.com/dont-comma-separate-focus-within-if-you-need-deep-browser-support/ */
+	&:focus-within > .navigation__sublist {
+		@media (--large) {
+			display: block;
+			visibility: visible;
+			opacity: 1;
+		}
+	}
+
 	&:hover > .navigation__sublist,
-	&:focus-within > .navigation__sublist,
 	.navigation__sublist:hover,
 	.navigation__sublist:focus {
 		@media (--large) {

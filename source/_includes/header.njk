@@ -1,7 +1,7 @@
 <header class="header">
 	<div class="container">
 
-		<nav class="navigation">
+		<nav class="navigation" role="navigation">
 			<div class="navigation__container">
 				<h1 class="visuallyhidden">Buurthuis Keijenburg</h1>
 
@@ -15,12 +15,12 @@
 						{% set isActive = (entry.url == page.url or entry.title === eleventyNavigation.parent) %}
 
 						<li class="navigation__list-item{% if isActive %} is-active{% endif %}">
-							<a href="{{ entry.url | url }}" class="navigation__link">
+							<a href="{{ entry.url | url }}" class="navigation__link" {% if entry.children.length %}aria-haspopup="true"{% endif %}>
 								{{ entry.title }}
 							</a>
 
 							{% if entry.children.length %}
-							<ul class="navigation__sublist">
+							<ul class="navigation__sublist" aria-label="submenu">
 								{%- for child in entry.children %}
 									<li class="navigation__list-item{% if child.url == page.url %} is-active{% endif %}">
 										<a href="{{ child.url | url }}" class="navigation__link">{{ child.title }}</a>
