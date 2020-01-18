@@ -12,15 +12,29 @@
 				{% set navPages = collections.all | eleventyNavigation %}
 				<ul class="navigation__list">
 					{%- for entry in navPages %}
-						<li class="navigation__list-item">
-							<a href="{{ entry.url | url }}" class="navigation__link{% if entry.url == page.url %} is-active{% endif %}">
+						{% set isActive = (entry.url == page.url or entry.title === eleventyNavigation.parent) %}
+
+						<li class="navigation__list-item{% if isActive %} is-active{% endif %}">
+							<a href="{{ entry.url | url }}" class="navigation__link">
 								{{ entry.title }}
 							</a>
+
+							{% if entry.children.length %}
+							<ul class="navigation__sublist">
+								{%- for child in entry.children %}
+									<li class="navigation__list-item{% if child.url == page.url %} is-active{% endif %}">
+										<a href="{{ child.url | url }}" class="navigation__link">{{ child.title }}</a>
+									</li>
+								{%- endfor %}
+							</ul>
+							{% endif %}
 						</li>
 					{%- endfor %}
 				</ul>
 
-				<button class="navigation__mobile-toggle js-toggle-menu"><span class="navigation__mobile-toggle__icon"></span></button>
+				<button class="navigation__mobile-toggle js-toggle-menu">
+					<span class="navigation__mobile-toggle__icon"></span>
+				</button>
 			</div>
 		</nav>
 	</div>

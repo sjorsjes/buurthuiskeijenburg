@@ -1,0 +1,18 @@
+.breadcrumbs {
+	margin-bottom: 1rem;
+}
+
+.breadcrumbs__list {
+	margin: 0;
+	padding: 0;
+
+	list-style: none;
+}
+
+.breadcrumbs__list-item {
+	display: inline-block;
+}
+
+.breadcrumbs__link {
+	font-size: var(--font-size-s);
+}

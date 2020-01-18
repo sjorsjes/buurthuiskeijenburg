@@ -2,15 +2,31 @@
 	max-width: 75rem;
 
 	margin: 0 5vw;
-}
+	padding: 0 0.5rem;
 
-@media (--xlarge) {
-	.container {
+	@media (--medium) {
 		margin: 0 auto;
+		padding: 0 1rem;
 	}
 }
 
 .content {
 	max-width: 44rem;
+
 	margin: 0 auto;
+	padding: 3rem 0;
+}
+
+.main {
+	width: 100%;
+
+	margin: 0 auto;
+}
+
+.page_visual {
+	height: 20rem;
+
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
 }

@@ -4,8 +4,6 @@ eleventyNavigation:
     key: Het team
 ---
 
-<<< FOTO >>>
-
 Vrijwilligers zijn goud waard! Zonder vrijwilligers kunnen buurthuizen niet bestaan, ook Keijenburg niet. Als vrijwilliger kun je van alles ondernemen binnen Keijenburg. Denk aan een bardienst, klusjesman, een bepaalde activiteit opzetten en draaien. Maar ook het bestuur bestaat uit vrijwilligers. Er zijn legio mogelijkheden.
 
 We zijn altijd op zoek naar vrijwilligers voor de werkzaamheden en ideeën die wij hebben! We kunnen samen nagaan wat er bij jou past.
