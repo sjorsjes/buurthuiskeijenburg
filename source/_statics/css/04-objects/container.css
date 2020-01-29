@@ -1,20 +1,24 @@
 .container {
 	max-width: 75rem;
 
-	margin: 0 5vw;
-	padding: 0 0.5rem;
-
-	@media (--medium) {
-		margin: 0 auto;
-		padding: 0 1rem;
-	}
+	margin: 0 auto;
+	padding: 0 1rem;
 }
 
 .content {
 	max-width: 44rem;
 
 	margin: 0 auto;
-	padding: 1rem 0 3rem;
+	padding-top: 1rem;
+	padding-bottom: 3rem;
+
+	img {
+		width: auto;
+
+		margin: 0 auto;
+
+		border: 5px solid var(--color-white);
+	}
 }
 
 .main {
@@ -29,4 +33,11 @@
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
+
+	border-bottom: 2px solid var(--color-yellow);
+
+	&--large {
+		height: 30rem;
+		max-height: 70vh;
+	}
 }

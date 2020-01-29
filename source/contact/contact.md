@@ -8,6 +8,8 @@ Voor algemene informatie en informatie over zaalhuur, prijzen en afspraken kunt 
 
 Voor bestuurlijke vragen zal Anne Belle uw vraag doorsturen naar het desbetreffende bestuurslid.
 
+<< TODO: ADD CONTACT FORM >>
+
 Buurthuis Keijenburg.  
 Keijenburg 70  
 4702CG Roosendaal  

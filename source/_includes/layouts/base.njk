@@ -5,7 +5,20 @@
 <html lang="nl">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	{# Turn off for development #}
+	{% if env !== "development" %}
+	{# https://developers.google.com/web/fundamentals/security/csp#the_meta_tag #}
+	<meta http-equiv="Content-Security-Policy" content="default-src 'none';
+														script-src 'self';
+														style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+														img-src 'self';
+														font-src 'self' https://fonts.gstatic.com;
+														media-src 'self';
+														manifest-src 'self';
+														frame-src 'self'; ">
+	{% endif %}
 
 	<title>
 		Buurthuis Keijenburg
@@ -16,7 +29,17 @@
 			- {{ eleventyNavigation.key }}
 			{% endif %}
 		{% endif %}
-	 </title>
+	</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+
+	<link rel="manifest" href="/manifest.json" />
+	<meta name="theme-color" content="#1e283c">
+
+	<meta property="og:title" content="{{ title }}">
+	<meta property="og:url" content="{{ page.url }}">
+	<meta property="og:description" content="">
+	<meta property="og:image" content="{{ visual }}">
 
 	<link rel="shortcut icon" href="{{ "/" | url }}favicon.ico" type="image/x-icon">
 	<link rel="icon" href="{{ "/" | url }}favicon.ico" type="image/x-icon">
@@ -35,6 +58,9 @@
 		{% include "../footer.njk" %}
 	</div>
 
-	<script src="{{ "/" | url }}lib/js/main.js"></script>
+	{% if env !== "development" %}
+		<script defer src="{{ "/" | url }}lib/js/sw.js"></script>
+	{% endif %}
+	<script defer src="{{ "/" | url }}lib/js/main.js"></script>
 </body>
 </html>

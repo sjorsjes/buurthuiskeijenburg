@@ -4,8 +4,6 @@ eleventyNavigation:
     key: Keijenburg
 ---
 
-<<< FOTO >>>
-
 Het buurthuis is medio jaren twintig van de vorige eeuw gebouwd als patronaatsgebouw St. Joseph beter bekend als het St.Josephhuis. In 1971 werd Stichting Buurthuis Keijenburg opgericht.
 
 In 2021 bestaan we dus 50 jaar! En het buurthuis an sich bestaat [meer dan 90 jaar]({{ page.url }}/historie)!

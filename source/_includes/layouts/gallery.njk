@@ -1,0 +1,23 @@
+---
+layout: content
+
+galleryYears:
+- 2019
+---
+
+{{ content | safe }}
+
+{% for year in galleryYears %}
+	<h2 id="year-{{ year }}">{{ year }}</h2>
+
+	<div class="gallery__list">
+		{% for activity in pagination.items | filterByYear(year) %}
+			<a href="{{ page.url }}{{ year }}/{{ activity.name | slug }}" class="gallery__list-item">
+				<div class="gallery__list-item__title">
+					<h3>{{ activity.name | capitalize }}</h3>
+				</div>
+				<img class="gallery__list-item__img" src="{{ "/" | url }}lib/img/gallery/{{ activity.year }}/{{ activity.name }}/{{ activity.images[0] }}" loading="lazy" width="250"  alt="" />
+			</a>
+		{% endfor %}
+	</div>
+{% endfor %}

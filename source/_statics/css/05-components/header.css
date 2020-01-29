@@ -1,7 +1,10 @@
 .header {
+	position: relative;
+
 	padding: 1rem 0;
 
 	background-color: var(--color-white);
+	box-shadow: 0 10px 14px -13px var(--color-true-black);
 }
 
 .mobile-menu-active .header {

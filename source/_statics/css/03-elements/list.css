@@ -2,4 +2,11 @@ ol,
 ul {
 	margin: 0 auto var(--distance-m);
 	padding: 0 0 0 var(--distance-m);
+
+	&.unstyled {
+		margin: 0;
+		padding: 0;
+
+		list-style: none;
+	}
 }

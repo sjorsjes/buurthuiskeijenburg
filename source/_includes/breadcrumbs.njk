@@ -1,23 +1,23 @@
 {% set navPages = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) %}
 
-	<nav class="breadcrumbs" aria-labelledby="breadcrumb">
-		<ul class="breadcrumbs__list">
-			<li class="breadcrumbs__list-item">
-				<a href="{{ "/" | url }}" class="breadcrumbs__link">Home</a>
-				<span>/ </span>
-			</li>
+<nav class="breadcrumbs" aria-labelledby="breadcrumb">
+	<ul class="breadcrumbs__list">
+		<li class="breadcrumbs__list-item">
+			<a href="{{ "/" | url }}" class="breadcrumbs__link">Home</a>
+			<span>/ </span>
+		</li>
 
-			{% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
-				{%- for entry in navPages %}
-					<li class="breadcrumbs__list-item{% if entry.url == page.url %} is-active{% endif %}">
-						<a href="{{ entry.url | url }}" class="breadcrumbs__link">{{ entry.title }}</a>
-						<span>/ </span>
-					</li>
-				{%- endfor %}
-			{% endif %}
+		{% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
+			{%- for entry in navPages %}
+				<li class="breadcrumbs__list-item{% if entry.url == page.url %} is-active{% endif %}">
+					<a href="{{ entry.url | url }}" class="breadcrumbs__link">{{ entry.title }}</a>
+					<span>/ </span>
+				</li>
+			{%- endfor %}
+		{% endif %}
 
-			<li class="breadcrumbs__list-item">
-				<a href="{{ page.url }}" class="breadcrumbs__link">{{ eleventyNavigation.key }}</a>
-			</li>
-		</ul>
-	</nav>
+		<li class="breadcrumbs__list-item">
+			<a href="{{ page.url }}" class="breadcrumbs__link">{{ eleventyNavigation.key }}</a>
+		</li>
+	</ul>
+</nav>

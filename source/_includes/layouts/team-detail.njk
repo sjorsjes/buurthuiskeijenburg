@@ -1,0 +1,35 @@
+---
+layout: content
+---
+
+{{ content | safe }}
+
+<br />
+
+<div class="text-center">
+	<a href="{{ "/" | url }}contact" class="btn">Neem contact met ons op voor de mogelijkheden</a>
+</div>
+
+<div class="team">
+	{% for type, data in team %}
+		<h2>{{ type | capitalize }}</h2>
+
+		{% if data.length %}
+			<ul class="team__list">
+			{% for person in data %}
+				<li class="team__list-item">
+					<div class="team__image-holder">
+						<div class="team__image" style="background-image: url({{ "/" | url }}lib/img/{{ person.image }});"></div>
+					</div>
+
+					<h2 class="team__title">{{ person.name }}</h2>
+
+					{% if person.function %}
+						<div class="team__function">{{ person.function }}</div>
+					{% endif %}
+				</li>
+			{% endfor %}
+			</ul>
+		{% endif %}
+	{% endfor %}
+</div>

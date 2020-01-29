@@ -18,11 +18,23 @@
 	appearance: none;
 
 	&:hover {
-		color: var(--color-white);
+		color: var(--color-green);
 		text-decoration: none;
 
-		background-color: var(--color-olive);
-		border-color: var(--color-olive);
+		background-color: var(--color-white);
+	}
+
+	&--secondary {
+		color: var(--color-pink);
+
+		background-color: var(--color-pink-light);
+		border-color: var(--color-pink);
+
+		&:hover {
+			color: var(--color-white);
+
+			background-color: var(--color-pink);
+		}
 	}
 }
 

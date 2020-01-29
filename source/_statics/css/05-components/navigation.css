@@ -8,6 +8,8 @@
 
 	max-width: 200px;
 
+	padding-top: 0.5rem;
+
 	@media (--xlarge) {
 		max-width: 250px;
 	}
@@ -72,6 +74,20 @@
 		margin-bottom: 0;
 	}
 
+	&.is-active:before {
+		position: absolute;
+		top: 80%;
+		left: 50%;
+
+		width: 5px;
+		height: 5px;
+
+		border-radius: 50%;
+		background-color: var(--color-green);
+
+		content: '';
+	}
+
 	&.is-active > .navigation__link {
 		border: 1px solid var(--color-white);
 
@@ -117,6 +133,10 @@
 				color: var(--color-white);
 
 				background-color: var(--color-green);
+			}
+
+			&.is-active:before {
+				display: none;
 			}
 		}
 	}

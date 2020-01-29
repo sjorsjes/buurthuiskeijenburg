@@ -1,0 +1,39 @@
+---
+layout: base
+visual: voorgevel.jpg
+permalink: /
+---
+
+<div class="page_visual page_visual--large" style="background-image: url({{ "/" | url }}lib/img/content/{{ visual }});"></div>
+
+<article class="content container">
+	{{ content | safe }}
+</article>
+
+<< TODO: ADD FACEBOOK NEWS >>
+
+<div class="services">
+	<div class="container">
+		<h1 class="services__title text-center">Aanwezig binnen Buurthuis Keijenburg</h1>
+
+		<ul class="services__list">
+			{%- for service in collections.services -%}
+				<li class="services__list-item text-center">
+					<div class="services__icon"></div>
+
+					<h2 class="services__subtitle">
+						{{ service.data.title }}
+					</h2>
+
+					<div class="services__excerpt">
+						{{ service.data.excerpt | safe }}
+					</div>
+
+					<a href="{{ service.url }}" class="btn btn--secondary services__more-information">
+						Meer informatie
+					</a>
+				</li>
+			{%- endfor -%}
+		</ul>
+	</div>
+</div>

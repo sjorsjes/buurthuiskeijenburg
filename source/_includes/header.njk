@@ -12,18 +12,24 @@
 				{% set navPages = collections.all | eleventyNavigation %}
 				<ul class="navigation__list">
 					{%- for entry in navPages %}
-						{% set isActive = (entry.url == page.url or entry.title === eleventyNavigation.parent) %}
+						{% set isActive = (entry.url === page.url or entry.title === eleventyNavigation.parent) %}
+
+						{# Mark top navigation as active when visiting child fotoalbums #}
+						{% if page.url.includes('fotoalbums') and entry.title === 'Fotoalbums' %}
+							{% set isActive = true %}
+						{% endif %}
 
 						<li class="navigation__list-item{% if isActive %} is-active{% endif %}">
 							<a href="{{ entry.url | url }}" class="navigation__link" {% if entry.children.length %}aria-haspopup="true"{% endif %}>
 								{{ entry.title }}
 							</a>
 
-							{% if entry.children.length %}
+							{# Prevent all verenigingen showing up in the menu #}
+							{% if entry.title !== 'Verenigingen' and entry.children.length %}
 							<ul class="navigation__sublist" aria-label="submenu">
 								{%- for child in entry.children %}
 									<li class="navigation__list-item{% if child.url == page.url %} is-active{% endif %}">
-										<a href="{{ child.url | url }}" class="navigation__link">{{ child.title }}</a>
+										<a href="{{ child.url | url }}" class="navigation__link">{{ child.key }}</a>
 									</li>
 								{%- endfor %}
 							</ul>
