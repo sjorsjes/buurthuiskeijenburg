@@ -2,8 +2,6 @@
 	padding: 2rem;
 
 	background-color: var(--color-pink-light);
-	border-top: 20px solid var(--color-white);
-	border-bottom: 20px solid var(--color-white);
 }
 
 .services__list {

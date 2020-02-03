@@ -1,16 +1,46 @@
 <footer class="footer">
 	<div class="container">
-		footer
+		<div class="footer__wrapper">
+			<div class="footer__item text-center">
+				<h2 class="footer__title">Volg ons ook op Facebook</h2>
 
-		Openingstijdens:
-		Maandag	09:00u – 17.00u
-		19:00u – 22.30u
-		Dinsdag	09.00u – 15.00u
-		18.30u – 22.30u
-		Woensdag	09.00u – 22.30u
-		Donderdag	19.00u – 23.00u
-		Iedere 1e zondag
-		vd maand	09.00u – 13.00u
-		Overige tijden:	* Afhankelijk van activiteiten
+				<a href="{{ "/" | url }}" class="footer__social">
+					<img src="{{ "/" | url }}lib/img/facebook.svg" alt="Volg ons ook op facebook!" />
+				</a>
+			</div>
+			<div class="footer__item">
+				<h2 class="footer__title">Openingstijden</h2>
+
+				<table class="footer__table">
+					<tbody>
+						<tr>
+							<td>Maandag</td>
+							<td>09.00 – 17.00 uur<br /> 19.00 – 23.00 uur</td>
+						</tr>
+						<tr>
+							<td>Dinsdag</td>
+							<td>09.00 – 13.00 uur (17.00 uur) <br /> 19.00 – 23.00 uur</td>
+						</tr>
+						<tr>
+							<td>Woensdag</td>
+							<td>09.00 – 17.00 uur <br /> 19.00 – 23.00 uur</td>
+						</tr>
+						<tr>
+							<td>Donderdag</td>
+							<td>09.00 – 17.00 uur <br /> 19.00 – 23.00 uur</td>
+						</tr>
+						<tr>
+							<td>Vrijdag</td>
+							<td>09.00 – 12.00 uur <br /> 13.00 – 17.00 uur <br /> 19.00 – 23.00 uur</td>
+						</tr>
+					</tbody>
+					<tfoot>
+						<tr>
+							<td colspan="2"><em>Zaterdag en zondag op aanvraag.</em></td>
+						</tr>
+					</tfoot>
+				</table>
+			</div>
+		</div>
 	</div>
 </footer>

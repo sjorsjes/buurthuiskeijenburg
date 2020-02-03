@@ -36,5 +36,18 @@
 			background-color: var(--color-pink);
 		}
 	}
+
+	&--footer {
+		color: var(--color-pink-light);
+
+		background-color: transparent;
+		border-color: var(--color-pink-light);
+
+		&:hover {
+			color: var(--color-pink);
+
+			background-color: var(--color-pink-light);
+		}
+	}
 }
 

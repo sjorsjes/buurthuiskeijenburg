@@ -1,0 +1,22 @@
+.call-to-action {
+	padding: 2rem;
+
+	background-color: var(--color-purple);
+}
+
+.call-to-action__wrapper {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.call-to-action__body {
+	color: var(--color-white);
+	font-size: var(--font-size-l);
+	font-weight: bold;
+	line-height: 2;
+}
+
+.call-to-action__button .btn {
+	margin: 0;
+}

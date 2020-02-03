@@ -1,0 +1,43 @@
+.footer {
+	padding: 2rem 0;
+
+	&__wrapper {
+		display: flex;
+	}
+
+	&__item {
+		width: 50%;
+
+		&:first-child {
+			padding-right: 15%;
+		}
+	}
+
+	&__table {
+		color: var(--color-pink-light);
+
+		td {
+			padding: 0 1rem;
+			vertical-align: top;
+		}
+
+		tfoot td {
+			padding: 1rem;
+		}
+	}
+
+	&__title {
+		color: var(--color-white);
+	}
+
+	&__social {
+		display: inline-block;
+
+		width: 110px;
+
+		&:hover {
+			background-color: #3b5998; /* facebook blue */
+			border-radius: 50%;
+		}
+	}
+}
