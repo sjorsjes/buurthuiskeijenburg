@@ -21,6 +21,8 @@
     "build:eleventy": "eleventy --input=source --pathprefix='/buurthuiskeijenburg/'"
   },
   "devDependencies": {
+  },
+  "dependencies": {
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-navigation": "^0.1.4",
     "cross-env": "^7.0.0",
@@ -39,6 +41,5 @@
     "postcss-nested": "^4.2.1",
     "stylelint": "^13.0.0",
     "stylelint-config-vi": "^2.0.0"
-  },
-  "dependencies": {}
+  }
 }
