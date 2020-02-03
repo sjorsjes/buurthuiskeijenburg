@@ -28,35 +28,35 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "activiteiten/AED/index.html",
-    "revision": "25086dac8393f8919797f6f383a3b8f0"
+    "revision": "f30839db1824e62e496f718e81ed062b"
   },
   {
     "url": "activiteiten/boekenkast/index.html",
-    "revision": "45944176718aff43fce974d97aa721e0"
+    "revision": "f88774e61aee405a2af41fb7578417ed"
   },
   {
     "url": "activiteiten/index.html",
-    "revision": "80682ce5b9cb5e6e459f8a8728231f6c"
+    "revision": "2a2436d1aece2f0d10b8d13b6adebcac"
   },
   {
     "url": "activiteiten/kleding-inzamelen/index.html",
-    "revision": "2f57f4259ddeb2d927ae287bed707b88"
+    "revision": "de466febb22307bece472c5dafdb503d"
   },
   {
     "url": "activiteiten/prikdienst-diagnostiek-brabant/index.html",
-    "revision": "59ce3c5ac562ce675d59d2cf79dd8548"
+    "revision": "0801ca99ac8784d4de959aa4582109c5"
   },
   {
     "url": "activiteiten/soepuurtje/index.html",
-    "revision": "ae50ded6fa3a9df5319abc5d079c9697"
+    "revision": "d93bc6a2b010ec67a978dbd0e6d89a13"
   },
   {
     "url": "activiteiten/wijktafel-burgerhout/index.html",
-    "revision": "dd87a2f97636fe4f5544ab56b078553c"
+    "revision": "9737bae2cb208abb0dc53f082f26e05a"
   },
   {
     "url": "contact/index.html",
-    "revision": "9327236af1df75febcb81db33207a070"
+    "revision": "2781ec20f385328e91c976d076e7bd29"
   },
   {
     "url": "favicon.ico",
@@ -64,79 +64,79 @@ self.__precacheManifest = [
   },
   {
     "url": "fotoalbums/2019/burendag/index.html",
-    "revision": "ec6f7d815fe8f440de4f56edc9ec95d1"
+    "revision": "7dd08755cdd905418aa89f1cc06fb228"
   },
   {
     "url": "fotoalbums/2019/creaveres-wintermarkt/index.html",
-    "revision": "32e1edb518f0f116864691212450bfea"
+    "revision": "f61417cc5967832c37c9b6ab4b1369fa"
   },
   {
     "url": "fotoalbums/2019/dansmiddag/index.html",
-    "revision": "46f57105b2c0d257225888057b3491cc"
+    "revision": "078dd1a1af783ff3e69c0fc433310155"
   },
   {
     "url": "fotoalbums/2019/keikesbal/index.html",
-    "revision": "f5f3bcfc30aca6a59a908310b8313306"
+    "revision": "092e96b5ddbcea58329f8635815e0034"
   },
   {
     "url": "fotoalbums/2019/korenmiddag/index.html",
-    "revision": "6c4f656fbfd7c6823908bc2246e4f1d4"
+    "revision": "a71ede02561e77d1b23755cb7bd9512a"
   },
   {
     "url": "fotoalbums/2019/sport-en-spel-middag/index.html",
-    "revision": "8a2547d941a6fd21300d182df7c61d0f"
+    "revision": "a3a94b1d8a5dea0ed3043b702a04f8d1"
   },
   {
     "url": "fotoalbums/2019/ut-groot-keijenbal/index.html",
-    "revision": "c8f8aed9d038a95319882bf88039328f"
+    "revision": "d99e64cd63bef3c7d89dd3b5942b4cff"
   },
   {
     "url": "fotoalbums/2019/veerkampjes-glamour-bingo/index.html",
-    "revision": "e98756b89447c711417f1607407e6835"
+    "revision": "43a323e668f11c29405c33914248b1d5"
   },
   {
     "url": "fotoalbums/2019/vrijwilligers-uitje/index.html",
-    "revision": "4022e6561f5874bd858ea922b22f1997"
+    "revision": "a65e4a60183189659de89888a243a540"
   },
   {
     "url": "fotoalbums/index.html",
-    "revision": "004debd9fa83346661b112cf250f1e25"
+    "revision": "36772ba2318862fe4e59e24c34d12715"
   },
   {
     "url": "het-team/index.html",
-    "revision": "3c986b45c8acce50c07dbea9f7f13da3"
+    "revision": "3ab9001515ab7ace9122ecc93329363e"
   },
   {
     "url": "index.html",
-    "revision": "1440b6d221b2c9733f9450f481f0a2be"
+    "revision": "639c62e9cac47a6db288eb59d7a01b72"
   },
   {
     "url": "keijenburg/algemene-verordening-gegevensbescherming/index.html",
-    "revision": "dd4417b567cd6b2d99c9182c28d13cb0"
+    "revision": "6ddb8184d3a5bd1d016cb4f799969ef0"
   },
   {
     "url": "keijenburg/historie/index.html",
-    "revision": "699b521f2d2649d8d82a651aaa2d0282"
+    "revision": "43fc627bd4497394bd1730cb271ad0b9"
   },
   {
     "url": "keijenburg/huisregels/index.html",
-    "revision": "c7443f7a4f05e1da3104d4891e6feac3"
+    "revision": "885df43370e811512081954100f7b293"
   },
   {
     "url": "keijenburg/in-het-nieuws/index.html",
-    "revision": "c2b8fa540d71599dbb41953576f385d5"
+    "revision": "56d681aa8185672ba068bd5fff362adf"
   },
   {
     "url": "keijenburg/index.html",
-    "revision": "83efbdad3d13349ba6d9310782d8e845"
+    "revision": "2bcf65e35c587a3ec03125d332ccc217"
   },
   {
     "url": "keijenburg/openingstijden/index.html",
-    "revision": "87041459e88493d18929d9e9e717acb5"
+    "revision": "811bd00d613900a56e99e8bbe159290d"
   },
   {
     "url": "lib/css/main.min.css",
-    "revision": "c1af6ac37764d304fcaf6e9f5d5959d7"
+    "revision": "c3030c33a19762edf50b48ffc482d986"
   },
   {
     "url": "lib/img/content/aed-keijenburg.jpg",
@@ -584,111 +584,111 @@ self.__precacheManifest = [
   },
   {
     "url": "verenigingen/biljartclub-keijenburg75/index.html",
-    "revision": "22cdbae49ef6a6d48e43cfef57549474"
+    "revision": "a4a259567cdf3bfe64862029dd289ed3"
   },
   {
     "url": "verenigingen/biljartclub-maandag-vrijdagmiddag/index.html",
-    "revision": "422633b2ef1b185669bcf989bc29d39a"
+    "revision": "e1c1443d815098c0c19e38ec96b68f0d"
   },
   {
     "url": "verenigingen/bom-keijenburg/index.html",
-    "revision": "93e74949f8c13c19f68502a49d4675bd"
+    "revision": "f51d6640a3d696d2b8db748bf942afe0"
   },
   {
     "url": "verenigingen/bridgen/index.html",
-    "revision": "17ef176602d0656f5740b8f4dfb2e167"
+    "revision": "fd43e1224c12dc64177224d61c04e5c8"
   },
   {
     "url": "verenigingen/damvereniging-de-schijf/index.html",
-    "revision": "3fc9d1a4b85c7d8b355cfcd9e8eda433"
+    "revision": "76a27f6edff69dd8b29f0448d5f4952b"
   },
   {
     "url": "verenigingen/dansclub-keijenburg/index.html",
-    "revision": "682e611066b8c73368d52612bc6d16c4"
+    "revision": "eabd3bf0e1a47cd55283b0b8ac43ea03"
   },
   {
     "url": "verenigingen/dru-yoga/index.html",
-    "revision": "2ceddcfe38cd8df8c4e6163606235a82"
+    "revision": "fd314ba1c2595d1864d87ae63dd0847f"
   },
   {
     "url": "verenigingen/engelse-les/index.html",
-    "revision": "eea2a0136e82527206ba9d4f9be5b01c"
+    "revision": "f5a6cc38e87199b59cb74483779c57a5"
   },
   {
     "url": "verenigingen/fotowerkgroep-roosendaal/index.html",
-    "revision": "d9a882608d000bc21aee9187ccfa3ead"
+    "revision": "e4616bf2b4649d5320683b27eb3d54f0"
   },
   {
     "url": "verenigingen/index.html",
-    "revision": "b954016ebac3c68416e6c25c90521c35"
+    "revision": "ae2d10c6e519108bb81de4759944e093"
   },
   {
     "url": "verenigingen/instuifavond-vogg/index.html",
-    "revision": "1ba62505f742e74f47a441d1dfcc4a39"
+    "revision": "150ffe927e71512d9f3ca81b8c1a9252"
   },
   {
     "url": "verenigingen/kantklossen/index.html",
-    "revision": "12e89abbff202464c676de0eadc5a108"
+    "revision": "52413170bd17a9e38d1c5d38ccf7dfd8"
   },
   {
     "url": "verenigingen/kbo-roosendaal/index.html",
-    "revision": "304a6d45cabb2ffd15aca50e1e156bb6"
+    "revision": "8f82fc3e9ffdb5b21d8254a5333643b5"
   },
   {
     "url": "verenigingen/komedikato/index.html",
-    "revision": "9eb898feb3174914430491d3e9208f9e"
+    "revision": "8f0e1b94002ee19588f66cb7e514d5e1"
   },
   {
     "url": "verenigingen/lapjesberg/index.html",
-    "revision": "dd2bbe4f193df865aa477b1d20940e10"
+    "revision": "2deb4984faa36b387c09060be21b7e13"
   },
   {
     "url": "verenigingen/meander-koor/index.html",
-    "revision": "e42a9e37773724b100d46b5fdb70c3be"
+    "revision": "3e24b9b7ee5a6d73146b2890d58d41de"
   },
   {
     "url": "verenigingen/meer-bewegen-voor-ouderen/index.html",
-    "revision": "2ab51eb51a58639be1dbdbbf5800256b"
+    "revision": "9d08baf9284e63c19ef5a9bf87afc7d1"
   },
   {
     "url": "verenigingen/nouveau/index.html",
-    "revision": "1e5a716e40d419e1a279f378576119fe"
+    "revision": "249b623182741c01ba43ebc50eb7905a"
   },
   {
     "url": "verenigingen/out-of-line-dancers/index.html",
-    "revision": "654bdb690eb7f88e719a85c359670fc3"
+    "revision": "4a9b106e5897d744a23f528e7c759339"
   },
   {
     "url": "verenigingen/pergamano/index.html",
-    "revision": "c2286049c6a22168574103ec8a71c115"
+    "revision": "23eeccaa2a8a80e7ea4615f5c6a1142f"
   },
   {
     "url": "verenigingen/roosendaals-gemengd-kamerkoor/index.html",
-    "revision": "99a797b886738a522065ab164859882a"
+    "revision": "74a2ee63788bab47b30eb056218bb76f"
   },
   {
     "url": "verenigingen/roosendaals-kamerkoor/index.html",
-    "revision": "defc66d397cd17394c0a391f5d000812"
+    "revision": "b523bf48b5bf0e8dcfd5dea64a88bd3e"
   },
   {
     "url": "verenigingen/schilderclub-kunstkring-2000/index.html",
-    "revision": "98e2b22fd999834939126103a0705b10"
+    "revision": "c68e332a48af528798c3ae27304f4c94"
   },
   {
     "url": "verenigingen/spaanse-les/index.html",
-    "revision": "7a9336042796849ab318033ee33c7d19"
+    "revision": "993f3d7e8fc6797eee92d5cabf241e24"
   },
   {
     "url": "verenigingen/wijkvereniging-ovw8/index.html",
-    "revision": "45b99717ec072c7e8d67e5a15c3e3820"
+    "revision": "e771a81fee56be28295284aa1db0fb12"
   },
   {
     "url": "verenigingen/zeevrouwenkoor-zout-en-zoet/index.html",
-    "revision": "b23e289c92356a484073178f6d953422"
+    "revision": "95fd2bd36d4b279ffd91a53405129f13"
   },
   {
     "url": "zaalverhuur/index.html",
-    "revision": "39292241a0070bbe5b640c9aadf21d55"
+    "revision": "e0355545518eefcf4b071790fcb32ee4"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
