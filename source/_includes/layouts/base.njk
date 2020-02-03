@@ -33,13 +33,13 @@
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 
-	<link rel="manifest" href="/manifest.json" />
+	<link rel="manifest" href="{{ "/" | url }}manifest.json" />
 	<meta name="theme-color" content="#1e283c">
 
 	<meta property="og:title" content="{{ title }}">
 	<meta property="og:url" content="{{ page.url }}">
 	<meta property="og:description" content="">
-	<meta property="og:image" content="{{ visual }}">
+	<meta property="og:image" content="{{ "/" | url }}/lib/img/{{ visual }}">
 
 	<link rel="shortcut icon" href="{{ "/" | url }}favicon.ico" type="image/x-icon">
 	<link rel="icon" href="{{ "/" | url }}favicon.ico" type="image/x-icon">
