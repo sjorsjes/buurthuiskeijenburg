@@ -16,12 +16,7 @@ module.exports = function (config) {
 
 	// Turn off for development
 	if (process.env.NODE_ENV && process.env.NODE_ENV !== 'development') {
-		config.addPlugin(eleventyPWAPlugin, {
-			swDest: "./dist/service-worker.js",
-			globDirectory: "./dist",
-			clientsClaim: true,
-			skipWaiting: true
-		});
+		config.addPlugin(eleventyPWAPlugin);
 	}
 
 	// FILTERS

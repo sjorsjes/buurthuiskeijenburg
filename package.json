@@ -16,9 +16,9 @@
     "debug": "cross-env DEBUG=Eleventy* npm run dev",
     "dev": "cross-env NODE_ENV=development npm-run-all --parallel dev:*",
     "dev:css": "postcss ./source/_statics/css/main.css --map --output ./source/_statics/css/main.min.css --watch true",
-    "dev:eleventy": "eleventy --input=source --output=dist --serve --port=3000",
+    "dev:eleventy": "eleventy --input=source --serve --port=3000",
     "build:css": "postcss ./source/_statics/css/main.css --map --output ./source/_statics/css/main.min.css",
-    "build:eleventy": "eleventy --input=source --output=dist --pathprefix='/buurthuiskeijenburg/'"
+    "build:eleventy": "eleventy --input=source --pathprefix='/buurthuiskeijenburg/'"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
