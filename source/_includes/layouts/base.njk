@@ -47,11 +47,13 @@
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&display=swap" rel="stylesheet">
 	<link href="{{ "/" | url }}lib/css/main.min.css" rel="stylesheet">
 
+{% if env !== "development" %}
 	<script>
 		if ("serviceWorker" in navigator) {
 			navigator.serviceWorker.register("{{ "/" | url }}service-worker.js");
 		}
 	</script>
+{% endif %}
 </head>
 <body>
 	<div class="wrapper">

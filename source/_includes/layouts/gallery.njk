@@ -12,7 +12,7 @@ galleryYears:
 
 	<div class="gallery__list">
 		{% for activity in pagination.items | filterByYear(year) %}
-			<a href="{{ "/" | url }}{{ page.url }}{{ year }}/{{ activity.name | slug }}" class="gallery__list-item">
+			<a href="{{ page.url | url }}{{ year }}/{{ activity.name | slug }}" class="gallery__list-item">
 				<div class="gallery__list-item__title">
 					<h3>{{ activity.name | capitalize }}</h3>
 				</div>

@@ -6,17 +6,34 @@
 
 .call-to-action__wrapper {
 	display: flex;
-	justify-content: space-around;
-	align-items: center;
+	flex-direction: column;
+
+	@media (--medium) {
+		justify-content: space-around;
+		align-items: center;
+
+		flex-direction: row;
+	}
 }
 
 .call-to-action__body {
+	margin-bottom: 1rem;
+
 	color: var(--color-white);
 	font-size: var(--font-size-l);
 	font-weight: bold;
 	line-height: 2;
+
+	@media (--medium) {
+		margin-bottom: 0;
+	}
 }
 
-.call-to-action__button .btn {
-	margin: 0;
+
+.call-to-action__button {
+	text-align: center;
+
+	.btn {
+		margin: 0;
+	}
 }

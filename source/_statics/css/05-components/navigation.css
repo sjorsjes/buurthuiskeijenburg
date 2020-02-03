@@ -38,11 +38,14 @@
 	}
 }
 
-.navigation__list {
+.navigation__scroll {
 	position: absolute;
 	top: 4rem;
 
 	display: none;
+
+	overflow: auto;
+	max-height: 75vh;
 
 	margin: 0 0 0 auto;
 	padding-left: 0;
@@ -50,14 +53,32 @@
 	list-style: none;
 	text-align: center;
 
+	background: linear-gradient(var(--color-green) 30%, rgba(255, 255, 255, 0)),
+		linear-gradient(rgba(255, 255, 255, 0), var(--color-green) 70%) 0 100%,
+		radial-gradient(farthest-side at 50% 0, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)),
+		radial-gradient(farthest-side at 50% 100%, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)) 0 100%;
+
+	background-repeat: no-repeat;
+	background-size: 100% 40px, 100% 40px, 100% 14px, 100% 14px;
+	background-attachment: local, local, scroll, scroll;
+
 	@media (--large) {
 		position: relative;
 		top: auto;
 
 		display: block;
 
+		overflow: visible;
+		max-height: none;
+
 		text-align: left;
+
+		background: none;
 	}
+}
+
+.navigation__list {
+	position: relative;
 }
 
 .navigation__list-item {
@@ -268,110 +289,7 @@
 		}
 	}
 
-	.navigation__list {
+	.navigation__scroll {
 		display: block;
 	}
 }
-
-
-/*
-.navigation__list {
-	position: absolute;
-	top: 5rem;
-	left: -1rem;
-	display: none;
-
-	width: 100%;
-
-	margin: 0;
-	padding: 0;
-
-	list-style: none;
-
-	font-size: var(--font-size-l);
-
-	@media (--large) {
-		position: relative;
-		top: auto;
-		left: auto;
-		display: block;
-
-		width: auto;
-
-		margin-top: 1rem;
-		margin-left: auto;
-
-		font-size: var(--font-size-m);
-	}
-}
-
-.navigation__list-item {
-	margin-top: 1rem;
-
-	text-align: center;
-
-	@media (--large) {
-		display: inline-block;
-
-		text-align: left;
-	}
-}
-
-.navigation__link {
-	padding: 0.5rem 1rem;
-
-	color: var(--color-white);
-	text-decoration: none;
-
-	@media (--large) {
-		padding: 0.5rem;
-
-		color: var(--color-text);
-	}
-
-	&:hover {
-		color: var(--color-black);
-
-		@media (--large) {
-			color: var(--color-green);
-		}
-	}
-
-	&.is-active {
-		position: relative;
-
-		@media (--large) {
-			color: var(--color-green);
-		}
-	}
-
-	&.is-active:before {
-		position: absolute;
-		top: 90%;
-		right: 1rem;
-		left: 1rem;
-
-		height: 2px;
-
-		background-color: var(--color-white);
-
-		content: '';
-
-		@media (--large) {
-			right: auto;
-			left: 50%;
-
-			width: 0;
-			height: 0;
-
-			margin-left: -10px;
-
-			background-color: transparent;
-			border-style: solid;
-			border-width: 0 15px 15px;
-			border-color: transparent transparent #2db5ae;
-		}
-	}
-}
- */
-

@@ -18,7 +18,7 @@
 
 	overflow: hidden;
 
-	width: 210px;
+	width: 100%;
 	height: 155px;
 
 	margin: 0.5rem;
@@ -26,6 +26,11 @@
 	&:hover .gallery__list-item__title {
 		background-color: rgba(245, 155, 30, 0.2);
 		border: 2px solid var(--color-yellow);
+	}
+
+	@media(--small) {
+		width: 210px;
+		height: 155px;
 	}
 }
 

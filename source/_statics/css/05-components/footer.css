@@ -3,13 +3,25 @@
 
 	&__wrapper {
 		display: flex;
+		flex-direction: column;
+
+		@media (--medium) {
+			flex-direction: row;
+		}
 	}
 
 	&__item {
-		width: 50%;
-
 		&:first-child {
-			padding-right: 15%;
+			margin-bottom: 1rem;
+		}
+
+		@media (--medium) {
+			width: 50%;
+
+			&:first-child {
+				margin-bottom: 0;
+				padding-right: 15%;
+			}
 		}
 	}
 

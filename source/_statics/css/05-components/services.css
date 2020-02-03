@@ -15,11 +15,19 @@
 }
 
 .services__list-item {
-	width: 100%;
+	width: 50%;
 
-	padding: 1rem;
+	padding: 1rem 0;
 
-	@media (--small) {
+	&:nth-child(odd) {
+		padding-right: 1rem;
+	}
+
+	&:nth-child(even) {
+		padding-left: 1rem;
+	}
+
+	@media (--medium) {
 		width: 50%;
 
 		padding-bottom: 3rem;
@@ -55,6 +63,12 @@
 
 .services__subtitle {
 	margin-bottom: 0;
+
+	white-space: nowrap;
+
+	@media (--medium) {
+		white-space: normal;
+	}
 }
 
 .services__more-information {
