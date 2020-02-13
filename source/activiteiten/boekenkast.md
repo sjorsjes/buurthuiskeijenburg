@@ -1,6 +1,7 @@
 ---
 tags: services
 visual: boekenkast.jpg
+icon: bookmark.png
 title: Boekenkast
 excerpt: Vaak blijven boeken bij u in de kast staan als u ze eenmaal heeft gelezen. En dat vinden wij zonde! Ons idee is om anderen blij te maken met de boeken die u zelf niet meer wilt houden. U mag hier zelf boeken lenen, ruilen of toevoegen.
 ---

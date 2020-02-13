@@ -1,6 +1,7 @@
 ---
 tags: services
 visual: prikpost.jpg
+icon: nurse-female.png
 title: Prikpost
 excerpt: Elke dinsdag van 9.15 tot 9.45 uur verzorgt Diagnostiek Brabant in samenwerking met het Bravis ziekenhuis een prikpost binnen Buurthuis Keijenburg.
 ---
