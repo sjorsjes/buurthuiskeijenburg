@@ -35,7 +35,7 @@ Tevens beschikt deze zaal over een projectiescherm, geluidsinstallatie en microf
 
 ### ½ Toneelzaal (toneelgedeelte)
 
-![½ Toneelzaal (toneelgedeelte)]({{ "/" | url }}lib/img/zalen/toneelzaal-bar.jpg "½ Toneelzaal (toneelgedeelte)")
+![½ Toneelzaal (toneelgedeelte)]({{ "/" | url }}lib/img/zalen/toneelzaal-toneel.jpg "½ Toneelzaal (toneelgedeelte)")
 
 ### Toneel
 Het toneel kan los gehuurd worden als repetitie ruimte voor bijvoorbeeld een toneelvereniging. Tevens kan het toneel gehuurd worden in combinatie met de toneelzaal voor een uitvoering.
@@ -45,8 +45,6 @@ Toneel is voorzien van microfoons en coulissen.
 
 ### Toneelkamertje
 Deze aparte ruimte bevindt zich op het toneel en is voorzien van een toilet. Wordt vaak gebruikt als kleedruimte voor bijvoorbeeld de band bij een optreden.
-
-<< TODO: ADD PHOTO >>
 
 ### Achterzaaltje
 Vergaderruimte/leslokaal tot ongeveer 20 personen, voorzien van een digibord en een whiteboard. 6.40 m. x 5.50 m.
