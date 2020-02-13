@@ -18,7 +18,7 @@
     "dev:css": "postcss ./source/_statics/css/main.css --output ./source/_statics/css/main.min.css --map --watch",
     "dev:eleventy": "eleventy --input=source --serve --watch --port=3000",
     "build:css": "postcss ./source/_statics/css/main.css --map --output ./source/_statics/css/main.min.css",
-    "build:eleventy": "eleventy --input=source --pathprefix='/buurthuiskeijenburg/'"
+    "build:eleventy": "eleventy --input=source"
   },
   "devDependencies": {},
   "dependencies": {
