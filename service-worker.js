@@ -28,7 +28,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "activiteiten/AED/index.html",
-    "revision": "b18053f43906fbad238e60fb316c55a6"
+    "revision": "747bae9fd3f276bfac7fc37c85538f9d"
   },
   {
     "url": "activiteiten/boekenkast/index.html",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
   },
   {
     "url": "contact/index.html",
-    "revision": "ad800cce528be9ca090d59391eb06d9f"
+    "revision": "3b585b77c6673578033a8423949740c0"
   },
   {
     "url": "favicon.ico",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c452fe3f52d8437d1a5cc088d7f94ce2"
+    "revision": "2e82624e43c7640a08b000bd3c1a6d9d"
   },
   {
     "url": "keijenburg/algemene-verordening-gegevensbescherming/index.html",
