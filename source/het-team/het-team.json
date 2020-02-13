@@ -43,12 +43,20 @@
         "image": "team/vrijwilligers/netta.png"
       },
       {
+        "name": "Nordin",
+        "image": "team/anoniem.png"
+      },
+      {
         "name": "Ria",
         "image": "team/vrijwilligers/ria.png"
       },
       {
         "name": "Rina",
         "image": "team/vrijwilligers/rina.png"
+      },
+      {
+        "name": "Wally",
+        "image": "team/vrijwilligers/wally.png"
       }
     ],
     "personeelsleden": [
@@ -71,11 +79,6 @@
         "name": "Piet Bengel",
         "function": "penningmeester",
         "image": "team/bestuur/piet-bengel.png"
-      },
-      {
-        "name": "Joop van der Velden",
-        "function": "secretaris",
-        "image": "team/bestuur/joop-van-der-velden.png"
       },
       {
         "name": "Marcel de Beer",

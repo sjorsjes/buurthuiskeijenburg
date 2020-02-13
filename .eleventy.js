@@ -9,7 +9,7 @@ module.exports = function (config) {
 	config.addLayoutAlias('content-verenigingen', 'layouts/content-verenigingen.njk');
 	config.addLayoutAlias('gallery', 'layouts/gallery.njk');
 	config.addLayoutAlias('gallery-single', 'layouts/gallery-single.njk');
-	config.addLayoutAlias('team', 'layouts/team-detail.njk');
+	config.addLayoutAlias('team', 'layouts/team.njk');
 
 	// PLUGINS
 	config.addPlugin(eleventyNavigationPlugin);
