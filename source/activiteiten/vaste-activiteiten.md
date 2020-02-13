@@ -1,8 +1,8 @@
----
+<!-- ---
 eleventyNavigation:
     parent: Activiteiten
     key: Vaste activiteiten
----
+--- -->
 
 <table class="table table--activity">
     <thead>

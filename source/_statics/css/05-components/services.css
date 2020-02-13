@@ -45,6 +45,9 @@
 	margin: 0 auto 1rem;
 
 	background-color: var(--color-green);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 70%;
 	border-radius: 50%;
 
 	@media (--medium) {

@@ -6,15 +6,14 @@ eleventyNavigation:
 ---
 
 <h2 class="text-center">
-    Namens ons personeel en vrijwilligers<br />
-    wensen wij u het allerbeste in 2020!
+    De vrijwilligers en personeels van buurthuis keijenburg <br /> heten u graag welkom!
 </h2>
 
 <h3 class="text-center" style="margin-bottom: 3rem;">
-    Laten we er samen een mooi jaar van maken; met en voor elkaar.
+    Op dit moment wordt er nog hard aan de website gewerkt.<br />De activiteiten komen zo spoedig mogelijk beschikbaar. <br /><br />Mocht u vragen hebben kunt u altijd <a href="{{ url | '/' }}contact">contact met ons opnemen</a>.
 </h2>
 
 <div class="text-center">
-    <img src="{{ url | '/' }}/lib/img/temp/utgrootkeienbal.jpg" alt="UT Groot Keienbal" />
+    <img src="{{ url | '/' }}lib/img/temp/utgrootkeienbal.jpg" alt="UT Groot Keienbal" />
 </div>
 
