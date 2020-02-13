@@ -28,35 +28,39 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "activiteiten/AED/index.html",
-    "revision": "f30839db1824e62e496f718e81ed062b"
+    "revision": "b18053f43906fbad238e60fb316c55a6"
   },
   {
     "url": "activiteiten/boekenkast/index.html",
-    "revision": "f88774e61aee405a2af41fb7578417ed"
+    "revision": "2cd1ae4ff3e0cf239d6c571b8b97634e"
   },
   {
     "url": "activiteiten/index.html",
-    "revision": "2a2436d1aece2f0d10b8d13b6adebcac"
+    "revision": "827ce14ef7af428f0e838f034c6d420d"
   },
   {
     "url": "activiteiten/kleding-inzamelen/index.html",
-    "revision": "de466febb22307bece472c5dafdb503d"
+    "revision": "49b27c0c23213464ba551da3ea7e38db"
   },
   {
     "url": "activiteiten/prikdienst-diagnostiek-brabant/index.html",
-    "revision": "0801ca99ac8784d4de959aa4582109c5"
+    "revision": "9d058b645bcbd0d19ae585385b6c30c7"
   },
   {
     "url": "activiteiten/soepuurtje/index.html",
-    "revision": "d93bc6a2b010ec67a978dbd0e6d89a13"
+    "revision": "7c1b3bad7a77d8588553b009ba688099"
+  },
+  {
+    "url": "activiteiten/vaste-activiteiten/index.html",
+    "revision": "824d93b090dc6fc285f514bc08a4ef88"
   },
   {
     "url": "activiteiten/wijktafel-burgerhout/index.html",
-    "revision": "9737bae2cb208abb0dc53f082f26e05a"
+    "revision": "c613d523ba8b4ab49da9471c07830caa"
   },
   {
     "url": "contact/index.html",
-    "revision": "2781ec20f385328e91c976d076e7bd29"
+    "revision": "ad800cce528be9ca090d59391eb06d9f"
   },
   {
     "url": "favicon.ico",
@@ -64,79 +68,79 @@ self.__precacheManifest = [
   },
   {
     "url": "fotoalbums/2019/burendag/index.html",
-    "revision": "7dd08755cdd905418aa89f1cc06fb228"
+    "revision": "174bb6ec0dfbd9cc369a1929a03d041a"
   },
   {
     "url": "fotoalbums/2019/creaveres-wintermarkt/index.html",
-    "revision": "f61417cc5967832c37c9b6ab4b1369fa"
+    "revision": "e514f12d83b46e27700e3772db7eb59d"
   },
   {
     "url": "fotoalbums/2019/dansmiddag/index.html",
-    "revision": "078dd1a1af783ff3e69c0fc433310155"
+    "revision": "9a6eaf8ef5844748648b1e30653827eb"
   },
   {
     "url": "fotoalbums/2019/keikesbal/index.html",
-    "revision": "092e96b5ddbcea58329f8635815e0034"
+    "revision": "c1578ae07f318a395165145770d1c132"
   },
   {
     "url": "fotoalbums/2019/korenmiddag/index.html",
-    "revision": "a71ede02561e77d1b23755cb7bd9512a"
+    "revision": "662475a5edd05e050890dfe9960afe15"
   },
   {
     "url": "fotoalbums/2019/sport-en-spel-middag/index.html",
-    "revision": "a3a94b1d8a5dea0ed3043b702a04f8d1"
+    "revision": "f0e5d845334c82aaa64962fcfab1aae8"
   },
   {
     "url": "fotoalbums/2019/ut-groot-keijenbal/index.html",
-    "revision": "d99e64cd63bef3c7d89dd3b5942b4cff"
+    "revision": "9ec107a9dec6d4d90c205b3b78c64be7"
   },
   {
     "url": "fotoalbums/2019/veerkampjes-glamour-bingo/index.html",
-    "revision": "43a323e668f11c29405c33914248b1d5"
+    "revision": "3e3aeace6712d5b147f5a9a3ddcb6e27"
   },
   {
     "url": "fotoalbums/2019/vrijwilligers-uitje/index.html",
-    "revision": "a65e4a60183189659de89888a243a540"
+    "revision": "a1ee4e9a68e666728308517dfa72963e"
   },
   {
     "url": "fotoalbums/index.html",
-    "revision": "36772ba2318862fe4e59e24c34d12715"
+    "revision": "44e4abba3dd417ea38a6e1dca99251a0"
   },
   {
     "url": "het-team/index.html",
-    "revision": "3ab9001515ab7ace9122ecc93329363e"
+    "revision": "33b84f0f59c3987f6fe67bff8accafc9"
   },
   {
     "url": "index.html",
-    "revision": "639c62e9cac47a6db288eb59d7a01b72"
+    "revision": "c452fe3f52d8437d1a5cc088d7f94ce2"
   },
   {
     "url": "keijenburg/algemene-verordening-gegevensbescherming/index.html",
-    "revision": "6ddb8184d3a5bd1d016cb4f799969ef0"
+    "revision": "99676fdeafb19c92c3bc19547968e844"
   },
   {
     "url": "keijenburg/historie/index.html",
-    "revision": "43fc627bd4497394bd1730cb271ad0b9"
+    "revision": "25d68edbbbf6ac52c919ae769430402a"
   },
   {
     "url": "keijenburg/huisregels/index.html",
-    "revision": "885df43370e811512081954100f7b293"
+    "revision": "80219b3d0de266396aa3a78f442d863b"
   },
   {
     "url": "keijenburg/in-het-nieuws/index.html",
-    "revision": "56d681aa8185672ba068bd5fff362adf"
+    "revision": "e4b0a22f9898308b886388e30f5c2d2d"
   },
   {
     "url": "keijenburg/index.html",
-    "revision": "2bcf65e35c587a3ec03125d332ccc217"
+    "revision": "f354c42a7d4b02986bcf709d4adb369a"
   },
   {
     "url": "keijenburg/openingstijden/index.html",
-    "revision": "811bd00d613900a56e99e8bbe159290d"
+    "revision": "434dc78880afe3096e087925f2fdfbfb"
   },
   {
     "url": "lib/css/main.min.css",
-    "revision": "c3030c33a19762edf50b48ffc482d986"
+    "revision": "d8d0f85bb0f11ccd0f43c2947c7b978f"
   },
   {
     "url": "lib/img/content/aed-keijenburg.jpg",
@@ -451,10 +455,6 @@ self.__precacheManifest = [
     "revision": "31cfd8be050ededc15690dc0193c96dd"
   },
   {
-    "url": "lib/img/team/bestuur/joop-van-der-velden.png",
-    "revision": "068908fd8ba6b05190bf01737e777cf0"
-  },
-  {
     "url": "lib/img/team/bestuur/krijn-kraak.png",
     "revision": "a7161f31aaeff68dbe40c8c7872ff0fc"
   },
@@ -527,6 +527,10 @@ self.__precacheManifest = [
     "revision": "54dc3beb09583e3f24d6b9d2567482aa"
   },
   {
+    "url": "lib/img/team/vrijwilligers/wally.png",
+    "revision": "0c7e5ce19968d7bf9998a1421729adf1"
+  },
+  {
     "url": "lib/img/zalen/achterzaaltje.jpg",
     "revision": "0f3e05581f62f407f668af4eade86009"
   },
@@ -584,111 +588,111 @@ self.__precacheManifest = [
   },
   {
     "url": "verenigingen/biljartclub-keijenburg75/index.html",
-    "revision": "a4a259567cdf3bfe64862029dd289ed3"
+    "revision": "812b1b6fdb245007889d3bb7c897a323"
   },
   {
     "url": "verenigingen/biljartclub-maandag-vrijdagmiddag/index.html",
-    "revision": "e1c1443d815098c0c19e38ec96b68f0d"
+    "revision": "ab48828f10c5b24afb187623b173524d"
   },
   {
     "url": "verenigingen/bom-keijenburg/index.html",
-    "revision": "f51d6640a3d696d2b8db748bf942afe0"
+    "revision": "9ae4cdcebe202ba50e90bac9e4514d71"
   },
   {
     "url": "verenigingen/bridgen/index.html",
-    "revision": "fd43e1224c12dc64177224d61c04e5c8"
+    "revision": "0593462b384b7126705f367dd32ae08a"
   },
   {
     "url": "verenigingen/damvereniging-de-schijf/index.html",
-    "revision": "76a27f6edff69dd8b29f0448d5f4952b"
+    "revision": "74ec5914f8cfaf59f2392ce91e1c632c"
   },
   {
     "url": "verenigingen/dansclub-keijenburg/index.html",
-    "revision": "eabd3bf0e1a47cd55283b0b8ac43ea03"
+    "revision": "7462118172c8375474e80474e1afb957"
   },
   {
     "url": "verenigingen/dru-yoga/index.html",
-    "revision": "fd314ba1c2595d1864d87ae63dd0847f"
+    "revision": "3fb115aa070b526c2b4bd8e4f50fc2ec"
   },
   {
     "url": "verenigingen/engelse-les/index.html",
-    "revision": "f5a6cc38e87199b59cb74483779c57a5"
+    "revision": "03cfafae66ed0eb2c6950f361955a8d3"
   },
   {
     "url": "verenigingen/fotowerkgroep-roosendaal/index.html",
-    "revision": "e4616bf2b4649d5320683b27eb3d54f0"
+    "revision": "f9361a02cd8c3819a39d969859363a72"
   },
   {
     "url": "verenigingen/index.html",
-    "revision": "ae2d10c6e519108bb81de4759944e093"
+    "revision": "9a32caaf4798c57198e21b41b9028b76"
   },
   {
     "url": "verenigingen/instuifavond-vogg/index.html",
-    "revision": "150ffe927e71512d9f3ca81b8c1a9252"
+    "revision": "561386173d730504ae79e85d46727e7c"
   },
   {
     "url": "verenigingen/kantklossen/index.html",
-    "revision": "52413170bd17a9e38d1c5d38ccf7dfd8"
+    "revision": "5176ddad405e200697f545db0d44c32f"
   },
   {
     "url": "verenigingen/kbo-roosendaal/index.html",
-    "revision": "8f82fc3e9ffdb5b21d8254a5333643b5"
+    "revision": "1d733dca5ea37b6065ed4788f11bab99"
   },
   {
     "url": "verenigingen/komedikato/index.html",
-    "revision": "8f0e1b94002ee19588f66cb7e514d5e1"
+    "revision": "b3d3f19911cacafd66f71e64ff7a74c5"
   },
   {
     "url": "verenigingen/lapjesberg/index.html",
-    "revision": "2deb4984faa36b387c09060be21b7e13"
+    "revision": "103e390c157328b197e343bd9e16e3eb"
   },
   {
     "url": "verenigingen/meander-koor/index.html",
-    "revision": "3e24b9b7ee5a6d73146b2890d58d41de"
+    "revision": "06f3738ad463e6a28e9c9f0f4a20b30f"
   },
   {
     "url": "verenigingen/meer-bewegen-voor-ouderen/index.html",
-    "revision": "9d08baf9284e63c19ef5a9bf87afc7d1"
+    "revision": "796b50f486c4f90884a2e36037da61a5"
   },
   {
     "url": "verenigingen/nouveau/index.html",
-    "revision": "249b623182741c01ba43ebc50eb7905a"
+    "revision": "4371fa3a63a985c2456a63f13eca8e17"
   },
   {
     "url": "verenigingen/out-of-line-dancers/index.html",
-    "revision": "4a9b106e5897d744a23f528e7c759339"
+    "revision": "3ab71b61c3d0f3fc62f1979070b75c8a"
   },
   {
     "url": "verenigingen/pergamano/index.html",
-    "revision": "23eeccaa2a8a80e7ea4615f5c6a1142f"
+    "revision": "6cbffb1da343a2ca1b636cf48136219c"
   },
   {
     "url": "verenigingen/roosendaals-gemengd-kamerkoor/index.html",
-    "revision": "74a2ee63788bab47b30eb056218bb76f"
+    "revision": "441c1a73b13e2f6381e2177cfbcd7fee"
   },
   {
     "url": "verenigingen/roosendaals-kamerkoor/index.html",
-    "revision": "b523bf48b5bf0e8dcfd5dea64a88bd3e"
+    "revision": "dd43318c2e1ac0b3a9b2ef3943e30c22"
   },
   {
     "url": "verenigingen/schilderclub-kunstkring-2000/index.html",
-    "revision": "c68e332a48af528798c3ae27304f4c94"
+    "revision": "f8526770638613b0c8f4265d3cc2f3fc"
   },
   {
     "url": "verenigingen/spaanse-les/index.html",
-    "revision": "993f3d7e8fc6797eee92d5cabf241e24"
+    "revision": "c6ec44e1b159c6f699f691ea9a1ffb1e"
   },
   {
     "url": "verenigingen/wijkvereniging-ovw8/index.html",
-    "revision": "e771a81fee56be28295284aa1db0fb12"
+    "revision": "367eed5ca5ac94615685a65fe04bd063"
   },
   {
     "url": "verenigingen/zeevrouwenkoor-zout-en-zoet/index.html",
-    "revision": "95fd2bd36d4b279ffd91a53405129f13"
+    "revision": "8812978f2931eb2fd4227840be311e64"
   },
   {
     "url": "zaalverhuur/index.html",
-    "revision": "e0355545518eefcf4b071790fcb32ee4"
+    "revision": "e3b5ead57cd415f31a730d545192c36e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
