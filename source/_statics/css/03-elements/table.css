@@ -1,5 +1,35 @@
 .content {
-	table td {
-		padding: 0 1rem;
+	table td:not(:last-child),
+	table th:not(:last-child) {
+		padding-right: 1rem;
+
+		vertical-align: top;
+	}
+}
+
+.table {
+	width: 100%;
+
+	&--activity {
+		text-align: left;
+
+		border: 1px solid gray;
+
+		td,
+		th {
+			border-bottom: 1px solid gray;
+		}
+
+		tbody th {
+			border-right: 1px solid gray;
+		}
+
+		thead tr th:first-child {
+			text-align: right;
+		}
+
+		tbody th {
+			text-align: right;
+		}
 	}
 }
