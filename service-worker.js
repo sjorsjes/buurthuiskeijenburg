@@ -112,7 +112,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2e82624e43c7640a08b000bd3c1a6d9d"
+    "revision": "671da3e85e2d6012ea178b05d67a28ab"
   },
   {
     "url": "keijenburg/algemene-verordening-gegevensbescherming/index.html",
@@ -529,6 +529,10 @@ self.__precacheManifest = [
   {
     "url": "lib/img/team/vrijwilligers/wally.png",
     "revision": "0c7e5ce19968d7bf9998a1421729adf1"
+  },
+  {
+    "url": "lib/img/temp/utgrootkeienbal.jpg",
+    "revision": "09f5f1efb2675aeb0c5cfa6f40274534"
   },
   {
     "url": "lib/img/zalen/achterzaaltje.jpg",
