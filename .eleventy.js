@@ -26,7 +26,7 @@ module.exports = function (config) {
 
 	// STATICS
 	config.addPassthroughCopy({ './source/_statics/js': 'lib/js' });
-	config.addPassthroughCopy({ './source/_statics/img': 'lib/img' });
+	// config.addPassthroughCopy({ './source/_statics/img': 'lib/img' });
 	config.addPassthroughCopy({ './source/_statics/css/**/*.min.css': 'lib/css' });
 	config.addPassthroughCopy({ './source/manifest.json': 'manifest.json' });
 	config.addPassthroughCopy({ './source/favicon.ico': 'favicon.ico' });
