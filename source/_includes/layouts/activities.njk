@@ -1,0 +1,29 @@
+---
+layout: content
+---
+
+{{ content | safe }}
+
+{% for activity in activities %}
+<div class="activities">
+	<h2 class="activities__day">{{ activity.day }}</h2>
+
+	<ol class="activities__list">
+		{% for part in activity.parts %}
+			<li class="activities__list-item">
+				<div class="activities__part">
+					{{ part.name }}
+				</div>
+
+				<div class="activities__tags">
+				{% for act in part.activities %}
+					<div class="activities__tag">
+						{{ act }}
+					</div>
+				{% endfor %}
+				</div>
+			</li>
+		{% endfor %}
+	</ol>
+</div>
+{% endfor %}

@@ -1,3 +1,80 @@
 {
-  "layout": "content"
+  "layout": "content",
+  "activities": [
+    {
+      "day": "maandag",
+      "parts": [{
+        "name": "ochtend",
+        "activities": ["Biljart W-groep", "Quilting Bee (1ste ma v.d. mnd)"]
+      },
+      {
+        "name": "middag",
+        "activities": ["Biljart Fatima", "Schilderen met Verve", "Kaarten (om de week)", "Engelse les", "Vitale Coalitie Burgerhout (3e ma v.d. maand)", "Wijktafel burgerhout (3e ma v.d. mnd)"]
+      },
+      {
+        "name": "avond",
+        "activities": ["Roosendaals Kamerkoor", "Spaanse les La Tertulia", "Fotowerkgroep Roosendaal"]
+      }]
+    },
+    {
+      "day": "dinsdag",
+      "parts": [{
+        "name": "ochtend",
+        "activities": ["Biljart W-groep", "Koor Zou ten Zoet", "Prikdienst Bravis"]
+      },
+      {
+        "name": "middag",
+        "activities": ["Biljart Keijenburg 75"]
+      },
+      {
+        "name": "avond",
+        "activities": ["Damvereniging de Schijf", "Komedikato", "Vrouwenvereniging Joseph (1x p mnd op di of do)"]
+      }]
+    },
+    {
+      "day": "woensdag",
+      "parts": [{
+        "name": "ochtend",
+        "activities": ["Meer Bewegen Voor Ouderen", "Koersbal", "Lapjesberg", "Soepuurtje"]
+      },
+      {
+        "name": "middag",
+        "activities": ["Biljart W groep", "Linedance DJ Jack", "Pergamano (op afspraak)", "Kaarten"]
+      },
+      {
+        "name": "avond",
+        "activities": ["Schaakclub", "Spaanse les La Tertulia", "Nouveau", "Yoga Lia Kerstens", "VOGG (2e wo v.d. mnd)"]
+      }]
+    },
+    {
+      "day": "donderdag",
+      "parts": [{
+        "name": "ochtend",
+        "activities": ["Biljart W groep", "Spaanse les La Tertulia", "Kantklossen", "Soepuurtje"]
+      },
+      {
+        "name": "middag",
+        "activities": ["Schildersclub Kunstkring 2000", "Biljarten", "KBO (op aanvraag)", "Gymgroep VIB", "Bridge club"]
+      },
+      {
+        "name": "avond",
+        "activities": ["Roosendaals gemengd Koor", "Toneelvereniging Graag gedaan (mrt - okt)", "Vrouwenvereniging Joseph (1x p mnd op di of do)"]
+      }]
+    },
+    {
+      "day": "vrijdag",
+      "parts": [{
+        "name": "ochtend",
+        "activities": ["Bewegen op Muziek", "Smartlappenkoor de Wieken", "Muziekantenrepetitie (1x p mnd)"]
+      },
+      {
+        "name": "middag",
+        "activities": ["Biljart Fatima", "Linedance Lian", "Schilderclub Veraart", "Bingo 55+ (laatste vri v.d. mnd)"]
+      },
+      {
+        "name": "avond",
+        "activities": ["Stijldansen", "Carnavalsband Woensdag Gak’tdag (sept - feb)"]
+      }]
+    }
+  ]
 }

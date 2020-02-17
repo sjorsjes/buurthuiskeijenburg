@@ -13,6 +13,8 @@
 @import './04-objects/container.css';
 @import './04-objects/layout.css';
 
+@import './05-components/activities.css';
+@import './05-components/agenda.css';
 @import './05-components/breadcrumbs.css';
 @import './05-components/buttons.css';
 @import './05-components/call-to-action.css';

@@ -1,0 +1,27 @@
+---
+layout: content
+---
+
+{{ content | safe }}
+
+<div class="agenda">
+	<h2 class="agenda__month">{{ today.month }} {{ today.year }}</h2>
+
+	<ul class="agenda__list">
+	{%- for item in collections.activity | filterByYearAndMonth(today.year, today.numericMonth) -%}
+		<li class="agenda__list-item">
+			<a href="{{ item.url }}" class="agenda__link{% if item.isToday %} is-today{% endif %}">
+				<div class="agenda__date text-center">
+					<div class="agenda__date-number">{{ item.date | formatNumericDay }}</div>
+					<div class="agenda__date-day">{{ item.date | formatDay }}</div>
+				</div>
+
+				<div class="agenda__description">
+					<span class="agenda__title">{{ item.data.title }}</span>
+					<small class="text-muted">{{ item.data.time }}</small>
+				</div>
+			</a>
+		</li>
+	{%- endfor -%}
+	</ul>
+</div>

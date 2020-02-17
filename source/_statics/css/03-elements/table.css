@@ -9,27 +9,4 @@
 
 .table {
 	width: 100%;
-
-	&--activity {
-		text-align: left;
-
-		border: 1px solid gray;
-
-		td,
-		th {
-			border-bottom: 1px solid gray;
-		}
-
-		tbody th {
-			border-right: 1px solid gray;
-		}
-
-		thead tr th:first-child {
-			text-align: right;
-		}
-
-		tbody th {
-			text-align: right;
-		}
-	}
 }
