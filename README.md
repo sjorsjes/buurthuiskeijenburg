@@ -28,3 +28,16 @@ time: 19:00 - 21:00
 - [Resize de foto's naar een breedte van max 800px](https://bulkresizephotos.com/en?resize_type=width&resize_value=800)
 - Voeg hier een nieuwe map toe en plaats de fotos
 - Indien nodig, bij een nieuw jaar, voeg een nieuw jaartal toe aan `galleryYears` in `/source/fotoalbums/fotoalbums.md`
+
+
+# Verenigingen
+## Toevoegen van een vereniging
+
+- Maak een nieuw bestand aan in de map `/source/verenigingen`
+- Kopieer onderstaande tekst en plak dit in het bestand:
+---
+eleventyNavigation:
+    parent: Verenigingen
+    key: naam van de vereniging
+---
+- Vervolgens kan je daar onder het verhaal van de vereniging plaatsen

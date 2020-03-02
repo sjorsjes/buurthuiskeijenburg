@@ -18,7 +18,11 @@ layout: content
 				<div class="activities__tags">
 				{% for act in part.activities %}
 					<div class="activities__tag">
-						{{ act }}
+						{% if act.url %}
+							<a href="{{ "/" | url }}{{ act.url }}">{{ act.name }}</a>
+						{% else %}
+							{{ act.name }}
+						{% endif %}
 					</div>
 				{% endfor %}
 				</div>

@@ -5,75 +5,142 @@
       "day": "maandag",
       "parts": [{
         "name": "ochtend",
-        "activities": ["Biljart W-groep", "Quilting Bee (1ste ma v.d. mnd)"]
+        "activities": [
+          { "name": "Biljart W-groep" },
+          { "name": "Quilting Bee (1ste ma v.d. mnd)" }
+        ]
       },
       {
         "name": "middag",
-        "activities": ["Biljart Fatima", "Schilderen met Verve", "Kaarten (om de week)", "Engelse les", "Vitale Coalitie Burgerhout (3e ma v.d. maand)", "Wijktafel burgerhout (3e ma v.d. mnd)"]
+        "activities": [
+          { "name": "Biljart Fatima", "url": "verenigingen/biljartclub-maandag-vrijdagmiddag/" },
+          { "name": "Schilderen met Verve" },
+          { "name": "Kaarten (om de week)" },
+          { "name": "Engelse les", "url": "verenigingen/engelse-les/" },
+          { "name": "Vitale Coalitie Burgerhout (3e ma v.d. maand)" },
+          { "name": "Wijktafel burgerhout (3e ma v.d. mnd)", "url": "activiteiten/wijktafel-burgerhout/"}
+        ]
       },
       {
         "name": "avond",
-        "activities": ["Roosendaals Kamerkoor", "Spaanse les La Tertulia", "Fotowerkgroep Roosendaal"]
+        "activities": [
+          { "name": "Roosendaals Kamerkoor", "url": "verenigingen/roosendaals-kamerkoor/" },
+          { "name": "Spaanse les La Tertulia" },
+          { "name": "Fotowerkgroep Roosendaal", "url": "verenigingen/fotowerkgroep-roosendaal/" }
+        ]
       }]
     },
     {
       "day": "dinsdag",
       "parts": [{
         "name": "ochtend",
-        "activities": ["Biljart W-groep", "Koor Zou ten Zoet", "Prikdienst Bravis"]
+        "activities": [
+          { "name": "Biljart W-groep"},
+          { "name": "Zeevrouwenkoor Zout en Zoet", "url": "verenigingen/zeevrouwenkoor-zout-en-zoet/" },
+          { "name": "Prikdienst Bravis", "url": "activiteiten/prikdienst-diagnostiek-brabant/" }
+        ]
       },
       {
         "name": "middag",
-        "activities": ["Biljart Keijenburg 75"]
+        "activities": [
+          { "name": "Biljart Keijenburg 75", "url": "verenigingen/biljartclub-keijenburg75/" }
+        ]
       },
       {
         "name": "avond",
-        "activities": ["Damvereniging de Schijf", "Komedikato", "Vrouwenvereniging Joseph (1x p mnd op di of do)"]
+        "activities": [
+          { "name": "Damvereniging de Schijf", "url": "verenigingen/damvereniging-de-schijf/" },
+          { "name": "Komedikato", "url": "verenigingen/komedikato/" },
+          { "name": "Vrouwenvereniging Joseph (1x p mnd op di of do)" }
+        ]
       }]
     },
     {
       "day": "woensdag",
       "parts": [{
         "name": "ochtend",
-        "activities": ["Meer Bewegen Voor Ouderen", "Koersbal", "Lapjesberg", "Soepuurtje"]
+        "activities": [
+          { "name": "Meer Bewegen Voor Ouderen", "url": "verenigingen/meer-bewegen-voor-ouderen/" },
+          { "name": "Koersbal" },
+          { "name": "Lapjesberg", "url": "verenigingen/lapjesberg/" },
+          { "name": "Soepuurtje", "url": "activiteiten/soepuurtje/" }
+        ]
       },
       {
         "name": "middag",
-        "activities": ["Biljart W groep", "Linedance DJ Jack", "Pergamano (op afspraak)", "Kaarten"]
+        "activities": [
+          { "name": "Biljart W groep" },
+          { "name": "Linedance DJ Jack" },
+          { "name": "Pergamano (op afspraak)", "url": "verenigingen/pergamano/" },
+          { "name": "Kaarten" }
+        ]
       },
       {
         "name": "avond",
-        "activities": ["Schaakclub", "Spaanse les La Tertulia", "Nouveau", "Yoga Lia Kerstens", "VOGG (2e wo v.d. mnd)"]
+        "activities": [
+          { "name": "Schaakclub" },
+          { "name": "Spaanse les La Tertulia" },
+          { "name": "Nouveau", "url": "verenigingen/nouveau/" },
+          { "name": "Dru Yoga", "url": "verenigingen/dru-yoga/" },
+          { "name": "VOGG (2e wo v.d. mnd)" }
+        ]
       }]
     },
     {
       "day": "donderdag",
       "parts": [{
         "name": "ochtend",
-        "activities": ["Biljart W groep", "Spaanse les La Tertulia", "Kantklossen", "Soepuurtje"]
+        "activities": [
+          { "name": "Biljart W groep" },
+          { "name": "Spaanse les La Tertulia" },
+          { "name": "Kantklossen", "url": "verenigingen/kantklossen/" },
+          { "name": "Soepuurtje", "url": "activiteiten/soepuurtje/" }
+        ]
       },
       {
         "name": "middag",
-        "activities": ["Schildersclub Kunstkring 2000", "Biljarten", "KBO (op aanvraag)", "Gymgroep VIB", "Bridge club"]
+        "activities": [
+          { "name": "Schildersclub Kunstkring 2000", "url": "verenigingen/schilderclub-kunstkring-2000/" },
+          { "name": "Biljarten" },
+          { "name": "KBO (op aanvraag)" },
+          { "name": "Gymgroep VIB" },
+          { "name": "Bridge club", "url": "verenigingen/bridgen/" }
+        ]
       },
       {
         "name": "avond",
-        "activities": ["Roosendaals gemengd Koor", "Toneelvereniging Graag gedaan (mrt - okt)", "Vrouwenvereniging Joseph (1x p mnd op di of do)"]
+        "activities": [
+          { "name": "Roosendaals gemengd Koor", "url": "verenigingen/roosendaals-gemengd-kamerkoor/" },
+          { "name": "Toneelvereniging Graag gedaan (mrt - okt)" },
+          { "name": "Vrouwenvereniging Joseph (1x p mnd op di of do)" }
+        ]
       }]
     },
     {
       "day": "vrijdag",
       "parts": [{
         "name": "ochtend",
-        "activities": ["Bewegen op Muziek", "Smartlappenkoor de Wieken", "Muziekantenrepetitie (1x p mnd)"]
+        "activities": [
+          { "name": "Bewegen op Muziek Keijenburg", "url": "verenigingen/bom-keijenburg/" },
+          { "name": "Smartlappenkoor de Wieken" },
+          { "name": "Muziekantenrepetitie (1x p mnd)" }
+        ]
       },
       {
         "name": "middag",
-        "activities": ["Biljart Fatima", "Linedance Lian", "Schilderclub Veraart", "Bingo 55+ (laatste vri v.d. mnd)"]
+        "activities": [
+          { "name": "Biljart Fatima", "url": "verenigingen/biljartclub-maandag-vrijdagmiddag/" },
+          { "name": "Out of Line Dancers", "url": "verenigingen/out-of-line-dancers/" },
+          { "name": "Schilderclub Veraart" },
+          { "name": "Bingo 55+ (laatste vri v.d. mnd)" }
+        ]
       },
       {
         "name": "avond",
-        "activities": ["Stijldansen", "Carnavalsband Woensdag Gak’tdag (sept - feb)"]
+        "activities": [
+          { "name": "Stijldansen" },
+          { "name": "Carnavalsband Woensdag Gak’tdag (sept - feb)", "url": "verenigingen/woensdag-gaktdag/" }
+        ]
       }]
     }
   ]

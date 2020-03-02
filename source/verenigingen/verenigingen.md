@@ -9,4 +9,5 @@ Keijenburg is trots op zijn verenigingen! We huisvesten een hoop verenigingen di
 
 Heeft u interesse in een van deze verenigingen? U bent harte welkom eens kennis te komen maken en mee te doen. Klik voor meer informatie op de vereniging naar uw keuze.
 
-Bent u op zoek naar een locatie voor uw vereniging? [Neem dan contact op met Anne-Belle Jongmans](/contact).
+Bent u op zoek naar een locatie voor uw vereniging?  
+[Neem dan contact op met Anne-Belle Jongmans](/contact).

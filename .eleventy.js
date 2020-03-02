@@ -4,13 +4,14 @@ const eleventyPWAPlugin = require("eleventy-plugin-pwa");
 const filterByYear = require('./filters/filterByYear');
 const filterByYearAndMonth = require('./filters/filterByYearAndMonth');
 const { formatDay, formatNumericDay, formatMonth, formatYear } = require('./filters/formatDate');
+const sortByTitle = require('./filters/filterSortByTitle');
 
 module.exports = function (config) {
 	// LAYOUTS
 	config.addLayoutAlias('base', 'layouts/base.njk');
 	config.addLayoutAlias('home', 'layouts/home.njk');
 	config.addLayoutAlias('content', 'layouts/content.njk');
-	config.addLayoutAlias('content-verenigingen', 'layouts/content-verenigingen.njk');
+	config.addLayoutAlias('content-verenigingen', 'layouts/verenigingen.njk');
 	config.addLayoutAlias('gallery', 'layouts/gallery.njk');
 	config.addLayoutAlias('gallery-single', 'layouts/gallery-single.njk');
 	config.addLayoutAlias('team', 'layouts/team.njk');
@@ -32,6 +33,7 @@ module.exports = function (config) {
 	config.addNunjucksFilter('formatNumericDay', formatNumericDay);
 	config.addNunjucksFilter('formatMonth', formatMonth);
 	config.addNunjucksFilter('formatYear', formatYear);
+	config.addNunjucksFilter('sortByTitle', sortByTitle);
 
 	// https://github.com/pdehaan/11ty-wordpress-permalinks
 	config.addFilter('post_permalink', page => {
