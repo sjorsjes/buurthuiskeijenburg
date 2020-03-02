@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 
 <h2 class="text-center">
-    De vrijwilligers en personeels van buurthuis keijenburg <br /> heten u graag welkom!
+    De vrijwilligers en personeel van buurthuis keijenburg <br /> heten u graag welkom!
 </h2>
 
 <h3 class="text-center" style="margin-bottom: 3rem;">
