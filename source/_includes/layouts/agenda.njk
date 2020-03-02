@@ -1,27 +1,39 @@
 ---
 layout: content
 ---
+{% set items = collections.activity | filterByYearAndMonth(today.year, today.numericMonth) %}
 
 {{ content | safe }}
 
 <div class="agenda">
 	<h2 class="agenda__month">{{ today.month }} {{ today.year }}</h2>
 
-	<ul class="agenda__list">
-	{%- for item in collections.activity | filterByYearAndMonth(today.year, today.numericMonth) -%}
-		<li class="agenda__list-item">
-			<a href="{{ item.url }}" class="agenda__link{% if item.isToday %} is-today{% endif %}">
-				<div class="agenda__date text-center">
-					<div class="agenda__date-number">{{ item.date | formatNumericDay }}</div>
-					<div class="agenda__date-day">{{ item.date | formatDay }}</div>
-				</div>
+	{% if items.length %}
+		<ul class="agenda__list">
+		{%- for item in collections.activity | filterByYearAndMonth(today.year, today.numericMonth) -%}
+			<li class="agenda__list-item">
+				<a href="{{ item.url }}" class="agenda__link{% if item.isToday %} is-today{% endif %}">
+					<div class="agenda__date text-center">
+						<div class="agenda__date-number">{{ item.date | formatNumericDay }}</div>
+						<div class="agenda__date-day">{{ item.date | formatDay }}</div>
+					</div>
 
-				<div class="agenda__description">
-					<span class="agenda__title">{{ item.data.title }}</span>
-					<small class="text-muted">{{ item.data.time }}</small>
-				</div>
-			</a>
-		</li>
-	{%- endfor -%}
-	</ul>
+					<div class="agenda__description">
+						<span class="agenda__title">{{ item.data.eleventyNavigation.key }}</span>
+						{% if item.data.time %}
+							<small class="text-muted">{{ item.data.time }}</small>
+						{% endif %}
+					</div>
+				</a>
+			</li>
+		{%- endfor -%}
+		</ul>
+	{% else %}
+		<ul class="agenda__list">
+			<li class="agenda__list-item">
+				<span class="agenda__no-items">Op dit moment zijn er nog geen activiteiten bekend.</span>
+			</li>
+		</ul>
+	{% endif %}
+
 </div>

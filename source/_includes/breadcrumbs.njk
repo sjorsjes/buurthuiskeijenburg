@@ -17,7 +17,13 @@
 		{% endif %}
 
 		<li class="breadcrumbs__list-item">
-			<a href="{{ page.url }}" class="breadcrumbs__link">{{ eleventyNavigation.key }}</a>
+			<a href="{{ page.url }}" class="breadcrumbs__link">
+				{% if eleventyNavigation and eleventyNavigation.key %}
+					{{ eleventyNavigation.key }}
+				{% else %}
+					{{ title }}
+				{% endif %}
+			</a>
 		</li>
 	</ul>
 </nav>

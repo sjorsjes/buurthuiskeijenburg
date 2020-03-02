@@ -1,5 +1,5 @@
 {
   "layout": "content",
   "tags": "activity",
-  "permalink": "/activiteiten/agenda/{{ page | post_permalink }}/{{ title | slug }}/"
+  "permalink": "/activiteiten/agenda/{{ page | post_permalink }}/{{ eleventyNavigation.key | slug }}/"
 }

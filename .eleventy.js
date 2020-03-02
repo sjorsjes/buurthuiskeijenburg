@@ -37,8 +37,9 @@ module.exports = function (config) {
 	config.addFilter('post_permalink', page => {
 		const yyyy = page.date.getFullYear();
 		const mm = String(page.date.getMonth() + 1).padStart(2, '0');
+		const dd = String(page.date.getDate() + 1).padStart(2, '0');
 
-		return `${yyyy}/${mm}/`;
+		return `${yyyy}/${mm}/${dd}/`;
 	});
 
 	// STATICS

@@ -12,8 +12,3 @@ eleventyNavigation:
 <h3 class="text-center" style="margin-bottom: 3rem;">
     Op dit moment wordt er nog hard aan de website gewerkt.<br />De activiteiten komen zo spoedig mogelijk beschikbaar. <br /><br />Mocht u vragen hebben kunt u altijd <a href="{{ url | '/' }}contact">contact met ons opnemen</a>.
 </h2>
-
-<div class="text-center">
-    <img src="{{ url | '/' }}lib/img/temp/utgrootkeienbal.jpg" alt="UT Groot Keienbal" />
-</div>
-
