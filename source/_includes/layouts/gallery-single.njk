@@ -34,10 +34,12 @@ layout: base
 		{{ fotoalbum.name | capitalize }}
 	</h1>
 
+	<p>{{ fotoalbum.metadata | capitalize }}</p>
+
 	{{ content | safe }}
 
 	{% for image in fotoalbum.images %}
-		<img src="{{ "/" | url }}lib/img/gallery/{{ fotoalbum.year }}/{{ fotoalbum.name }}/{{ image }}" loading="lazy" alt="" /> <br />
+		<img src="{{ "/" | url }}lib/img/gallery/{{ fotoalbum.year }}/{{ fotoalbum.fullName }}/{{ image }}" loading="lazy" alt="" /> <br />
 	{% endfor %}
 
 	<hr />

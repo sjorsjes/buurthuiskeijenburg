@@ -15,6 +15,14 @@ module.exports = async function () {
 		}));
 
 		return activities.map((activity) => {
+			let [name, metadata] = activity.name.split('__');
+
+			name = name.trim();
+
+			if (metadata) {
+				metadata = metadata.trim();
+			}
+
 			const img = imagesPerActivity.find((act) => {
 				const [key] = Object.keys(act);
 
@@ -23,7 +31,9 @@ module.exports = async function () {
 
 			return {
 				year,
-				name: activity.name,
+				name,
+				fullName: activity.name,
+				metadata,
 				images: img[activity.name]
 			}
 		});

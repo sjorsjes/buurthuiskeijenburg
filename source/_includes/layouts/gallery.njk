@@ -1,8 +1,5 @@
 ---
 layout: content
-
-galleryYears:
-- 2019
 ---
 
 {{ content | safe }}
@@ -16,7 +13,7 @@ galleryYears:
 				<div class="gallery__list-item__title">
 					<h3>{{ activity.name | capitalize }}</h3>
 				</div>
-				<img class="gallery__list-item__img" src="{{ "/" | url }}lib/img/gallery/{{ activity.year }}/{{ activity.name }}/{{ activity.images[0] }}" loading="lazy" width="250"  alt="" />
+				<img class="gallery__list-item__img" src="{{ "/" | url }}lib/img/gallery/{{ activity.year }}/{{ activity.fullName }}/{{ activity.images[0] }}" loading="lazy" width="250"  alt="" />
 			</a>
 		{% endfor %}
 	</div>
