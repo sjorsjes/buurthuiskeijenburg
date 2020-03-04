@@ -34,7 +34,7 @@ layout: base
 		{{ fotoalbum.name | capitalize }}
 	</h1>
 
-	<p>{{ fotoalbum.metadata | capitalize }}</p>
+	<p>{{ fotoalbum.metadata }}</p>
 
 	{{ content | safe }}
 
@@ -44,7 +44,7 @@ layout: base
 
 	<hr />
 
-	<a href="">Terug naar het overzicht</a>
+	<a href="{{ "/" | url }}fotoalbums">Terug naar het overzicht</a>
 </article>
 
 

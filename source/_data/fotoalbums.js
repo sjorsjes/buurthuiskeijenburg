@@ -1,13 +1,13 @@
 const fg = require('fast-glob');
 
 module.exports = async function () {
-	const galleryYears = await fg('source/_statics/img/gallery/*', { objectMode: true, onlyDirectories: true });
+	const galleryYears = await fg('source/fotoalbums/gallery/*', { objectMode: true, onlyDirectories: true });
 
 	const activitiesPerYear = await Promise.all(galleryYears.map(async (yearObj) => {
 		const year = yearObj.name;
-		const activities = await fg(`source/_statics/img/gallery/${year}/*`, { objectMode: true, onlyDirectories: true });
+		const activities = await fg(`source/fotoalbums/gallery/${year}/*`, { objectMode: true, onlyDirectories: true });
 		const imagesPerActivity = await Promise.all(activities.map(async (activity) => {
-			const images = await fg(`source/_statics/img/gallery/${year}/${activity.name}/*`, { objectMode: true });
+			const images = await fg(`source/fotoalbums/gallery/${year}/${activity.name}/*`, { objectMode: true });
 
 			return {
 				[activity.name]: images.map(image => image.name),

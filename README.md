@@ -24,8 +24,8 @@ time: 19:00 - 21:00
 # Fotoalbums
 ## Toevoegen van een fotoalbum
 
-- Het toevoegen van een nieuw album gebeurd in de map `/source/_statics/img/gallery`
-- [Resize de foto's naar een breedte van max 800px](https://bulkresizephotos.com/en?resize_type=width&resize_value=800)
+- Het toevoegen van een nieuw album gebeurd in de map `/source/fotoalbums/gallery`
+- [Resize de foto's naar een breedte van maximaal 800px](https://bulkresizephotos.com/en?resize_type=width&resize_value=800)
 - Voeg hier een nieuwe map toe en plaats de fotos
 - Indien nodig, bij een nieuw jaar, voeg een nieuw jaartal toe aan `galleryYears` in `/source/fotoalbums/fotoalbums.md`
 
