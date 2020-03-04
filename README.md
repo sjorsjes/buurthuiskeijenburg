@@ -1,4 +1,4 @@
-[![buddy pipeline](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/239412/badge.svg?token=88e6b35c51b4c8ac96083698125b4321aab8eb9303524493acff80059aabb5ca "buddy pipeline")](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/239412)
+[![buddy pipeline](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/239412/badge.svg?token=d3d72e8827c58169036184d335bee7d2428430b826818c01148feec9d41db0f6 "buddy manual pipeline")](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/239412) [![buddy pipeline](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/240017/badge.svg?token=d3d72e8827c58169036184d335bee7d2428430b826818c01148feec9d41db0f6 "buddy automatic pipeline")](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/240017)
 
 # Buurthuis Keijenburg
 
@@ -35,9 +35,11 @@ time: 19:00 - 21:00
 
 - Maak een nieuw bestand aan in de map `/source/verenigingen`
 - Kopieer onderstaande tekst en plak dit in het bestand:
+```
 ---
 eleventyNavigation:
     parent: Verenigingen
     key: naam van de vereniging
 ---
+```
 - Vervolgens kan je daar onder het verhaal van de vereniging plaatsen
