@@ -7,7 +7,7 @@ Deployment is triggered after push and every night on the `master` branch using 
 # Activiteiten
 ## Toevoegen van een activiteit
 
-- Maak een nieuw bestand aan in de map `/source/posts`
+- Maak een nieuw bestand aan in de map `/source/activiteiten/agenda`
 - De naam van dit bestand moet de datum van de activiteit zijn `yyyy-mm-dd.md`
 - Kopieer onderstaande tekst en plak dit in het bestand:
 ```
