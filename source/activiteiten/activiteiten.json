@@ -26,7 +26,8 @@
         "activities": [
           { "name": "Roosendaals Kamerkoor", "url": "verenigingen/roosendaals-kamerkoor/" },
           { "name": "Spaanse les La Tertulia" },
-          { "name": "Fotowerkgroep Roosendaal", "url": "verenigingen/fotowerkgroep-roosendaal/" }
+          { "name": "Fotowerkgroep Roosendaal", "url": "verenigingen/fotowerkgroep-roosendaal/" },
+          { "name": "Meander Koor", "url": "verenigingen/meander-koor/" }
         ]
       }]
     },
@@ -50,8 +51,7 @@
         "name": "avond",
         "activities": [
           { "name": "Damvereniging de Schijf", "url": "verenigingen/damvereniging-de-schijf/" },
-          { "name": "Komedikato", "url": "verenigingen/komedikato/" },
-          { "name": "Vrouwenvereniging Joseph (1x p mnd op di of do)" }
+          { "name": "Komedikato", "url": "verenigingen/komedikato/" }
         ]
       }]
     },
@@ -111,8 +111,7 @@
         "name": "avond",
         "activities": [
           { "name": "Roosendaals gemengd Koor", "url": "verenigingen/roosendaals-gemengd-kamerkoor/" },
-          { "name": "Toneelvereniging Graag gedaan (mrt - okt)" },
-          { "name": "Vrouwenvereniging Joseph (1x p mnd op di of do)" }
+          { "name": "Toneelvereniging Graag gedaan (mrt - okt)" }
         ]
       }]
     },
