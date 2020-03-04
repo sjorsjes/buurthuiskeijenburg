@@ -35,9 +35,11 @@ time: 19:00 - 21:00
 
 - Maak een nieuw bestand aan in de map `/source/verenigingen`
 - Kopieer onderstaande tekst en plak dit in het bestand:
+```
 ---
 eleventyNavigation:
     parent: Verenigingen
     key: naam van de vereniging
 ---
+```
 - Vervolgens kan je daar onder het verhaal van de vereniging plaatsen
