@@ -21,7 +21,7 @@ permalink: /
 		<h1 class="services__title text-center">Aanwezig binnen Buurthuis Keijenburg</h1>
 
 		<ul class="services__list">
-			{%- for service in collections.services -%}
+			{%- for service in collections.services | sortByTitle() -%}
 				<li class="services__list-item text-center">
 					<div class="services__icon" style="background-image: url({{ '/' | url }}lib/img/icons/{{ service.data.icon }})"></div>
 

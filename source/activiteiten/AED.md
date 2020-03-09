@@ -3,7 +3,7 @@ tags: services
 visual: aed.jpg
 icon: aed.png
 title: AED
-excerpt: Een AED kan het hart resetten bij ventrikelfibrilleren. Bij een hartstilstand is het gebruik van een AED tijdens het reanimeren heel belangrijk. Naast de hoofdingang van buurthuis Keijenburg vind u onze AED!
+excerpt: Een AED kan het hart resetten bij ventrikelfibrilleren. Naast de hoofdingang van buurthuis Keijenburg vind u onze AED!
 ---
 
 **De AED in de wijk burgerhout vind u naast de hoofdingang van buurthuis Keijenburg en is via een pincode 24 uur per dag bereikbaar!**

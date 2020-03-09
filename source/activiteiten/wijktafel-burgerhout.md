@@ -3,7 +3,7 @@ tags: services
 visual: wijktafel.jpg
 icon: info.png
 title: Wijktafel Burgerhout
-excerpt: Elke 3de maandag van de maand van 16.00 tot 17.00 uur. Hier kunnen bewoners, ondernemers en partners uit Burgerhout maandelijks in gesprek gaan met Politie, WijZijn Roosendaal, Wijkzuster, Alwel en Buurtbeheer Fatima
+excerpt: Elke 3de maandag van de maand kunnen bewoners, ondernemers en partners uit Burgerhout in gesprek gaan met Politie, WijZijn Roosendaal, Wijkzuster, Alwel en Buurtbeheer Fatima
 ---
 
 De wijktafel wordt gehouden van 16:00 - 17:00 uur in buurthuis Keijenburg. Hier kunnen bewoners, ondernemers en partners uit Burgerhout maandelijks in gesprek gaan met:
