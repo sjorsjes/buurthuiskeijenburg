@@ -51,7 +51,8 @@
         "name": "avond",
         "activities": [
           { "name": "Damvereniging de Schijf", "url": "verenigingen/damvereniging-de-schijf/" },
-          { "name": "Komedikato", "url": "verenigingen/komedikato/" }
+          { "name": "Komedikato", "url": "verenigingen/komedikato/" },
+          { "name": "Gezelligheidskoor Doucement", "url": "verenigingen/gezelligheidskoor-doucement/" }
         ]
       }]
     },
