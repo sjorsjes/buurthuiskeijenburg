@@ -7,7 +7,8 @@
         "name": "ochtend",
         "activities": [
           { "name": "Biljart W-groep" },
-          { "name": "Quilting Bee (1ste ma v.d. mnd)" }
+          { "name": "Quilting Bee (1ste ma v.d. mnd)" },
+          { "name": "Prikdienst Diagnovum" }
         ]
       },
       {
@@ -18,15 +19,15 @@
           { "name": "Kaarten (om de week)" },
           { "name": "Engelse les", "url": "verenigingen/engelse-les/" },
           { "name": "Vitale Coalitie Burgerhout (3e ma v.d. maand)" },
-          { "name": "Wijktafel burgerhout (3e ma v.d. mnd)", "url": "activiteiten/wijktafel-burgerhout/"}
+          { "name": "Wijktafel burgerhout (3e ma v.d. mnd)", "url": "activiteiten/wijktafel-burgerhout/"},
+          { "name": "Senioren yoga" }
         ]
       },
       {
         "name": "avond",
         "activities": [
           { "name": "Roosendaals Kamerkoor", "url": "verenigingen/roosendaals-kamerkoor/" },
-          { "name": "Spaanse les La Tertulia" },
-          { "name": "Fotowerkgroep Roosendaal", "url": "verenigingen/fotowerkgroep-roosendaal/" },
+          { "name": "Fotowerkgroep Roosendaal (2e ma v.d. mnd)", "url": "verenigingen/fotowerkgroep-roosendaal/" },
           { "name": "Meander Koor", "url": "verenigingen/meander-koor/" }
         ]
       }]
@@ -38,7 +39,9 @@
         "activities": [
           { "name": "Biljart W-groep"},
           { "name": "Zeevrouwenkoor Zout en Zoet", "url": "verenigingen/zeevrouwenkoor-zout-en-zoet/" },
-          { "name": "Prikdienst Bravis", "url": "activiteiten/prikdienst-diagnostiek-brabant/" }
+          { "name": "Prikdienst Bravis", "url": "activiteiten/prikdienst-diagnostiek-brabant/" },
+          { "name": "Prikdienst Diagnovum" },
+          { "name": "Koersbal" }
         ]
       },
       {
@@ -52,7 +55,8 @@
         "activities": [
           { "name": "Damvereniging de Schijf", "url": "verenigingen/damvereniging-de-schijf/" },
           { "name": "Komedikato", "url": "verenigingen/komedikato/" },
-          { "name": "Gezelligheidskoor Doucement", "url": "verenigingen/gezelligheidskoor-doucement/" }
+          { "name": "Gezelligheidskoor Doucement", "url": "verenigingen/gezelligheidskoor-doucement/" },
+          { "name": "Schotse dansgroep Schiehallion" }
         ]
       }]
     },
@@ -64,7 +68,8 @@
           { "name": "Meer Bewegen Voor Ouderen", "url": "verenigingen/meer-bewegen-voor-ouderen/" },
           { "name": "Koersbal" },
           { "name": "Lapjesberg", "url": "verenigingen/lapjesberg/" },
-          { "name": "Soepuurtje", "url": "activiteiten/soepuurtje/" }
+          { "name": "Soepuurtje", "url": "activiteiten/soepuurtje/" },
+          { "name": "Prikdienst Diagnovum" }
         ]
       },
       {
@@ -72,15 +77,13 @@
         "activities": [
           { "name": "Biljart W groep" },
           { "name": "Linedance DJ Jack" },
-          { "name": "Pergamano (op afspraak)", "url": "verenigingen/pergamano/" },
-          { "name": "Kaarten" }
+          { "name": "Pergamano (op afspraak)", "url": "verenigingen/pergamano/" }
         ]
       },
       {
         "name": "avond",
         "activities": [
-          { "name": "Schaakclub" },
-          { "name": "Spaanse les La Tertulia" },
+          { "name": "Spaanse les Comlex", "url": "verenigingen/spaanse-les-comlex/" },
           { "name": "Nouveau", "url": "verenigingen/nouveau/" },
           { "name": "Dru Yoga", "url": "verenigingen/dru-yoga/" },
           { "name": "VOGG (2e wo v.d. mnd)" }
@@ -93,8 +96,8 @@
         "name": "ochtend",
         "activities": [
           { "name": "Biljart W groep" },
-          { "name": "Spaanse les La Tertulia" },
-          { "name": "Kantklossen", "url": "verenigingen/kantklossen/" },
+          { "name": "Spaanse les Comlex", "url": "verenigingen/spaanse-les-comlex/" },
+          { "name": "Kantklossen (om de week)", "url": "verenigingen/kantklossen/" },
           { "name": "Soepuurtje", "url": "activiteiten/soepuurtje/" }
         ]
       },
@@ -102,8 +105,8 @@
         "name": "middag",
         "activities": [
           { "name": "Schildersclub Kunstkring 2000", "url": "verenigingen/schilderclub-kunstkring-2000/" },
-          { "name": "Biljarten" },
-          { "name": "KBO (op aanvraag)" },
+          { "name": "Biljarten Keijenburg75" },
+          { "name": "KBO (1x p mnd)" },
           { "name": "Gymgroep VIB" },
           { "name": "Bridge club", "url": "verenigingen/bridgen/" }
         ]

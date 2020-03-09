@@ -21,6 +21,9 @@ time: 19:00 - 21:00
 ```
 - Vervolgens kan je daar onder het bericht maken
 
+## Toevoegen van een vaste activiteit
+- Voeg de activiteit toe in `/source/activiteiten/activiteiten.json`
+
 # Fotoalbums
 ## Toevoegen van een fotoalbum
 
