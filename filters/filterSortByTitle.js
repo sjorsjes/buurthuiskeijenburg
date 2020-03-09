@@ -1,7 +1,7 @@
 module.exports = function (array) {
 
 	return array.sort((a, b) => {
-		if (a.data.title) {
+		if (a.data && a.data.title) {
 			if (a.data.title > b.data.title) {
 				return 1;
 			}
@@ -9,7 +9,7 @@ module.exports = function (array) {
 			if (a.data.title < b.data.title) {
 				return -1;
 			}
-		} else {
+		} else if (a.title) {
 			if (a.title > b.title) {
 				return 1;
 			}
@@ -17,6 +17,8 @@ module.exports = function (array) {
 			if (a.title < b.title) {
 				return -1;
 			}
+		} else {
+			return 0;
 		}
 
 		return 0;
