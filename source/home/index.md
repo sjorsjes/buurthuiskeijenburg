@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 
 <h2 class="text-center" style="margin-bottom: 3rem;">
-   Buurthuis Keijenburg is gesloten vanaf woensdag 11 maart tot in ieder geval zondag 22 maart.
+   Buurthuis Keijenburg is gesloten vanaf woensdag 11 maart t/m in ieder geval zondag 22 maart.
 </h2>
 
 <div style="margin-bottom: 3rem;">
