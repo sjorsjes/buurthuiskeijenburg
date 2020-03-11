@@ -5,14 +5,24 @@ eleventyNavigation:
     order: 1
 ---
 
-<h2 class="text-center">
-    Alle vrijwilligers en personeelsleden van buurthuis keijenburg <br /> heten u graag welkom!
+<h2 class="text-center" style="margin-bottom: 3rem;">
+   Buurthuis Keijenburg is gesloten vanaf woensdag 11 maart tot in ieder geval zondag 22 maart.
 </h2>
 
-<h3 class="text-center" style="margin-bottom: 3rem;">
-    Op dit moment wordt er nog hard aan de website gewerkt.<br />
-    Mocht u vragen hebben kunt u altijd <a href="{{ url | '/' }}contact">contact met ons opnemen</a>.
-</h3>
+<div style="margin-bottom: 3rem;">
+<p>Sinds vrijdagavond 6 maart j.l. is er een <a href="https://www.rivm.nl/nieuws/covid-19-nieuwe-aanwijzing-voor-inwonersnoord-brabant">kantelmoment in de richtlijn van het RIVM</a>.</p>
+
+Hierbij willen we u op de hoogte brengen van de aangescherpte maatregel na het laatste advies van het RIVM, dat maandagavond 9 maart is besproken in de Ministeriële Commissie Crisisbeheersing (MCCb).
+
+Vanuit de gemeente wordt geadviseerd om de richtlijn vanuit het RIVM te volgen en aangescherpte maatregelen uit te voeren. Dit houdt concreet in dat mensen bij verkoudheid, hoesten of koorts de sociale contacten beperken en thuis moeten blijven. Oftewel bezoekers, vrijwilligers of werknemers met bovengenoemde
+'ziekteverschijnselen' dienen te worden geweigerd en naar huis worden gestuurd. Daarbij wordt met klem geadviseerd om openbare bijeenkomsten en ontmoetingsactiviteiten (die niet hoogst noodzakelijk zijn) geen doorgang te laten vinden. Dit advies heeft dus zeker betrekking op de activiteiten die in de buurhuizen plaatsvinden. Wij volgen dit advies.
+
+Daarom zal Buurthuis Keijenburg gesloten zijn vanaf woensdag 11 maart tot in ieder geval zondag 22 maart. Nadere berichtgeving volgt op vrijdag 20 maart.
+
+Wij hopen op uw begrip. Ook wij vinden het spijtig te moeten sluiten en al jullie mooie ontmoetingen te moeten annuleren.
+
+Buurthuis Keijenburg
+</div>
 
 <h2 class="text-center">Onze activiteiten</h2>
 
