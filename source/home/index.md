@@ -19,9 +19,10 @@ Vanuit de gemeente wordt geadviseerd om de richtlijn vanuit het RIVM te volgen e
 plaatsvinden.
 
 Wij hopen op uw begrip. Ook wij vinden het spijtig te moeten sluiten en al jullie mooie ontmoetingen te moeten annuleren.
-Ook de prikbost is per 24 Maart gesloten tot nader bericht gesloten; wij verwijzen u naar de centrale prikpost op het dijkcentrum.
+Ook de prikpost is per 24 Maart, tot nader bericht, gesloten; wij verwijzen u graag naar de centrale prikpost op het dijkcentrum.
 
-Buurthuis Keijenburg
+Blijft u altublieft binnen en zorg voor elkaar,
+Team Buurthuis Keijenburg
 </div>
 
 <h2 class="text-center">Onze activiteiten</h2>
