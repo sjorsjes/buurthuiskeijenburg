@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 
 <h2 class="text-center" style="margin-bottom: 3rem;">
-   Buurthuis Keijenburg is wegens het Corona virus tot nadere berichtgeving gesloten; in ieder geval t/m 6 april 2020.
+   Buurthuis Keijenburg is wegens het Corona virus tot nadere berichtgeving gesloten; in ieder geval t/m 1 juni 2020.
 </h2>
 
 <div style="margin-bottom: 3rem;">
@@ -19,7 +19,7 @@ Vanuit de gemeente wordt geadviseerd om de richtlijn vanuit het RIVM te volgen e
 plaatsvinden.
 
 Wij hopen op uw begrip. Ook wij vinden het spijtig te moeten sluiten en al jullie mooie ontmoetingen te moeten annuleren.
-De prikpost zal waarschijnlijk enkel op de dinsdag ochtenden geopend zijn.
+Ook de prikbost is per 24 Maart gesloten tot nader bericht gesloten; wij verwijzen u naar de centrale prikpost op het dijkcentrum.
 
 Buurthuis Keijenburg
 </div>
