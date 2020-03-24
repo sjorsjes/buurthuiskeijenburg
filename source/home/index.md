@@ -22,6 +22,7 @@ Wij hopen op uw begrip. Ook wij vinden het spijtig te moeten sluiten en al julli
 Ook de prikpost is per 24 Maart, tot nader bericht, gesloten; wij verwijzen u graag naar de centrale prikpost op het dijkcentrum.
 
 Blijft u altublieft binnen en zorg voor elkaar,
+
 Team Buurthuis Keijenburg
 </div>
 
