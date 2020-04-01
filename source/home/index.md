@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 
 <h2 class="text-center" style="margin-bottom: 3rem;">
-   Buurthuis Keijenburg is wegens het Corona virus tot nadere berichtgeving gesloten; in ieder geval t/m 1 juni 2020.
+   Buurthuis Keijenburg is wegens het Corona virus tot nadere berichtgeving gesloten; in ieder geval t/m 28 april 2020.
 </h2>
 
 <div style="margin-bottom: 3rem;">
