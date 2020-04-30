@@ -3,11 +3,17 @@ tags: services
 visual: prikpost.jpg
 icon: nurse-female.png
 title: Prikpost
-excerpt: Elke dinsdag van 9.15 tot 9.45 uur verzorgt Diagnostiek Brabant in samenwerking met het Bravis ziekenhuis een prikpost binnen Buurthuis Keijenburg.
+excerpt: Deze prikpost is tijdelijk GESLOTEN vanwege het coronavirus
 ---
 
-Diagnostiek Brabant verzorgt in samenwerking met het Bravis ziekenhuis een prikpost binnen Buurthuis Keijenburg.
+Deze prikpost is tijdelijk GESLOTEN vanwege het coronavirus
 
-Elke dinsdag van 9.15- 9.45 uur.
+U kunt terecht in één van onze kernlocaties
 
-[www.diagnostiekbrabant.nl](https://www.diagnostiekbrabant.nl/) - 088-0075400
+**Gezondheidscentrum Kalsdonk  
+Heilig Hartplein 33  
+Roosendaal**
+
+Dinsdag en donderdag van 08:30 tot 09:30 uur
+
+Als u verkoudheidsklachten of luchtwegklachten heeft, kunt u terecht bij prikpost Dijksteeke, Dijkcentrum 191, Roosendaal maandag tot en met vrijdag van 11:30 tot 12:00 uur.
