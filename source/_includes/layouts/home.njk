@@ -4,10 +4,25 @@ visual: voorgevel.jpg
 permalink: /
 ---
 
-<div class="page_visual page_visual--large" style="background-image: url({{ "/" | url }}lib/img/content/{{ visual }});"></div>
+<div class="page_visual page_visual--large" style="background-image: url({{ "/" | url }}lib/img/content/{{ visual }});">
 
-<article class="content container">
-	{{ content | safe }}
+{% if highlightText %}
+	<a href="{{ "/" | url }}{{ highlightUrl }}" class="highlight" data-content="{{ highlightActionText }}">
+		{{ highlightText }}
+	</a>
+{% endif %}
+
+</div>
+
+<article class="content container text-center">
+	<div class="content__body">
+		{{ content | safe }}
+	</div>
+
+	<h2>Onze activiteiten</h2>
+
+	<a href="{{ "/" | url }}activiteiten/agenda" class="btn">Bekijk de maand agenda</a>
+	<a href="{{ "/" | url }}activiteiten/vaste-activiteiten" class="btn">Bekijk de vaste week activiteiten</a>
 </article>
 
 <!--

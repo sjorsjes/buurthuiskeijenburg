@@ -96,8 +96,16 @@ blockquote {
 }
 
 .content {
+	p + table {
+		margin-top: -1rem;
+	}
+
 	h2 + p {
-		margin-top: calc(var(--distance-xs) * -1);
+		margin-top: var(--distance-s);
+	}
+
+	table + p {
+		margin-top: var(--distance-s);
 	}
 
 	h1:not(.page__title) + p {
@@ -110,10 +118,6 @@ blockquote {
 	}
 
 	@media (--small) {
-		h2 + p {
-			margin-top: calc(var(--distance-m) * -1);
-		}
-
 		h1:not(.page__title) + p {
 			margin-top: calc(var(--distance-m) * -1);
 		}

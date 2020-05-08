@@ -21,6 +21,10 @@
 	}
 }
 
+.content__body {
+	margin-bottom: 3rem;
+}
+
 .main {
 	width: 100%;
 
@@ -28,6 +32,8 @@
 }
 
 .page_visual {
+	position: relative;
+
 	height: 20rem;
 
 	background-repeat: no-repeat;
