@@ -9,7 +9,7 @@ highlightActionText: Bekijk de vacature
 highlightUrl: het-team/vacatures/
 ---
 
-## Buurthuis Keijenburg is wegens het Corona virus tot nadere berichtgeving gesloten; in ieder geval t/m 19 mei 2020.
+## Buurthuis Keijenburg is wegens het Corona virus tot nadere berichtgeving gesloten; in ieder geval t/m 1 juni 2020.
 
 Wij missen jullie!
 
