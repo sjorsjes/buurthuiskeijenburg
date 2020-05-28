@@ -9,23 +9,39 @@ highlightActionText: Bekijk de vacature
 highlightUrl: het-team/vacatures/
 ---
 
-## Buurthuis Keijenburg is wegens het Corona virus tot nadere berichtgeving gesloten; in ieder geval t/m 1 juni 2020.
+### Buurthuis Keijenburg gaat wegens het Corona virus 2 juni gedeeltelijk open.
 
-Wij missen jullie!
+Buurthuis Keijenburg is van oudsher een ontmoetingscentrum, een locatie waar men af kan spreken, koffie kan drinken en met elkaar in contact kan komen en blijven. Nu de regels en adviezen vanuit het RIVM gelukkig weer wat versoepeld worden liggen er vanaf 2 juni weer meer mogelijkheden om terug te werken naar onze oude rol als verbindend element in de wijk. Hier zijn we dan ook ontzettend blij om; we missen het contact met onze mensen, onze verenigingen en onze vrijwilligers enorm. Maar het is uiteraard ook wel spannend, we kunnen helaas nog niet in de toekomst kijken en er zijn nog veel onduidelijkheden. Hoe en wanneer de uiteindelijke situatie bereikt wordt weet niemand maar we hebben er het volste vertrouwen in dat we ons ook in deze tijden er samen doorheen kunnen slaan.
 
-### Corona-virus
-Zoals iedereen, is ook Buurthuis Keijenburg in de ban van het corona-virus. Op woensdag 11-maart j.l. hebben we het moeilijke besluit genomen om op advies van het RIVM en de gemeente Roosendaal tot sluiting van ons buurthuis over te gaan.
-Later werden door een landelijke regeling alle horecagelegenheden in Nederland gesloten. Inmiddels zijn we al weken verder en nog steeds mogen we niet open. Uiteraard staat de gezondheid van iedereen voorop en dat is een klus die we echt met z’n allen moeten klaren.
-Maar juist nu slaat de eenzaamheid toe en zouden we als buurthuis Keijenburg zo graag iets voor jullie betekenen. Helaas is dit niet mogelijk.
+Afgelopen periode hebben we met het bestuur van Keijenburg gekeken naar de mogelijkheden die we kunnen bieden, waarbij we de veiligheid van onze vrijwilligers, personeel, maar zeker ook onze bezoekers vooropstellen.
 
-### Verbouwing en een schoon buurthuis
-Wel proberen we achter de schermen door te gaan binnen het buurthuis. De toiletten worden verbouwd en de buitenboel is geschilderd. Alles wordt grondig schoongemaakt... Al met al zijn we eigenlijk volop bezig om jullie straks hopelijk in
-goede gezondheid weer te mogen verwelkomen binnen ons mooie buurthuis, zodra we de deuren weer mogen openen.
+### Vanaf 2 juni tot en met 10 juli zullen we deels weer opengaan als ontmoetingscentrum. 
+## De ochtend openen we van 9.30 - 11.30 uur en de middag van 13.30 - 15.30 uur. In de grote zaal kunnen we u de gelegenheid bieden om, op veilige afstand van elkaar, toch samen koffie te drinken en met elkaar in contact te zijn. U kunt uw plaats vooraf reserveren. Bij voorkeur per mail. (buurthuis.keijenburg@home.nl) Binnenlopen zonder reservering is helaas niet mogelijk.
+Bij binnenkomst zijn wij verplicht te vragen naar uw gezondheid. Dus blijf bij klachten alstublieft thuis want bij verkoudheid mogen we u niet binnen laten. 
+Uiteraard nog steeds de huidige corona richtlijnen; geen handen schudden, handen wassen, in de elleboog hoesten en ten alle tijden 1,5 meter afstand houden.
+We zullen vanaf 2 Juni dus niet opengaan voor zaalverhuur van clubs, verenigingen, scholingen en vergaderingen. We doen dit uiteraard met pijn in ons hart, echter geheel openen is gewoonweg niet mogelijk door het beperkte aantal mensen dat tegelijkertijd binnen mogen zijn in combinatie met de vele clubs en verenigingen die normaliter wekelijks komen. We begrijpen dat dit besluit een teleurstelling kan zijn en hopen op uw begrip. 
 
-Wij wensen jullie allen een goede gezondheid en veel geluk toe en zien jullie straks graag terug in ons
-gezellige buurthuis.
-\
-\
-Met gezonde groet,  
+We hopen de mensen die daar nu behoefte aan hebben snel weer te mogen begroeten, en we hopen de anderen uiterlijk in september weer te mogen zien! Hopelijk onder soepelere omstandigheden maar vooral in goede gezondheid. Dat is wat ons betreft het belangrijkste en waarom deze maatregelen helaas noodzakelijk zijn.
 
-Team Buurthuis Keijenburg
+Laten we nog even volhouden en elkaar beperkt weer begroeten zodat we hopelijk in september gezond en veilig weer met al onze bezigheden verder kunnen.
+
+Graag tot ziens,
+
+Bestuur Stichting buurthuis Keijenburg.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
