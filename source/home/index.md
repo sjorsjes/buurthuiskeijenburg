@@ -3,10 +3,6 @@ layout: home
 eleventyNavigation:
     key: Home
     order: 1
-
-highlightText: We zijn op zoek naar een secretaris!
-highlightActionText: Bekijk de vacature
-highlightUrl: het-team/vacatures/
 ---
 
 ### Buurthuis Keijenburg vanaf 2 juni 2020 gedeeltelijk open.
@@ -14,6 +10,8 @@ highlightUrl: het-team/vacatures/
 Buurthuis Keijenburg is van oudsher een ontmoetingscentrum, een locatie waar men af kan spreken, koffie kan drinken en met elkaar in contact kan komen en blijven. Nu de regels en adviezen vanuit het RIVM gelukkig weer wat versoepeld worden liggen er vanaf 2 juni weer meer mogelijkheden om terug te werken naar onze oude rol als verbindend element in de wijk. Hier zijn we dan ook ontzettend blij om; we missen het contact met onze mensen, onze verenigingen en onze vrijwilligers enorm. Maar het is uiteraard ook wel spannend, we kunnen helaas nog niet in de toekomst kijken en er zijn nog veel onduidelijkheden. Hoe en wanneer de uiteindelijke situatie bereikt wordt weet niemand maar we hebben er het volste vertrouwen in dat we ons ook in deze tijden er samen doorheen kunnen slaan.
 
 Afgelopen periode hebben we met het bestuur van Keijenburg gekeken naar de mogelijkheden die we kunnen bieden, waarbij we de veiligheid van onze vrijwilligers, personeel, maar zeker ook onze bezoekers vooropstellen.
+
+<a href="{{ '/' | 'url'}}lib/files/corona-protocol-keijenburg-versie-2-juni-2020.pdf" class="btn">Bekijk ons Corona protocol</a>
 
 ### Vanaf 2 juni tot en met 10 juli zullen we deels weer opengaan als ontmoetingscentrum. 
 ## De ochtend openen we van 9.30 - 11.30 uur en de middag van 13.30 - 15.30 uur. In de grote zaal kunnen we u de gelegenheid bieden om, op veilige afstand van elkaar, toch samen koffie te drinken en met elkaar in contact te zijn. U kunt uw plaats vooraf reserveren. Bij voorkeur per mail. (buurthuis.keijenburg@home.nl) Binnenlopen zonder reservering is helaas niet mogelijk.

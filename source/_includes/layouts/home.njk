@@ -6,11 +6,15 @@ permalink: /
 
 <div class="page_visual page_visual--large" style="background-image: url({{ "/" | url }}lib/img/content/{{ visual }});">
 
-{% if highlightText %}
-	<a href="{{ "/" | url }}{{ highlightUrl }}" class="highlight" data-content="{{ highlightActionText }}">
-		{{ highlightText }}
-	</a>
-{% endif %}
+	{% if highlightText %}
+		<a href="{{ "/" | url }}{{ highlightUrl }}" class="highlight" data-content="{{ highlightActionText }}">
+			{{ highlightText }}
+		</a>
+	{% else %}
+		<a href="{{ "/" | url }}lib/files/newsletters/nieuwsbrief-keijenburg-0506-2020.pdf" class="highlight highlight--newsletter" data-content="Bekijk de nieuwsbrief">
+			De nieuwsbrief Mei/Juni is uit!
+		</a>
+	{% endif %}
 
 </div>
 
