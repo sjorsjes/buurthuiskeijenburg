@@ -1,9 +1,11 @@
+require('dotenv').config();
+
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const eleventyPWAPlugin = require("eleventy-plugin-pwa");
 
 const filterByYear = require('./filters/filterByYear');
 const filterByYearAndMonth = require('./filters/filterByYearAndMonth');
-const { formatDay, formatNumericDay, formatMonth, formatYear } = require('./filters/formatDate');
+const { formatDay, formatNumericDay, formatMonth, formatYear, formatDateTime } = require('./filters/formatDate');
 const sortByTitle = require('./filters/filterSortByTitle');
 
 module.exports = function (config) {
@@ -33,6 +35,7 @@ module.exports = function (config) {
 	config.addNunjucksFilter('formatNumericDay', formatNumericDay);
 	config.addNunjucksFilter('formatMonth', formatMonth);
 	config.addNunjucksFilter('formatYear', formatYear);
+	config.addNunjucksFilter('formatDateTime', formatDateTime);
 	config.addNunjucksFilter('sortByTitle', sortByTitle);
 
 	// https://github.com/pdehaan/11ty-wordpress-permalinks

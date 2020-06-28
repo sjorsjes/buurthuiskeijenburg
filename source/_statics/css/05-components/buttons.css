@@ -37,6 +37,21 @@
 		}
 	}
 
+	&--facebook {
+		margin: 0;
+
+		color: var(--color-white);
+
+		background-color: var(--color-facebook);
+		border-color: var(--color-facebook-border);
+
+		&:hover {
+			color: var(--color-white);
+
+			background-color: var(--color-facebook-border);
+		}
+	}
+
 	& + .btn {
 		margin-left: 1rem;
 	}

@@ -22,7 +22,9 @@
     "build:eleventy": "eleventy --input=source",
     "build:cleanup": "rimraf _site/lib/img/2019 && rimraf _site/lib/img/2020 && rimraf _site/activiteiten/activiteiten"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
     "@11ty/eleventy-navigation": "^0.1.5",
@@ -31,6 +33,7 @@
     "cssnano": "^4.1.10",
     "eleventy-plugin-pwa": "^1.0.8",
     "fast-glob": "^3.2.4",
+    "node-fetch": "^2.6.0",
     "npm-run-all": "^4.1.5",
     "postcss": "^7.0.32",
     "postcss-clean": "^1.1.0",
