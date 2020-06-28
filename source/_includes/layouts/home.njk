@@ -29,15 +29,48 @@ permalink: /
 	<a href="{{ "/" | url }}activiteiten/vaste-activiteiten" class="btn">Bekijk de vaste week activiteiten</a>
 </article>
 
-<!--
-<div class="text-center">
-	<< TODO: ADD FACEBOOK NEWS >>
+<div class="facebook">
+	<div class="container">
+		<h1 class="text-center">Facebook</h1>
+
+		<div class="facebook__container">
+			{% for post in facebook %}
+				<div class="facebook__post {% if post.full_picture %}facebook__post--image{% endif %}">
+					<a href="https://www.facebook.com/{{ post.id }}" class="facebook__post-link">
+						<span class="facebook__post-link__text">
+							Bekijk het bericht…
+						</span>
+					</a>
+
+					{% if post.full_picture %}
+						<div class="facebook__post-visual">
+							<img src="{{ post.full_picture }}" alt="" />
+						</div>
+					{% endif %}
+
+					<div class="facebook__post-body">
+						<small class="facebook__post-date">
+							{{ post.created_time | formatDateTime }}
+						</small>
+
+						<div class="facebook__post-content">
+							{{ post.message | truncate(140, false, "…") }}
+						</div>
+					</div>
+				</div>
+
+			{% endfor %}
+		</div>
+
+		<div class="text-center">
+			<a href="https://www.facebook.com/buurthuiskeijenburg/" class="btn btn--facebook">Bekijk alle berichten</a>
+		</div>
+	</div>
 </div>
--->
 
 <div class="services">
 	<div class="container">
-		<h1 class="services__title text-center">Aanwezig binnen Buurthuis Keijenburg</h1>
+		<h1 class="text-center">Aanwezig binnen Buurthuis Keijenburg</h1>
 
 		<ul class="services__list">
 			{%- for service in collections.services | sortByTitle() -%}

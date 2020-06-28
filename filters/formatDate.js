@@ -21,7 +21,9 @@ const format = (dateString) => {
 		numericMonth,
 		day: days.get(weekday),
 		month: months.get(numericMonth),
-		year: new Intl.DateTimeFormat([], yearOptions).format(date)
+		year: new Intl.DateTimeFormat([], yearOptions).format(date),
+		hours: date.getHours(),
+		minutes: date.getMinutes()
 	};
 };
 
@@ -55,11 +57,18 @@ const formatYear = (dateString) => {
 	return year;
 }
 
+const formatDateTime = (dateString) => {
+	const { numericDay, month, year, hours, minutes } = format(dateString);
+
+	return `${hours}:${minutes} ${numericDay} ${month} ${year}`;
+}
+
 module.exports = {
 	format,
 	formatDay,
 	formatNumericDay,
 	formatMonth,
 	formatNumericMonth,
-	formatYear
+	formatYear,
+	formatDateTime,
 }
