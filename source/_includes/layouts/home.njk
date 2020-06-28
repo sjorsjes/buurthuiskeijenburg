@@ -54,7 +54,11 @@ permalink: /
 						</small>
 
 						<div class="facebook__post-content">
-							{{ post.message | truncate(140, false, "…") }}
+							{% if post.full_picture %}
+								{{ post.message | truncate(225, false, "…") }}
+							{% else %}
+								{{ post.message | truncate(500, false, "…") }}
+							{% endif %}
 						</div>
 					</div>
 				</div>
