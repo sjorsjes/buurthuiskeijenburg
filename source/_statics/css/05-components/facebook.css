@@ -63,6 +63,8 @@
 			@media (--large) {
 				grid-row: 1;
 				grid-column: 2/3;
+
+				border-radius: 0 var(--radius-large) var(--radius-large) 0;
 			}
 		}
 	}
@@ -95,6 +97,10 @@
 		object-fit: cover;
 
 		border-radius: var(--radius-large) var(--radius-large) 0 0;
+
+		@media (--large) {
+			border-radius: var(--radius-large) 0 0 var(--radius-large);
+		}
 	}
 }
 
