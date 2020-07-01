@@ -13,23 +13,19 @@ Afgelopen periode hebben we met het bestuur van Keijenburg gekeken naar de mogel
 
 <a href="{{ '/' | 'url'}}lib/files/corona-protocol-keijenburg-versie-2-juni-2020.pdf" class="btn">Bekijk ons Corona protocol</a>
 
-### Vanaf 2 juni tot en met 10 juli zullen we deels weer opengaan als ontmoetingscentrum. 
+### Vanaf 2 juni tot en met 10 juli zijn we deels weer open als ontmoetingscentrum. 
 ## De ochtend openen we van 9.30 - 11.30 uur en de middag van 13.30 - 15.30 uur. In de grote zaal kunnen we u de gelegenheid bieden om, op veilige afstand van elkaar, toch samen koffie te drinken en met elkaar in contact te zijn. U kunt uw plaats vooraf reserveren. Bij voorkeur per mail. (buurthuis.keijenburg@home.nl) Binnenlopen zonder reservering is helaas niet mogelijk.
 Bij binnenkomst zijn wij verplicht te vragen naar uw gezondheid. Dus blijf bij klachten alstublieft thuis want bij verkoudheid mogen we u niet binnen laten. 
 Uiteraard nog steeds de huidige corona richtlijnen; geen handen schudden, handen wassen, in de elleboog hoesten en ten alle tijden 1,5 meter afstand houden.
-We zullen vanaf 2 Juni dus niet opengaan voor zaalverhuur van clubs, verenigingen, scholingen en vergaderingen. We doen dit uiteraard met pijn in ons hart, echter geheel openen is gewoonweg niet mogelijk door het beperkte aantal mensen dat tegelijkertijd binnen mogen zijn in combinatie met de vele clubs en verenigingen die normaliter wekelijks komen. We begrijpen dat dit besluit een teleurstelling kan zijn en hopen op uw begrip. 
 
-We hopen de mensen die daar nu behoefte aan hebben snel weer te mogen begroeten, en we hopen de anderen uiterlijk in september weer te mogen zien! Hopelijk onder soepelere omstandigheden maar vooral in goede gezondheid. Dat is wat ons betreft het belangrijkste en waarom deze maatregelen helaas noodzakelijk zijn.
+Op 25 juni jl. hebben we 2 bijeenkomsten gehouden om met onze verenigingen na te gaan hoe we in september weer samen kunnen komen. Dit resulteert in een samenwerking waarin we per vereniging maatwerk gaan leveren. Meerdere verenigingen hebben namelijk eigen regels opgelegd gekregen vanuit het RIVM.
+We kijken samen naar mogelijkheden ipv onmogelijkheden en zijn bezig met een inventarisatie. In augustus zal er contact zijn om afspraken met elkaar te maken zodat we in september weer veilig kunnen starten met het verenigingsseizoen.
 
-Laten we nog even volhouden en elkaar beperkt weer begroeten zodat we hopelijk in september gezond en veilig weer met al onze bezigheden verder kunnen.
+Wij wenzen een ieder een mooie zomer,
+Buurthuis Keijenburg is van 11 juli tm 31 augustus gesloten wegens zomervakantie en voorbereidingen voor de opening 1 september.
 
-Graag tot ziens,
-
-Bestuur Stichting buurthuis Keijenburg.
-
-
-
-
+Tot dan!
+Team Keijenburg.
 
 
 
