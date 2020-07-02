@@ -19,10 +19,10 @@ Bij binnenkomst zijn wij verplicht te vragen naar uw gezondheid. Dus blijf bij k
 Uiteraard nog steeds de huidige corona richtlijnen; geen handen schudden, handen wassen, in de elleboog hoesten en ten alle tijden 1,5 meter afstand houden.
 
 Op 25 juni jl. hebben we 2 bijeenkomsten gehouden om met onze verenigingen na te gaan hoe we in september weer samen kunnen komen. Dit resulteert in een samenwerking waarin we per vereniging maatwerk gaan leveren. Meerdere verenigingen hebben namelijk eigen regels opgelegd gekregen vanuit het RIVM.
-We kijken samen naar mogelijkheden ipv onmogelijkheden en zijn bezig met een inventarisatie. In augustus zal er contact zijn om afspraken met elkaar te maken zodat we in september weer veilig kunnen starten met het verenigingsseizoen.
+We kijken samen naar mogelijkheden ipv onmogelijkheden en zijn bezig met een inventarisatie. In juli/augustus zal er contact zijn om afspraken met elkaar te maken zodat we in september weer veilig kunnen starten met het verenigingsseizoen.
 
-Wij wenzen een ieder een mooie zomer,
-Buurthuis Keijenburg is van 11 juli tm 31 augustus gesloten wegens zomervakantie en voorbereidingen voor de opening 1 september.
+Wij wensen een ieder een mooie zomer,
+Buurthuis Keijenburg is van 11 juli tm 31 augustus gesloten wegens zomervakantie en voorbereidingen voor de opening op 1 september.
 
 Tot dan!
 Team Keijenburg.
