@@ -2,6 +2,10 @@
 layout: base
 visual: voorgevel.jpg
 permalink: /
+
+highlightText: We zijn op zoek naar een secretaris!
+highlightActionText: Bekijk de vacature
+highlightUrl: het-team/vacatures/
 ---
 
 <div class="page_visual page_visual--large" style="background-image: url({{ "/" | url }}lib/img/content/{{ visual }});">
@@ -10,24 +14,28 @@ permalink: /
 		<a href="{{ "/" | url }}{{ highlightUrl }}" class="highlight" data-content="{{ highlightActionText }}">
 			{{ highlightText }}
 		</a>
-	{% else %}
-		<a href="{{ "/" | url }}lib/files/newsletters/nieuwsbrief-keijenburg-0506-2020.pdf" class="highlight highlight--newsletter" data-content="Bekijk de nieuwsbrief">
-			De nieuwsbrief Mei/Juni is uit!
-		</a>
 	{% endif %}
 
 </div>
 
 <article class="content container text-center">
 	<div class="content__body">
-		{{ content | safe }}
-	</div>
+		{% set activeNewsItem = collections.news[collections.news.length - 1] %}
 
-	<h2>Onze activiteiten</h2>
+		<h1>{{ activeNewsItem.data.title }}</h1>
+
+		{{ activeNewsItem.templateContent | safe }}
+
+		<small class="content__date">{{ activeNewsItem.date | formatNumericDay }} {{ activeNewsItem.date | formatMonth }} {{ activeNewsItem.date | formatYear }}</small>
+	</div>
+</article>
+
+<div class="activities__section text-center">
+	<h1>Onze activiteiten</h1>
 
 	<a href="{{ "/" | url }}activiteiten/agenda" class="btn">Bekijk de maand agenda</a>
 	<a href="{{ "/" | url }}activiteiten/vaste-activiteiten" class="btn">Bekijk de vaste week activiteiten</a>
-</article>
+</div>
 
 <div class="facebook">
 	<div class="container">

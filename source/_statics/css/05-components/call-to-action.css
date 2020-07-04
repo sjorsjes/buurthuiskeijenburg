@@ -2,6 +2,7 @@
 	padding: 2rem;
 
 	background-color: var(--color-purple);
+	border-bottom: 4px solid var(--color-white);
 }
 
 .call-to-action__wrapper {

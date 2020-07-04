@@ -9,8 +9,7 @@
 	max-width: 44rem;
 
 	margin: 0 auto;
-	padding-top: 1rem;
-	padding-bottom: 3rem;
+	padding: 2rem 1rem;
 
 	img {
 		width: auto;
@@ -21,8 +20,13 @@
 	}
 }
 
-.content__body {
-	margin-bottom: 3rem;
+.content__date {
+	display: inline-block;
+
+	margin-top: 1rem;
+	padding: 0.5rem;
+
+	border-top: 1px solid var(--color-yellow);
 }
 
 .main {

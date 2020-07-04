@@ -1,7 +1,6 @@
 require('dotenv').config();
 
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const eleventyPWAPlugin = require("eleventy-plugin-pwa");
 
 const filterByYear = require('./filters/filterByYear');
 const filterByYearAndMonth = require('./filters/filterByYearAndMonth');
@@ -19,14 +18,10 @@ module.exports = function (config) {
 	config.addLayoutAlias('team', 'layouts/team.njk');
 	config.addLayoutAlias('agenda', 'layouts/agenda.njk');
 	config.addLayoutAlias('activities', 'layouts/activities.njk');
+	config.addLayoutAlias('nieuws', 'layouts/nieuws.njk');
 
 	// PLUGINS
 	config.addPlugin(eleventyNavigationPlugin);
-
-	// Turn off for development
-	if (process.env.NODE_ENV && process.env.NODE_ENV !== 'development') {
-		config.addPlugin(eleventyPWAPlugin);
-	}
 
 	// FILTERS
 	config.addNunjucksFilter('filterByYear', filterByYear);
