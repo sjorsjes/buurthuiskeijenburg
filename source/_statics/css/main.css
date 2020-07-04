@@ -24,7 +24,9 @@
 @import './05-components/header.css';
 @import './05-components/highlight.css';
 @import './05-components/navigation.css';
+@import './05-components/news.css';
 @import './05-components/page.css';
+@import './05-components/pagination.css';
 @import './05-components/services.css';
 @import './05-components/team.css';
 

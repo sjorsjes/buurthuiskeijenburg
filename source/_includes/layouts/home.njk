@@ -14,19 +14,19 @@ highlightUrl: het-team/vacatures/
 		<a href="{{ "/" | url }}{{ highlightUrl }}" class="highlight" data-content="{{ highlightActionText }}">
 			{{ highlightText }}
 		</a>
-	{% else %}
-		<a href="{{ "/" | url }}lib/files/newsletters/nieuwsbrief-keijenburg-0506-2020.pdf" class="highlight highlight--newsletter" data-content="Bekijk de nieuwsbrief">
-			De nieuwsbrief Mei/Juni is uit!
-		</a>
 	{% endif %}
 
 </div>
 
 <article class="content container text-center">
 	<div class="content__body">
-		{{ collections.news[0].templateContent | safe }}
+		{% set activeNewsItem = collections.news[collections.news.length - 1] %}
 
-		<small class="content__date">{{ collections.news[0].date | formatNumericDay }} {{ collections.news[0].date | formatMonth }} {{ collections.news[0].date | formatYear }}</small>
+		<h1>{{ activeNewsItem.data.title }}</h1>
+
+		{{ activeNewsItem.templateContent | safe }}
+
+		<small class="content__date">{{ activeNewsItem.date | formatNumericDay }} {{ activeNewsItem.date | formatMonth }} {{ activeNewsItem.date | formatYear }}</small>
 	</div>
 </article>
 

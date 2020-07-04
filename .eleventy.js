@@ -18,8 +18,7 @@ module.exports = function (config) {
 	config.addLayoutAlias('team', 'layouts/team.njk');
 	config.addLayoutAlias('agenda', 'layouts/agenda.njk');
 	config.addLayoutAlias('activities', 'layouts/activities.njk');
-
-	// config.addCollection('news', collection => collection.getFilteredByGlob('./source/news/*').sort((a, b) => a.date - b.date));
+	config.addLayoutAlias('nieuws', 'layouts/nieuws.njk');
 
 	// PLUGINS
 	config.addPlugin(eleventyNavigationPlugin);

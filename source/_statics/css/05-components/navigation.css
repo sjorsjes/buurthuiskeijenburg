@@ -79,6 +79,8 @@
 
 .navigation__list {
 	position: relative;
+
+	padding: 0;
 }
 
 .navigation__list-item {
@@ -138,7 +140,7 @@
 			margin: 1rem 0 0;
 			padding-left: 0;
 
-			background-color: white;
+			background-color: var(--color-white);
 
 			visibility: hidden;
 			opacity: 0;
