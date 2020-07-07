@@ -46,3 +46,16 @@ eleventyNavigation:
 ---
 ```
 - Vervolgens kan je daar onder het verhaal van de vereniging plaatsen
+
+# Keijenburg
+## Toevoegen artikel op "Keijenburg in het nieuws"
+
+
+* In het geval van een foto [upload je deze hier](https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/source/_statics/img/content)
+* Rechtsbovenin staat _"Add file" > "Upload files"_
+
+* [Ga naar de pagina](https://github.com/sjorsjes/buurthuiskeijenburg/blob/master/source/keijenburg/in-het-nieuws.md)
+* Klik op het potlood om de pagina te wijzigen
+* Hier kun je de teksten toevoegen die je wilt
+* Om een plaatje toe te voegen doe je het volgende:
+!["ALT TEKST"]({{ "/" | url }}lib/img/content/BESTANDSNAAM.jpg)Vervang in de bovenste regel BESTANDSNAAM.jpg voor de naam van het plaatje dat je hebt geupload in stap 1Vervang "ALT TEKST" voor een hele korte uitleg wat er te zien is op het plaatje bv. "Krantenknipsel BN de Stem" (let erop dat die "" eromheen moeten blijven)
