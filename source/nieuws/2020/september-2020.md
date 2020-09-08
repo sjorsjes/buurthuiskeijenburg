@@ -5,9 +5,10 @@ tags: news
 title: Alle vrijwilligers en personeelsleden van buurthuis keijenburg heten u graag welkom!
 ---
 
-<h3 class="text-center" style="margin-bottom: 3rem;">
+We zijn blij u weer welkom te mogen heten!
+De verenigingen zijn weer van start en het nieuwe seizoen is dus aangevangen.
+Echter is het helaas nog niet helemaal terug naar wat we gewend waren.
+Uiteraard volgen we mbt het Coronavirus wel de richtlijnen vanuit het RIVM en vragen we u ons protocol goed door te nemen.
+Reserveren is verplicht!
 
-<div class="text-center">
-    <a href="{{ "/" | url }}activiteiten/agenda" class="btn">Bekijk de maand agenda</a> 
-    <a href="{{ "/" | url }}activiteiten/vaste-activiteiten" class="btn">Bekijk de vaste week activiteiten</a>
-</div>
+Tot ziens bij buurthuis Keijenburg.
