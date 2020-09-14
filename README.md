@@ -57,5 +57,31 @@ eleventyNavigation:
 * [Ga naar de pagina](https://github.com/sjorsjes/buurthuiskeijenburg/blob/master/source/keijenburg/in-het-nieuws.md)
 * Klik op het potlood om de pagina te wijzigen
 * Hier kun je de teksten toevoegen die je wilt
-* Om een plaatje toe te voegen doe je het volgende:
-!["ALT TEKST"]({{ "/" | url }}lib/img/content/BESTANDSNAAM.jpg)Vervang in de bovenste regel BESTANDSNAAM.jpg voor de naam van het plaatje dat je hebt geupload in stap 1Vervang "ALT TEKST" voor een hele korte uitleg wat er te zien is op het plaatje bv. "Krantenknipsel BN de Stem" (let erop dat die "" eromheen moeten blijven)
+* Om een plaatje toe te voegen doe je het volgende:  
+`!["ALT TEKST"]({{ "/" | url }}lib/img/content/BESTANDSNAAM.jpg)`  
+Vervang in de bovenste regel `BESTANDSNAAM.jpg` voor de naam van het plaatje dat je hebt geupload in stap 1.  
+Vervang `"ALT TEKST"` voor een hele korte uitleg wat er te zien is op het plaatje bv. `"Krantenknipsel BN de Stem"`.
+
+# Het Team
+## Toevoegen van een medewerker
+
+- Verwijder de achtergrond van het portret m.b.v [deze website](https://www.remove.bg/) en download het plaatje zonder achtergrond
+- Ga naar [Photopea](https://www.photopea.com/), dit is een soort online photoshop
+- Klik op `File > New` in het menu. Links bovenin voor `width: 320 px` en `height: 200 px`. DPI laat je op `72.000` staan en klik op `create`.
+- Klik op `Layer > New > Layer` in het menu.
+- Klik op de `Background` layer die rechts in het Layer panel staat en verwijder deze met je delete of backspace knop.
+- Open het portret dat je in stap 1 hebt gemaakt door bovenin `File > Open & Place` te kiezen.
+- Resize / Verplaats de foto zodat deze een beetje mooi staat uitgelijnd. Zorg ervoor dat er aan de bovenkant van het hoofd wat ruimte over is. Zo'n 10% van de totale hoogte.
+- Wanneer je klaar bent ga je bovenin het menu naar `File > Export as > PNG`. Sla het plaatje ergens op.
+- Ga naar https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/source/_statics/img/team , kies de correcte folder en klik rechtsboven in op `Add file > Upload files` en upload het portret.
+- Bewerk https://github.com/sjorsjes/buurthuiskeijenburg/blob/master/source/het-team/het-team.json en voeg de medewerker toe. Let op: er staat 3 categorieën in dit bestand; `vrijwilligers`, `personeelsleden` en `bestuursleden`.
+
+## Verwijderen van een medewerker
+- Bewerk https://github.com/sjorsjes/buurthuiskeijenburg/blob/master/source/het-team/het-team.json en verwijder de medewerker. Let op: verwijder het hele stuk zoals hieronder
+```
+{
+  "name": "Naam",
+  "image": "team/[category]/naam.png"
+},
+```
+- https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/source/_statics/img/team , kies de correcte folder en medewerker en klik dan op de prullenbak rechts in beeld en vervolgens op `commit changes`.
