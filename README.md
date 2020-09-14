@@ -4,10 +4,20 @@
 
 Deployment is triggered after push and every night on the `master` branch using [Buddy](https://app.buddy.works).
 
+- [ ] homepage updaten
+- [x] dingen op Keijenburg > in het nieuws kunnen plaatsen
+- [ ] fotos toevoegen aan fotoalbum
+- [ ] aanpassen van de foto in de headers
+- [ ] verenigingen kunnen aanvullen
+- [x] agenda kunnen aanvullen
+- [ ] wijzigen activiteit
+- [x] teamleden toevoegen en verwijderen
+- [ ] TOC voor de readme maken
+
 # Activiteiten
 ## Toevoegen van een activiteit
 
-- Maak een nieuw bestand aan in de map `/source/activiteiten/agenda`
+- Maak een nieuw bestand in https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/source/activiteiten/agenda
 - De naam van dit bestand moet de datum van de activiteit zijn `yyyy-mm-dd.md`
 - Kopieer onderstaande tekst en plak dit in het bestand:
 ```
@@ -22,7 +32,7 @@ time: 19:00 - 21:00
 - Vervolgens kan je daar onder het bericht maken
 
 ## Toevoegen van een vaste activiteit
-- Voeg de activiteit toe in `/source/activiteiten/activiteiten.json`
+- Voeg de activiteit toe in https://github.com/sjorsjes/buurthuiskeijenburg/blob/master/source/activiteiten/activiteiten.json
 
 # Fotoalbums
 ## Toevoegen van een fotoalbum
@@ -46,6 +56,10 @@ eleventyNavigation:
 ---
 ```
 - Vervolgens kan je daar onder het verhaal van de vereniging plaatsen
+
+## Verwijderen van een vereniging
+- Ga naar https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/source/verenigingen en verwijder de vereninging
+
 
 # Keijenburg
 ## Toevoegen artikel op "Keijenburg in het nieuws"
