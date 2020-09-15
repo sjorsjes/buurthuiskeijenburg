@@ -4,7 +4,7 @@ eleventyNavigation:
     key: Zaalverhuur
 ---
 
-Keijenburg beschikt over meerdere ruimtes die voor van allerlei functies te gebruiken zijn. Als u kijkt bij de verenigingen ziet u welke diversiteit wij kunnen huisvesten. Daarnaast zijn onze ruimtes door de aanwezige apparatuur ook uitermate geschikt voor vergaderingen, repetities en sociale avonden.
+Keijenburg beschikt over meerdere ruimtes die voor van allerlei functies te gebruiken zijn. Als u kijkt bij de verenigingen ziet u welke diversiteit wij kunnen huisvesten. Daarnaast zijn onze ruimtes door de aanwezige apparatuur ook uitermate geschikt voor vergaderingen, repetities en club avonden. De zalen zijn niet te boeken voor prive / particuliere feesten.
 
 Hier vindt u een overzicht van onze ruimtes.
 Heeft u vragen of interesse in het huren van een van de ruimtes, eenmalig, of frequent, neem dan contact met ons op voor de prijzen en mogelijkheden.
