@@ -294,8 +294,12 @@
 			]
 		},
 		{
-			"day": "vrijdag",
+			"day": "zondag",
 			"parts": [
+				{
+					"name": "ochtend",
+					"activities": []
+				},
 				{
 					"name": "middag",
 					"activities": [
@@ -304,6 +308,10 @@
 							"url": "verenigingen/keijenburg-bingo/"
 						}
 					]
+				},
+				{
+					"name": "avond",
+					"activities": []
 				}
 			]
 		}
