@@ -94,10 +94,12 @@
       },
       {
         "name": "Wilbert Brouwers",
+        "function": "vice-voorzitter",
         "image": "team/bestuur/wilbert-brouwers.png"
       },
       {
         "name": "Hilja van Eekelen",
+        "function": "(tijdelijk) secretaris",
         "image": "team/bestuur/hilja-van-eekelen.png"
       }
     ]
