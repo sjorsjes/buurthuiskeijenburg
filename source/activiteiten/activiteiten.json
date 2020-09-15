@@ -8,7 +8,6 @@
         "activities": [
           { "name": "Biljart W-groep" },
           { "name": "Quilting Bee (1ste ma v.d. mnd)" },
-          { "name": "Prikdienst Diagnovum" }
         ]
       },
       {
@@ -20,7 +19,7 @@
           { "name": "Engelse les", "url": "verenigingen/engelse-les/" },
           { "name": "Vitale Coalitie Burgerhout (3e ma v.d. maand)" },
           { "name": "Wijktafel burgerhout (3e ma v.d. mnd)", "url": "activiteiten/wijktafel-burgerhout/"},
-          { "name": "Senioren yoga" }
+          { "name": "Senioren yoga", "url": "verenigingen/dru-yoga/"}
         ]
       },
       {
@@ -39,8 +38,7 @@
         "activities": [
           { "name": "Biljart W-groep"},
           { "name": "Zeevrouwenkoor Zout en Zoet", "url": "verenigingen/zeevrouwenkoor-zout-en-zoet/" },
-          { "name": "Prikdienst Bravis", "url": "activiteiten/prikdienst-diagnostiek-brabant/" },
-          { "name": "Prikdienst Diagnovum" },
+          { "name": "Prikdienst Diagnovum", "url": "activiteiten/prikdienst-diagnostiek-brabant/" },
           { "name": "Koersbal" }
         ]
       },
@@ -48,6 +46,8 @@
         "name": "middag",
         "activities": [
           { "name": "Biljart Keijenburg 75", "url": "verenigingen/biljartclub-keijenburg75/" }
+          { "name": "Bigband No Guts No Glory" }
+          { "name": "The Op-Sound" }
         ]
       },
       {
@@ -69,7 +69,6 @@
           { "name": "Koersbal" },
           { "name": "Lapjesberg", "url": "verenigingen/lapjesberg/" },
           { "name": "Soepuurtje", "url": "activiteiten/soepuurtje/" },
-          { "name": "Prikdienst Diagnovum" }
         ]
       },
       {
@@ -141,8 +140,17 @@
       {
         "name": "avond",
         "activities": [
-          { "name": "Stijldansen" },
+          { "name": "Dansclub Keijenburg" },
           { "name": "Carnavalsband Woensdag Gak’tdag (sept - feb)", "url": "verenigingen/woensdag-gaktdag/" }
+            ]
+      }]
+    },
+    {
+      "day": "Zondag",
+      "parts": [{
+        "name": "Elke 4e en indien aanwezig 5e zondag van de maand",
+        "activities": [
+          { "name": "Keijenburg Bingo"},
         ]
       }]
     }
