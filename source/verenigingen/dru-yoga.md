@@ -1,11 +1,11 @@
 ---
 eleventyNavigation:
     parent: Verenigingen
-    key: Dru Yoga
+    key: Dru Yoga 
 ---
 
 Dru yoga is een rustige, dynamische vorm van yoga. Je werkt aan het soepel houden van je lichaam en het helpt je bij het ontwikkelen van mentale alertheid en emotionele veerkracht. Door de unieke Energy-Block-Release reeksen kunnen blokkades in alle lagen van het lichaam opgeheven worden.
-Dru yoga is voor jong en oud!
+Dru yoga is voor jong en oud! Bij de senioren yoga wordt ook deze methode gehanteerd.
 
 De lessen worden gegeven op:  
 Maandagmiddag van 13.30 uur tot 14.45 uur  
