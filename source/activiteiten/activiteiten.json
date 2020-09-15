@@ -45,8 +45,8 @@
       {
         "name": "middag",
         "activities": [
-          { "name": "Biljart Keijenburg 75", "url": "verenigingen/biljartclub-keijenburg75/" }
-          { "name": "Bigband No Guts No Glory" }
+          { "name": "Biljart Keijenburg 75", "url": "verenigingen/biljartclub-keijenburg75/" },
+          { "name": "Bigband No Guts No Glory" },
           { "name": "The Op-Sound" }
         ]
       },
