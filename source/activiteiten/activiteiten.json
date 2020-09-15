@@ -294,13 +294,14 @@
 			]
 		},
 		{
-			"day": "Zondag",
+			"day": "vrijdag",
 			"parts": [
 				{
-					"name": "Elke 4e en indien aanwezig 5e zondag van de maand",
+					"name": "middag",
 					"activities": [
 						{
-							"name": "Keijenburg Bingo"
+							"name": "Keijenburg Bingo (4e en 5e zo v.d. maand)",
+							"url": "verenigingen/keijenburg-bingo/"
 						}
 					]
 				}
