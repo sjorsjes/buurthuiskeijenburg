@@ -3,7 +3,7 @@ tags: services
 visual: prikpost.jpg
 icon: nurse-female.png
 title: Prikpost
-excerpt: Deze prikpost is (vanag 6 okt) open elke dinsdag van 8.30 - 9.15
+excerpt: Deze prikpost is elke dinsdag (vanaf 6 okt) van 8.30 - 9.15
 ---
 
 Deze prikpost in Keijenburg is vanaf 6 oktober 2020 weer geopend. Elke dinsdag van 8.30 - 9.15 uur.
