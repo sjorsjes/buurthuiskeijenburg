@@ -3,12 +3,12 @@ tags: services
 visual: prikpost.jpg
 icon: nurse-female.png
 title: Prikpost
-excerpt: Deze prikpost is tijdelijk GESLOTEN vanwege het coronavirus
+excerpt: Deze prikpost is (vanag 6 okt) open elke dinsdag van 8.30 - 9.15
 ---
 
-Deze prikpost is tijdelijk GESLOTEN vanwege het coronavirus
+Deze prikpost in Keijenburg is vanaf 6 oktober 2020 weer geopend. Elke dinsdag van 8.30 - 9.15 uur.
 
-U kunt terecht in één van onze kernlocaties  
+U kunt daarnaast uiteraard terecht in één van onze kernlocaties  
 
 **Gezondheidscentrum Kalsdonk  
 Heilig Hartplein 33  
