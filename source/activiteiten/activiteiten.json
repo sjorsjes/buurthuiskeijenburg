@@ -79,7 +79,7 @@
 						},
 						{
 							"name": "Prikdienst Diagnovum",
-							"url": "activiteiten/prikdienst-diagnostiek-brabant/"
+							"url": "activiteiten/prikdienst-diagnovum/"
 						},
 						{
 							"name": "Koersbal"
@@ -283,7 +283,8 @@
 					"name": "avond",
 					"activities": [
 						{
-							"name": "Dansclub Keijenburg"
+              "name": "Dansclub Keijenburg",
+              "url": "verenigingen/dansclub-keijenburg/"
 						},
 						{
 							"name": "Carnavalsband Woensdag Gak’tdag (sept - feb)",
