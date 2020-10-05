@@ -91,7 +91,7 @@
 					"activities": [
 						{
 							"name": "Biljart Keijenburg 77",
-							"url": "verenigingen/biljartclub-keijenburg75/"
+							"url": "verenigingen/biljartclub-keijenburg77/"
 						},
 						{
 							"name": "Bigband No Guts No Glory"
@@ -214,7 +214,8 @@
 							"url": "verenigingen/schilderclub-kunstkring-2000/"
 						},
 						{
-							"name": "Biljarten Keijenburg77"
+							"name": "Biljarten Keijenburg77",
+              "url": "verenigingen/biljartclub-keijenburg77/"
 						},
 						{
 							"name": "KBO (1x p mnd)"
