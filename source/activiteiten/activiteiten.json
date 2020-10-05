@@ -97,7 +97,8 @@
 							"name": "Bigband No Guts No Glory"
 						},
 						{
-							"name": "The Op-Sound"
+							"name": "The Op-Sound",
+              "url": "verenigingen/the-op-sound/"
 						}
 					]
 				},
@@ -237,7 +238,8 @@
 							"url": "verenigingen/roosendaals-gemengd-kamerkoor/"
 						},
 						{
-							"name": "Toneelvereniging Graag gedaan (mrt - okt)"
+							"name": "Toneelvereniging Graag gedaan (mrt - okt)",
+              "url": "verenigingen/toneelvereniging-graag-gedaan/"
 						}
 					]
 				}
@@ -254,7 +256,8 @@
 							"url": "verenigingen/bom-keijenburg/"
 						},
 						{
-							"name": "Smartlappenkoor de Wieken"
+							"name": "Smartlappenkoor de Wieken",
+              "url": "verenigingen/smartlappenkoor-de-wieken/"
 						},
 						{
 							"name": "Muziekantenrepetitie (1x p mnd)"
