@@ -1,6 +1,6 @@
 ---
 layout: content
-date: 2020-09-01
+date: 2020-09-28
 tags: news
 title: Alle vrijwilligers en personeelsleden van buurthuis keijenburg heten u graag welkom!
 ---
