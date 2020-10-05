@@ -2,7 +2,7 @@
 tags: services
 visual: rolstoel.png
 icon: wheelchair.png
-title: Rolstoel
+title: Rolstoel en invalidetoilet
 excerpt: Buurthuis Keijenburg heeft een eigen rolstoel welke u binnen Keijenburg kunt gebruiken indien nodig. Ook is er een geheel gerenoveerde invalidetoilet aanwezig. 
 ---
 
