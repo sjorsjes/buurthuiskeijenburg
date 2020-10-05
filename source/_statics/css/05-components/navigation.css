@@ -15,6 +15,10 @@
 	}
 }
 
+.navigation__logo img {
+	height: 100%;
+}
+
 .navigation__link {
 	display: inline-block;
 
