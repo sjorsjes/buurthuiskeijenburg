@@ -6,6 +6,7 @@
 .navigation__logo {
 	display: inline-block;
 
+	width: 100%;
 	max-width: 200px;
 
 	padding-top: 0.5rem;
@@ -13,10 +14,6 @@
 	@media (--xlarge) {
 		max-width: 250px;
 	}
-}
-
-.navigation__logo img {
-	height: 100%;
 }
 
 .navigation__link {
