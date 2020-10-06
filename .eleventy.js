@@ -47,6 +47,7 @@ module.exports = function (config) {
 	config.addPassthroughCopy({ './source/_statics/img': 'lib/img' });
 	config.addPassthroughCopy({ './source/_statics/css/**/*.min.css': 'lib/css' });
 	config.addPassthroughCopy({ './source/_statics/files': 'lib/files' });
+	config.addPassthroughCopy({ './source/fotoalbums/gallery': 'lib/img/gallery' });
 	config.addPassthroughCopy({ './source/manifest.json': 'manifest.json' });
 	config.addPassthroughCopy({ './source/favicon.ico': 'favicon.ico' });
 };

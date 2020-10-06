@@ -19,8 +19,7 @@
     "dev:eleventy": "eleventy --input=source --serve --watch --port=3000",
     "build": "cross-env NODE_ENV=development npm-run-all --parallel build:*",
     "build:css": "postcss ./source/_statics/css/main.css --map --output ./source/_statics/css/main.min.css",
-    "build:eleventy": "eleventy --input=source",
-    "build:cleanup": "rimraf _site/lib/img/2019 && rimraf _site/lib/img/2020 && rimraf _site/activiteiten/activiteiten"
+    "build:eleventy": "eleventy --input=source"
   },
   "devDependencies": {
     "dotenv": "^8.2.0"
