@@ -23,6 +23,7 @@ Wijzigingen binnen het buurthuis vanaf 29-9-2020
 * Groepsgrootte van maximaal 30 personen per geschikte ruimte
 * Vanaf 21.00 uur geen inloop meer
 * Sluiting buurthuis 22.00 uur
+* Mondkapjes worden vanuit de overheid sterk geadviseerd in openbare ruimtes.(uiteraard niet tijdens uw activiteit)
 
 
 We rekenen op uw medewerking.
