@@ -1,10 +1,9 @@
-
 ---
 layout: content
 date: 2020-10-14
 tags: news
 title: Update n.a.v. de  Corona persconferentie van 13 oktober 2020.
---
+---
 
 Beste gebruikers van Buurthuis Keijenburg,
 
