@@ -27,7 +27,12 @@ Mocht U  n.a.v. bovenstaand nog vragen hebben, neem gerust contact met ons op .
 Graag verwijzen wij u ook naar onze website:  www.bigband-ngng.nl 
 
 
-Trombonist en P.R. NGNG                                  Cees Elsten   Bestuur
-reneelsten@gmail.com                                                  0165 541960
-0165 343612                                                           06 40172750 
+Trombonist en P.R. NGNG: 
+reneelsten@gmail.com                                         
+0165 343612                                                          
 06 46992091
+
+Cees Elsten
+Bestuur
+0165-541960
+0640172750
