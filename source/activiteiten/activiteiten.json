@@ -1,326 +1,326 @@
 {
-	"layout": "content",
-	"activities": [
-		{
-			"day": "maandag",
-			"parts": [
-				{
-					"name": "ochtend",
-					"activities": [
-						{
-							"name": "Biljart W-groep"
-						},
-						{
-							"name": "Quilting Bee (1ste ma v.d. mnd)"
-						}
-					]
-				},
-				{
-					"name": "middag",
-					"activities": [
-						{
-							"name": "Biljart Fatima",
-							"url": "verenigingen/biljartclub-maandag-vrijdagmiddag/"
-						},
-						{
-							"name": "Schildersvereniging met Verve",
+  "layout": "content",
+  "activities": [
+    {
+      "day": "maandag",
+      "parts": [
+        {
+          "name": "ochtend",
+          "activities": [
+            {
+              "name": "Biljart W-groep"
+            },
+            {
+              "name": "Quilting Bee (1ste ma v.d. mnd)"
+            }
+          ]
+        },
+        {
+          "name": "middag",
+          "activities": [
+            {
+              "name": "Biljart Fatima",
+              "url": "verenigingen/biljartclub-maandag-vrijdagmiddag/"
+            },
+            {
+              "name": "Schildersvereniging met Verve",
               "url": "verenigingen/schildersvereniging-metverve/"
-						},
-						{
-							"name": "Kaarten (om de week)"
-						},
-						{
-							"name": "Engelse les",
-							"url": "verenigingen/engelse-les/"
-						},
-						{
-							"name": "Vitale Coalitie Burgerhout (3e ma v.d. maand)"
-						},
-						{
-							"name": "Wijktafel burgerhout (3e ma v.d. mnd)",
-							"url": "activiteiten/wijktafel-burgerhout/"
-						},
-						{
-							"name": "Senioren yoga",
-							"url": "verenigingen/dru-yoga/"
-						}
-					]
-				},
-				{
-					"name": "avond",
-					"activities": [
-						{
-							"name": "Roosendaals Kamerkoor",
-							"url": "verenigingen/roosendaals-kamerkoor/"
-						},
-						{
-							"name": "Fotowerkgroep Roosendaal (2e ma v.d. mnd)",
-							"url": "verenigingen/fotowerkgroep-roosendaal/"
-						},
-						{
-							"name": "Meander Koor",
-							"url": "verenigingen/meander-koor/"
-						}
-					]
-				}
-			]
-		},
-		{
-			"day": "dinsdag",
-			"parts": [
-				{
-					"name": "ochtend",
-					"activities": [
-						{
-							"name": "Biljart W-groep"
-						},
-						{
-							"name": "Zeevrouwenkoor Zout en Zoet",
-							"url": "verenigingen/zeevrouwenkoor-zout-en-zoet/"
-						},
-						{
-							"name": "Prikdienst Diagnovum",
-							"url": "activiteiten/prikdienst-diagnovum/"
-						},
-						{
-							"name": "Koersbal"
-						}
-					]
-				},
-				{
-					"name": "middag",
-					"activities": [
-						{
-							"name": "Biljart Keijenburg 77",
-							"url": "verenigingen/biljartclub-keijenburg77/"
-						},
-						{
-							"name": "Bigband No Guts No Glory"
-						},
-						{
-							"name": "The Op-Sound",
-              "url": "verenigingen/the-op-sound/"
-						}
-					]
-				},
-				{
-					"name": "avond",
-					"activities": [
-						{
-							"name": "Damvereniging de Schijf",
-							"url": "verenigingen/damvereniging-de-schijf/"
-						},
-						{
-							"name": "Komedikato",
-							"url": "verenigingen/komedikato/"
-						},
-						{
-							"name": "Gezelligheidskoor Doucement",
-							"url": "verenigingen/gezelligheidskoor-doucement/"
-						},
-						{
-							"name": "Schotse dansgroep Schiehallion"
-						}
-					]
-				}
-			]
-		},
-		{
-			"day": "woensdag",
-			"parts": [
-				{
-					"name": "ochtend",
-					"activities": [
-						{
-							"name": "Meer Bewegen Voor Ouderen",
-							"url": "verenigingen/meer-bewegen-voor-ouderen/"
-						},
-						{
-							"name": "Koersbal"
-						},
-						{
-							"name": "Lapjesberg",
-							"url": "verenigingen/lapjesberg/"
-						},
-						{
-							"name": "Soepuurtje",
-							"url": "activiteiten/soepuurtje/"
-						}
-					]
-				},
-				{
-					"name": "middag",
-					"activities": [
-						{
-							"name": "Biljart W groep"
-						},
-						{
-							"name": "Linedance DJ Jack"
-						},
-						{
-							"name": "Pergamano (op afspraak)",
-							"url": "verenigingen/pergamano/"
-						}
-					]
-				},
-				{
-					"name": "avond",
-					"activities": [
-						{
-							"name": "Spaanse les Comlex",
-							"url": "verenigingen/spaanse-les-comlex/"
-						},
-						{
-							"name": "Nouveau",
-							"url": "verenigingen/nouveau/"
-						},
-						{
-							"name": "Dru Yoga",
-							"url": "verenigingen/dru-yoga/"
-						},
-						{
-							"name": "VOGG (2e wo v.d. mnd)",
-              "url": "verenigingen/vogg/"
-						}
-					]
-				}
-			]
-		},
-		{
-			"day": "donderdag",
-			"parts": [
-				{
-					"name": "ochtend",
-					"activities": [
-						{
-							"name": "Biljart W groep"
-						},
-						{
-							"name": "Spaanse les Comlex",
-							"url": "verenigingen/spaanse-les-comlex/"
-						},
-						{
-							"name": "Kantklossen (om de week)",
-							"url": "verenigingen/kantklossen/"
-						},
-						{
-							"name": "Soepuurtje",
-							"url": "activiteiten/soepuurtje/"
-						}
-					]
-				},
-				{
-					"name": "middag",
-					"activities": [
-						{
-							"name": "Schildersclub Kunstkring 2000",
-							"url": "verenigingen/schilderclub-kunstkring-2000/"
-						},
-						{
-							"name": "Biljarten Keijenburg77",
+            },
+            {
+              "name": "Kaarten (om de week)"
+            },
+            {
+              "name": "Engelse les",
+              "url": "verenigingen/engelse-les/"
+            },
+            {
+              "name": "Vitale Coalitie Burgerhout (3e ma v.d. maand)"
+            },
+            {
+              "name": "Wijktafel burgerhout (3e ma v.d. mnd)",
+              "url": "activiteiten/wijktafel-burgerhout/"
+            },
+            {
+              "name": "Senioren yoga",
+              "url": "verenigingen/dru-yoga/"
+            }
+          ]
+        },
+        {
+          "name": "avond",
+          "activities": [
+            {
+              "name": "Roosendaals Kamerkoor",
+              "url": "verenigingen/roosendaals-kamerkoor/"
+            },
+            {
+              "name": "Fotowerkgroep Roosendaal (2e ma v.d. mnd)",
+              "url": "verenigingen/fotowerkgroep-roosendaal/"
+            },
+            {
+              "name": "Meander Koor",
+              "url": "verenigingen/meander-koor/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "dinsdag",
+      "parts": [
+        {
+          "name": "ochtend",
+          "activities": [
+            {
+              "name": "Biljart W-groep"
+            },
+            {
+              "name": "Zeevrouwenkoor Zout en Zoet",
+              "url": "verenigingen/zeevrouwenkoor-zout-en-zoet/"
+            },
+            {
+              "name": "Prikdienst Diagnovum",
+              "url": "activiteiten/prikdienst-diagnovum/"
+            },
+            {
+              "name": "Koersbal"
+            }
+          ]
+        },
+        {
+          "name": "middag",
+          "activities": [
+            {
+              "name": "Biljart Keijenburg 77",
               "url": "verenigingen/biljartclub-keijenburg77/"
-						},
-						{
-							"name": "KBO (1x p mnd)"
-						},
-						{
-							"name": "Gymgroep VIB"
-						},
-						{
-							"name": "Bridge club",
-							"url": "verenigingen/bridgen/"
-						}
-					]
-				},
-				{
-					"name": "avond",
-					"activities": [
-						{
-							"name": "Roosendaals gemengd Koor",
-							"url": "verenigingen/roosendaals-gemengd-kamerkoor/"
-						},
-						{
-							"name": "Toneelvereniging Graag gedaan (mrt - okt)",
+            },
+            {
+              "name": "Bigband No Guts No Glory"
+            },
+            {
+              "name": "The Op-Sound",
+              "url": "verenigingen/the-op-sound/"
+            }
+          ]
+        },
+        {
+          "name": "avond",
+          "activities": [
+            {
+              "name": "Damvereniging de Schijf",
+              "url": "verenigingen/damvereniging-de-schijf/"
+            },
+            {
+              "name": "Komedikato",
+              "url": "verenigingen/komedikato/"
+            },
+            {
+              "name": "Gezelligheidskoor Doucement",
+              "url": "verenigingen/gezelligheidskoor-doucement/"
+            },
+            {
+              "name": "Schotse dansgroep Schiehallion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "woensdag",
+      "parts": [
+        {
+          "name": "ochtend",
+          "activities": [
+            {
+              "name": "Meer Bewegen Voor Ouderen",
+              "url": "verenigingen/meer-bewegen-voor-ouderen/"
+            },
+            {
+              "name": "Koersbal"
+            },
+            {
+              "name": "Lapjesberg",
+              "url": "verenigingen/lapjesberg/"
+            },
+            {
+              "name": "Soepuurtje",
+              "url": "activiteiten/soepuurtje/"
+            }
+          ]
+        },
+        {
+          "name": "middag",
+          "activities": [
+            {
+              "name": "Biljart W groep"
+            },
+            {
+              "name": "Linedance DJ Jack"
+            },
+            {
+              "name": "Pergamano (op afspraak)",
+              "url": "verenigingen/pergamano/"
+            }
+          ]
+        },
+        {
+          "name": "avond",
+          "activities": [
+            {
+              "name": "Spaanse les Comlex",
+              "url": "verenigingen/spaanse-les-comlex/"
+            },
+            {
+              "name": "Nouveau",
+              "url": "verenigingen/nouveau/"
+            },
+            {
+              "name": "Dru Yoga",
+              "url": "verenigingen/dru-yoga/"
+            },
+            {
+              "name": "VOGG (2e wo v.d. mnd)",
+              "url": "verenigingen/vogg/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "donderdag",
+      "parts": [
+        {
+          "name": "ochtend",
+          "activities": [
+            {
+              "name": "Biljart W groep"
+            },
+            {
+              "name": "Spaanse les Comlex",
+              "url": "verenigingen/spaanse-les-comlex/"
+            },
+            {
+              "name": "Kantklossen (om de week)",
+              "url": "verenigingen/kantklossen/"
+            },
+            {
+              "name": "Soepuurtje",
+              "url": "activiteiten/soepuurtje/"
+            }
+          ]
+        },
+        {
+          "name": "middag",
+          "activities": [
+            {
+              "name": "Schildersclub Kunstkring 2000",
+              "url": "verenigingen/schilderclub-kunstkring-2000/"
+            },
+            {
+              "name": "Biljarten Keijenburg77",
+              "url": "verenigingen/biljartclub-keijenburg77/"
+            },
+            {
+              "name": "KBO (1x p mnd)"
+            },
+            {
+              "name": "Gymgroep VIB"
+            },
+            {
+              "name": "Bridge club",
+              "url": "verenigingen/bridgen/"
+            }
+          ]
+        },
+        {
+          "name": "avond",
+          "activities": [
+            {
+              "name": "Roosendaals gemengd Koor",
+              "url": "verenigingen/roosendaals-gemengd-kamerkoor/"
+            },
+            {
+              "name": "Toneelvereniging Graag gedaan (mrt - okt)",
               "url": "verenigingen/toneelvereniging-graag-gedaan/"
-						}
-					]
-				}
-			]
-		},
-		{
-			"day": "vrijdag",
-			"parts": [
-				{
-					"name": "ochtend",
-					"activities": [
-						{
-							"name": "Bewegen op Muziek Keijenburg",
-							"url": "verenigingen/bom-keijenburg/"
-						},
-						{
-							"name": "Smartlappenkoor de Wieken",
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "vrijdag",
+      "parts": [
+        {
+          "name": "ochtend",
+          "activities": [
+            {
+              "name": "Bewegen op Muziek Keijenburg",
+              "url": "verenigingen/bom-keijenburg/"
+            },
+            {
+              "name": "Smartlappenkoor de Wieken",
               "url": "verenigingen/smartlappenkoor-de-wieken/"
-						},
-						{
-							"name": "Muziekantenrepetitie (1x p mnd)"
-						}
-					]
-				},
-				{
-					"name": "middag",
-					"activities": [
-						{
-							"name": "Biljart Fatima",
-							"url": "verenigingen/biljartclub-maandag-vrijdagmiddag/"
-						},
-						{
-							"name": "Out of Line Dancers",
-							"url": "verenigingen/out-of-line-dancers/"
-						},
-						{
-							"name": "Schilderclub Wuka"
-						},
-						{
-							"name": "Bingo 55+ (laatste vri v.d. mnd)"
-						}
-					]
-				},
-				{
-					"name": "avond",
-					"activities": [
-						{
+            },
+            {
+              "name": "Muziekantenrepetitie (1x p mnd)"
+            }
+          ]
+        },
+        {
+          "name": "middag",
+          "activities": [
+            {
+              "name": "Biljart Fatima",
+              "url": "verenigingen/biljartclub-maandag-vrijdagmiddag/"
+            },
+            {
+              "name": "Out of Line Dancers",
+              "url": "verenigingen/out-of-line-dancers/"
+            },
+            {
+              "name": "Schilderclub Wuka"
+            },
+            {
+              "name": "Bingo 55+ (laatste vri v.d. mnd)"
+            }
+          ]
+        },
+        {
+          "name": "avond",
+          "activities": [
+            {
               "name": "Stijldansclub Keijenburg",
               "url": "verenigingen/dansclub-keijenburg/"
-						},
-						{
-							"name": "Carnavalsband Woensdag Gak’tdag (sept - feb)",
-							"url": "verenigingen/woensdag-gaktdag/"
-						}
-					]
-				}
-			]
-		},
-		{
-			"day": "zondag",
-			"parts": [
-				{
-					"name": "ochtend",
-					"activities": []
-				},
-				{
-					"name": "middag",
-					"activities": [
-						{
-							"name": "Keijenburg Bingo (4e en 5e zo v.d. maand)",
-							"url": "verenigingen/keijenburg-bingo/"
-						}
-					]
-				},
-				{
-					"name": "avond",
-					"activities": []
-				}
-			]
-		}
-	]
+            },
+            {
+              "name": "Carnavalsband Woensdag Gak’tdag (sept - feb)",
+              "url": "verenigingen/woensdag-gaktdag/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "zondag",
+      "parts": [
+        {
+          "name": "ochtend",
+          "activities": []
+        },
+        {
+          "name": "middag",
+          "activities": [
+            {
+              "name": "Keijenburg Bingo (4e en 5e zo v.d. maand)",
+              "url": "verenigingen/keijenburg-bingo/"
+            }
+          ]
+        },
+        {
+          "name": "avond",
+          "activities": []
+        }
+      ]
+    }
+  ]
 }
