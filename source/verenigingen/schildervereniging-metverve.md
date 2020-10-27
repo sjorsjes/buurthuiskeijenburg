@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
     parent: Verenigingen
-    key: Biljartclub keijenburg77
+    key: Schildersvereniging "Met Verve"
 ---
 
 Schildersvereniging "Met Verve" is opgericht in 1982 uit een aantal enthousiaste amateur kunstschilders. 
