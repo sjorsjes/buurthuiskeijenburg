@@ -2,6 +2,8 @@
 eleventyNavigation:
     parent: Verenigingen
     key: Woensdag GAK’tdag
+
+visual: verenigingen/woensdag_gakt_dag.png
 ---
 
 Toen asdat d’n carnaval van 1988 zo’n bietje lekker aòn d’n gaank waar zaaten Aans mee zullie Truus en Leo d’r eige vol te stouwe mee ‘n culinèèr òògtepunt van ‘t alleve sterrenresteraant van Jaonus (of waar ‘t toen al van Fòònze?) Dekkers aòn de Blommemart (of waar ‘t toen nog de Vaarekesmart?). ‘t Waar toen dad’ Aans aòn Leo’s vroog of a’t ie gin ambiessie aar om in ‘n bendje te speule. Nou, dad aar’t ie. Effekes laoter zeet d’n Aans da Dré en Roland ok mee wouwe speule. De bend waar verwekt!

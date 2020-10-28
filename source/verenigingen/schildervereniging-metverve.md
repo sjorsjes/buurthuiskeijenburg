@@ -2,6 +2,8 @@
 eleventyNavigation:
     parent: Verenigingen
     key: Schildersvereniging "Met Verve"
+
+visual: verenigingen/verve_met.png
 ---
 
 Schildersvereniging "Met Verve" is opgericht in 1982 uit een aantal enthousiaste amateur kunstschilders. 
