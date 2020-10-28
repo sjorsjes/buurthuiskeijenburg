@@ -16,5 +16,6 @@ Woensdagavond van 20.45 uur tot 22.00 uur
 Matjes, kussentjes en dekentjes zijn aanwezig.
 
 Ook mensen met een lichamelijke beperking zijn welkom omdat het mogelijk is om de oefeningen vanaf een stoel uit te voeren.
+
 Meld je aan voor een gratis kennismaking les.  
 Lia Kerstens [druyogaroosendaal@gmail.com](mailto:druyogaroosendaal@gmail.com).

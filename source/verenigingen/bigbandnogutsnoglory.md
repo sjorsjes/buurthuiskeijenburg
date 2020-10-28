@@ -2,9 +2,11 @@
 eleventyNavigation:
     parent: Verenigingen
     key: Bigband No Guts No Glory
+
+visual: verenigingen/bigband-ngng.png
 ---
 
-Graag stellen wij ons aan u voor:   BIG BAND NO GUTS NO GLORY.
+Graag stellen wij ons aan u voor: **BIG BAND NO GUTS NO GLORY**  
 
 Wij hebben onze repetitieruimte gevonden bij buurthuis Keijenburg, alwaar wij volkomen coronaproof kunnen repeteren. 
 Onze Big Band, opgericht in 2003, is een groep die voornamelijk bestaat uit mensen die het arbeidzame leven inmiddels afgesloten hebben en van een 
@@ -24,13 +26,12 @@ Er kan bij ons altijd vrijblijvend een bezoekje worden afgelegd of met ons conta
 Wij repeteren iedere dinsdagmiddag van 14.00 uur tot 16.00 uur.
 
 Mocht U  n.a.v. bovenstaand nog vragen hebben, neem gerust contact met ons op .
-Graag verwijzen wij u ook naar onze website:  www.bigband-ngng.nl 
+Graag verwijzen wij u ook naar onze website: [www.bigband-ngng.nl](http://www.bigband-ngng.nl)
 
+**Trombonist en P.R. NGNG:**  
+[reneelsten@gmail.com](mailto:reneelsten@gmail.com)  
+[0165-343612](tel:0165343612) of [06-46992091](tel:0646992091)  
 
-Trombonist en P.R. NGNG: 
-reneelsten@gmail.com
-0165 343612 of 06 46992091
-
-Cees Elsten
-Bestuur
-0165-541960 of 0640172750
+Cees Elsten  
+Bestuur  
+[0165-541960](tel:0165541960) of [06-40172750](tel:0640172750)  

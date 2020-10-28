@@ -10,4 +10,6 @@ Denk hierbij aan bowlen, filmochtend in de bioscoop, versierde fietsentocht op K
 
 Met carnaval organiseren we samen met het Buurthuis al weer enkele jaren ‘t Keikesbal en rond de zomervakantie doen we een heuse Zomerdisco.
 
-Lid worden kan door een mailtje te sturen naar [info@ovw8.nl](mailto:info@ovw8.nl), we verwelkomen je graag als lid. Contact via: [info@ovw8.nl](mailto:info@ovw8.nl), [Facebook](https://www.facebook.com/ovw8rsd/) of [website](https://ovw8.nl/).
+Lid worden kan door een mailtje te sturen naar [info@ovw8.nl](mailto:info@ovw8.nl), we verwelkomen je graag als lid.
+
+Contact via: [info@ovw8.nl](mailto:info@ovw8.nl), [Facebook](https://www.facebook.com/ovw8rsd/) of [website](https://ovw8.nl/).

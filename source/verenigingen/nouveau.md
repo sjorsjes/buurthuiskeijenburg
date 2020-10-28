@@ -2,6 +2,8 @@
 eleventyNavigation:
     parent: Verenigingen
     key: Nouveau
+
+visual: verenigingen/nouveau.png
 ---
 
 Vocal Group Nouveau is een vocal group onder leiding van Jan Roovers. De muziek die zij ten gehore brengen is gebaseerd op jazz, pop en blues. Iedere woensdagavond wordt er vanaf 19.30u gerepeteerd.
