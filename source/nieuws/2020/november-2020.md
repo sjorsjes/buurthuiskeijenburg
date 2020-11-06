@@ -1,6 +1,6 @@
 ---
 layout: content
-date: 2020-10-14
+date: 2020-11-06
 tags: news
 title: Update n.a.v. de  Corona persconferentie van 3 November 2020.
 ---
