@@ -1,12 +1,11 @@
 ---
 eleventyNavigation:
-    parent: Keijenburg
-    key: In het nieuws
-    order: 3
+  parent: Keijenburg
+  key: In het nieuws
+  order: 3
 ---
 
-
-!["Uitslag van de Rabo clubactie!"]({{ "/" | url }}lib/img/content/rabo clubactie 2020.jpg)
+![Uitslag van de Rabo clubactie!]({{ "/" | url }}lib/img/content/rabo clubactie 2020.JPG)
 
 Dit jaar deden we weer mee met de Rabobank Clunactie.
 Zeker in deze tijd kunnen we alle (financiele) hulp goed gebruiken. 
