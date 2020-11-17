@@ -72,9 +72,10 @@ eleventyNavigation:
 * Klik op het potlood om de pagina te wijzigen
 * Hier kun je de teksten toevoegen die je wilt
 * Om een plaatje toe te voegen doe je het volgende:  
-`!["ALT TEKST"]({{ "/" | url }}lib/img/content/BESTANDSNAAM.jpg)`  
+`!["ALT TEKST"]({{ "/" | url }}lib/img/content/BESTANDSNAAM.jpg "ALT TITLE")`  
 Vervang in de bovenste regel `BESTANDSNAAM.jpg` voor de naam van het plaatje dat je hebt geupload in stap 1.  
-Vervang `"ALT TEKST"` voor een hele korte uitleg wat er te zien is op het plaatje bv. `"Krantenknipsel BN de Stem"`.
+**LET OP DAT ER GEEN SPATIES IN HET BESTANDSNAAM STAAN.**  
+Vervang `"ALT TEKST"` en `"ALT TITLE"` voor een hele korte uitleg wat er te zien is op het plaatje bv. `"Krantenknipsel BN de Stem"`.
 
 # Het Team
 ## Toevoegen van een medewerker
