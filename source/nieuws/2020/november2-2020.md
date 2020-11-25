@@ -5,6 +5,14 @@ tags: news
 title: Update n.a.v. de  Corona persconferentie van 17 November 2020.
 ---
 
+**LET OP!**
+
+**De Keijenburg geld-bingo van 22 en 29 November 2020 gaan NIET door!**
+
+
+
+
+
 **Gezamenlijk statement buurthuizen Roosendaal en bijbehorende dorpen.**
 
 Buurthuizen (wijk/dorpshuizen) zoeken een weg binnen de huidige corona maatregelen.
