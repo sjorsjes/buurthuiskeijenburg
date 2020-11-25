@@ -2,7 +2,7 @@
 layout: content
 date: 2020-11-19
 tags: news
-title: LET OP! De Keijenburg geld-bingo van 22 en 29 November 2020 gaan NIET door!
+title: LET OP! De Keijenburg Bingo van 29 November 2020 gaan NIET door!
 ---
 
 
