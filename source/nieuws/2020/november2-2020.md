@@ -2,11 +2,8 @@
 layout: content
 date: 2020-11-19
 tags: news
-title: LET OP! De Keijenburg Bingo van 29 November 2020 gaat NIET door!
+title: Update n.a.v. de  Corona persconferentie van 17 November 2020.
 ---
-
-
-**Update n.a.v. de  Corona persconferentie van 17 November 2020.**
 
 **Gezamenlijk statement buurthuizen Roosendaal en bijbehorende dorpen.**
 
