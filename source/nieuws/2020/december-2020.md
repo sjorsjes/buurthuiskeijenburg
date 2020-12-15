@@ -17,6 +17,7 @@ Wel wordt er van de buurthuizen gevraagd of zij iets kunnen betekenen tegen de e
 Eenzaamheid ligt zeker in deze tijd sneller op de loer.
 
 Daarom zijn we deze week (t/m 18 dec) nog open voor de koffie middagen.
+(alleen op reservering, aan de deur kan niet gereserveerd worden!)
 
 Vanaf 19 dec t/m 3 jan zijn we geheel gesloten wegens de kerstvakantie.
 Zoals gezegd is de reguliere sluiting in ieder geval tot 19 jan 2021.
