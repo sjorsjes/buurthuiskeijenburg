@@ -50,5 +50,5 @@ De veiligheid staat voorop. De veiligheid van de bezoekers, het personeel en de 
 Alleen op die manier kunnen we samen de mogelijkheden benutten die er wel zijn.
 Voor nu; blijf gezond en vergeet elkaar niet.
 
-Namens alle Roosendaalse buurthuizen,Dankuwel.
+Namens alle Roosendaalse buurthuizen, Dankuwel.
  
