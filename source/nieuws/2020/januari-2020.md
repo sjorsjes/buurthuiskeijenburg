@@ -51,4 +51,4 @@ Alleen op die manier kunnen we samen de mogelijkheden benutten die er wel zijn.
 Voor nu; blijf gezond en vergeet elkaar niet.
 
 Namens alle Roosendaalse buurthuizen,Dankuwel.
-
+ 
