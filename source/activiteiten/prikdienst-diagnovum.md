@@ -3,7 +3,7 @@ tags: services
 visual: prikpost.jpg
 icon: nurse-female.png
 title: Prikpost
-excerpt: Deze prikpost is elke dinsdag van 8.30 - 9.15
+excerpt: De prikpost is dinsdags open van 8.30 - 9.15 uur.
 ---
 
 Deze prikpost in Keijenburg is geopend. Elke dinsdag van 8.30 - 9.15 uur.
