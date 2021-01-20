@@ -20,10 +20,10 @@ Eenzaamheid ligt zeker in deze tijd sneller op de loer.
 Daarom zijn we enkel open voor de koffie middagen. Deze zijn elke dinsdag en donderdag middag. 
 Op deze manier kunnen mensen die zich eenzaam voelen langskomen voor koffie en een praatje.
 (alleen indien u geen klachten heeft en op reservering, aan de deur kan niet gereserveerd worden!)
-Daarnaast zal er voor deze zelfde groep mensen eens per maand een 55+bingo georganiseerd worden.
-Natuurlijk zal dit alles volgend de geldende richtlijnen vanuit het RIVM plaatsinden.
+Daarnaast zal er voor dezelfde groep mensen eens per maand een seniorenbingo georganiseerd worden.
+Natuurlijk zal dit alles volgend de geldende richtlijnen vanuit het RIVM plaats vinden.
 
-Zodra er meer zicht is op een reguliere opening en we meer weten rondom versoepelingen laten we dit uiteraard weten via de beklende kanalen.
+Zodra er meer zicht is op een reguliere opening en we meer weten rondom versoepelingen laten we dit uiteraard weten via de bekende kanalen.
 
 Voor nu; Hou vol!
 Blijf zoveel mogelijk thuis, houdt u zich aan de regels en blijf gezond!
