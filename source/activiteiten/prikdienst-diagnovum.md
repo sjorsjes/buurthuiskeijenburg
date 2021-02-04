@@ -6,16 +6,23 @@ title: Prikpost
 excerpt: De prikpost is dinsdags open van 8.30 - 9.15 uur.
 ---
 
-Deze prikpost in Keijenburg is geopend. Elke dinsdag van 8.30 - 9.15 uur.
-
-U kunt daarnaast uiteraard terecht in één van de kernlocaties van Diagnovum.  
-
-**Gezondheidscentrum Kalsdonk  
-Heilig Hartplein 33  
-Roosendaal**
-
-Dinsdag en donderdag van 08:30 tot 09:30 uur
-
+**Diagnovum heeft een prikpost in Keijenburg.
+U kunt elke dinsdag terecht van 8.30 – 9.15 uur.
+U bent welkom zónder afspraak!
+ 
+Daarnaast kunt u uiteraard terecht in één van de kernlocaties van Diagnovum in Roosendaal:
+ 
+Gezondheidscentrum Kalsdonk
+Heilig Hartplein 33
+Roosendaal
+ 
+Dinsdag, donderdag en vrijdag van 8.30 - 9.30 uur.
+ 
+**Let op!
 Als u verkoudheidsklachten of luchtwegklachten heeft, kunt u terecht bij prikpost Dijksteeke, Dijkcentrum 191, Roosendaal.
+ 
+Maandag tot en met vrijdag van 9.45 – 10.00 uur (> zonder klachten bent u daar welkom van 8.00 – 9.30 uur).
 
-Maandag tot en met vrijdag van 11:30 tot 12:00 uur.
+Kijk voor meer informatie over de prikposten van Diagnovum op www.diagnovum.nl/locaties   
+ 
+ 
