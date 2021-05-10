@@ -1,6 +1,6 @@
 ---
 layout: home
-highlightText: Corona informatie
+highlightText: Buurthuis Keijenburg Beweegroute
 highlightActionText: Bekijk de informatie
-highlightUrl: keijenburg/corona-informatie/
+highlightUrl: lib/files/beweegroute-poster.pdf
 ---
