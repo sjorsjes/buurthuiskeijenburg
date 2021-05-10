@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
     parent: Verenigingen
-    key: Spaanse les Complex
+    key: Spaanse les Comlex
 ---
 
 Sinds een aantal jaren worden in het Buurthuis op diverse dagdelen lessen Spaans gegeven (voor beginners en gevorderden). Vanaf september 2019 worden deze lessen geheel verzorgd door docente Spaans Mariela Perez Altieri. Mariela heeft in de afgelopen jaren diverse cursussen Spaans in Roosendaal en ook in het buurthuis verzorgd.
