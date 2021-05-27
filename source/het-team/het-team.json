@@ -15,12 +15,20 @@
         "image": "team/vrijwilligers/cees.png"
       },
       {
+        "name": "Cor",
+        "image": "team/vrijwilligers/cor.png"
+      },
+      {
         "name": "Ed",
         "image": "team/vrijwilligers/ed.png"
       },
       {
         "name": "Joke",
         "image": "team/vrijwilligers/joke.png"
+      },
+      {
+        "name": "Jolanda",
+        "image": "team/vrijwilligers/jolanda.png"
       },
       {
         "name": "Jos",
@@ -37,6 +45,10 @@
       {
         "name": "Mieke",
         "image": "team/vrijwilligers/mieke.png"
+      },
+      {
+        "name": "Nel",
+        "image": "team/vrijwilligers/nel.png"
       },
       {
         "name": "Nordin",
@@ -71,22 +83,18 @@
       {
         "name": "Anne-belle",
         "image": "team/personeel/anne-belle.png"
-      },
-      {
-        "name": "Dedit",
-        "image": "team/personeel/dedit.png"
       }
     ],
     "bestuursleden": [
       {
-        "name": "Krijn Kraak",
-        "function": "voorzitter",
-        "image": "team/bestuur/krijn-kraak.png"
+        "name": "Hilja van Eekelen",
+        "function": "secretaris",
+        "image": "team/bestuur/hilja-van-eekelen.png"
       },
       {
-        "name": "Piet Bengel",
+        "name": "Johan Elst",
         "function": "penningmeester",
-        "image": "team/bestuur/piet-bengel.png"
+        "image": "team/bestuur/johan-elst.png"
       },
       {
         "name": "Marcel de Beer",
@@ -94,13 +102,8 @@
       },
       {
         "name": "Wilbert Brouwers",
-        "function": "vice-voorzitter",
+        "function": "voorzitter",
         "image": "team/bestuur/wilbert-brouwers.png"
-      },
-      {
-        "name": "Hilja van Eekelen",
-        "function": "(tijdelijk) secretaris",
-        "image": "team/bestuur/hilja-van-eekelen.png"
       }
     ]
   }
