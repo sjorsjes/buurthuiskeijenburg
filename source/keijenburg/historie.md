@@ -10,7 +10,7 @@ De voorloper van het huidige buurthuis Keijenburg was het Josephpatronaat met al
 Aannemer Mathijssen afkomstig uit de St. Josephstraat heeft het patronaatsgebouw   gebouwd wat we nu buurthuis Keijenburg noemen.
 
 In de volksmond heette het toen “het St. Joseph-huis”.
-De stichting Keijenburg is opgericht in 1970 en is de opvolger van het bestuur van het   Josephhuis. De stichting Keijenburg bestaat in 2020 vijftig jaar.  
+De stichting Keijenburg is opgericht in 1971 en is de opvolger van het bestuur van het   Josephhuis. De stichting Keijenburg bestaat in 2021 vijftig jaar.  
 Er is altijd al sprake geweest van een band tussen de kerk en ons buurthuis. De samenwerking bij bepaalde activiteiten, zoals het toentertijd jaarlijks terugkerende ziekentriduüm, is hier een sprekend voorbeeld van. 
 
 ![Keijenburg vroeger]({{ url | '/' }}/lib/img/content/keijenburg-vroeger-jaartal-onbekend.jpg)
