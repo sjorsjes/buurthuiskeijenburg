@@ -194,6 +194,10 @@
           "name": "ochtend",
           "activities": [
             {
+              "name": "Beweegroute Keijenburg om 10 uur"
+              "url":
+            },
+            {
               "name": "Biljart W groep"
             },
             {
@@ -282,7 +286,7 @@
               "name": "Schilderclub Wuka"
             },
             {
-              "name": "Bingo 55+ (laatste vri v.d. mnd)"
+              "name": "Senioren Bingo Keijenburg (laatste vrijdag v.d. mnd)"
             }
           ]
         },
