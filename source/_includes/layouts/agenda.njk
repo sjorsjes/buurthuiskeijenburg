@@ -1,39 +1,40 @@
 ---
 layout: content
 ---
-{% set items = collections.activity | filterByYearAndMonth(today.year, today.numericMonth) %}
+{% set months = collections.activity | filterByYearAndMonth(today.year, today.numericMonth, true) %}
 
 {{ content | safe }}
 
-<div class="agenda">
-	<h2 class="agenda__month">{{ today.month }} {{ today.year }}</h2>
+{%- for month in months -%}
+	<div class="agenda">
+		<h2 class="agenda__month">{{ month.month }} {{ month.year }}</h2>
+		
+		{% if month.data.length %}
+			<ul class="agenda__list">
+			{%- for activity in month.data -%}
+				<li class="agenda__list-item">
+					<a href="{{ activity.url }}" class="agenda__link{% if activity.isToday %} is-today{% endif %}">
+						<div class="agenda__date text-center">
+							<div class="agenda__date-number">{{ activity.date | formatNumericDay }}</div>
+							<div class="agenda__date-day">{{ activity.date | formatDay }}</div>
+						</div>
 
-	{% if items.length %}
-		<ul class="agenda__list">
-		{%- for item in collections.activity | filterByYearAndMonth(today.year, today.numericMonth) -%}
-			<li class="agenda__list-item">
-				<a href="{{ item.url }}" class="agenda__link{% if item.isToday %} is-today{% endif %}">
-					<div class="agenda__date text-center">
-						<div class="agenda__date-number">{{ item.date | formatNumericDay }}</div>
-						<div class="agenda__date-day">{{ item.date | formatDay }}</div>
-					</div>
-
-					<div class="agenda__description">
-						<span class="agenda__title">{{ item.data.eleventyNavigation.key }}</span>
-						{% if item.data.time %}
-							<small class="text-muted">{{ item.data.time }}</small>
-						{% endif %}
-					</div>
-				</a>
-			</li>
-		{%- endfor -%}
-		</ul>
-	{% else %}
-		<ul class="agenda__list">
-			<li class="agenda__list-item">
-				<span class="agenda__no-items">Op dit moment zijn er nog geen activiteiten bekend.</span>
-			</li>
-		</ul>
-	{% endif %}
-
-</div>
+						<div class="agenda__description">
+							<span class="agenda__title">{{ activity.data.eleventyNavigation.key }}</span>
+							{% if activity.data.time %}
+								<small class="text-muted">{{ activity.data.time }}</small>
+							{% endif %}
+						</div>
+					</a>
+				</li>
+			{%- endfor -%}
+			</ul>
+		{% else %}
+			<ul class="agenda__list">
+				<li class="agenda__list-item">
+					<span class="agenda__no-items">Op dit moment zijn er nog geen activiteiten bekend.</span>
+				</li>
+			</ul>
+		{% endif %}
+	</div>
+{%- endfor -%}

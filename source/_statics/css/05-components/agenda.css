@@ -4,6 +4,10 @@
 	box-shadow: 0 10px 25px -22px var(--color-true-black);
 }
 
+.agenda + .agenda {
+	margin-top: 2rem;
+}
+
 .agenda__list {
 	margin: 0;
 	padding: 0;

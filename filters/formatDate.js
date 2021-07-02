@@ -71,4 +71,5 @@ module.exports = {
 	formatNumericMonth,
 	formatYear,
 	formatDateTime,
+	months,
 }
