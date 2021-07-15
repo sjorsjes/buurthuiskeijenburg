@@ -21,15 +21,10 @@ eleventyNavigation:
 
 Zaterdag en zondag op aanvraag.
 
-## Sluitingsdata 2020
+## Sluitingsdata 2021
 
 |                   |                               |
-| ----------------- | ----------------------------- |
-| **Carnaval**      | 22 februari t/m 25 februari   |
-| **Pasen**         | 11 april t/m 13 april         |
-| **Koningsdag**    | 27 april                      |
-| **Hemelvaart**    | 21 mei                        |
-| **Pinksteren**    | 31 mei en 1 juni              |
-| **Zomervakantie** | 13 juli t/m 23 augustus       |
+| ----------------- | ----------------------------- |                     |
+| **Zomervakantie** | 26 juli t/m 6 september       |
 | **Sinterklaas**   | 5 december                    |
-| **Kerstvakantie** | 19 december t/m 1 januari     |
+| **Kerstvakantie** | 24 december t/m 2 januari     |
