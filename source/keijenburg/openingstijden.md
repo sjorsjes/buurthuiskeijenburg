@@ -23,8 +23,6 @@ Zaterdag en zondag op aanvraag.
 
 ## Sluitingsdata 2021
 
-|                   |                               |
-| ----------------- | ----------------------------- |                     |
 | **Zomervakantie** | 26 juli t/m 6 september       |
 | **Sinterklaas**   | 5 december                    |
 | **Kerstvakantie** | 24 december t/m 2 januari     |
