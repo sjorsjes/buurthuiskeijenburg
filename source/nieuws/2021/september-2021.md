@@ -12,7 +12,7 @@ Wij, team Keijenburg, zijn blij iedereen weer te kunnen en mogen ontmoeten.
 Mocht u tijd over hebben, zin hebben in een praatje, gezelschap of een nieuwe hobby zoeken....
 Keijenburg heeft een divers aanbod van vaste activiteiten! Van handwerken tot biljart, van bewegen op maat tot het leren van nieuwe talen.
 Voor meer informatie kijkt u onder het kopje verenigingen en in de vaste week planning.
-Mocht u meer willen weten, of vragen hebben kunt u natuurlijk ook contact met onz opnemen.
+Mocht u meer willen weten of vragen hebben kunt u natuurlijk altijd contact met ons opnemen.
 
 Indien uw activiteit er niet bijstaat, en u deze wel op zou willen zetten... 
 Neemt u vooral contact op met onze zakelijk leidster Anne-Belle.
