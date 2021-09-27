@@ -17,5 +17,6 @@ Locatie:   Buurthuis Keijenburg
           
 Kom gratis kennis maken en meedoen tijdens een kennismakingsles!
 Gedurende het gehele seizoen is het mogelijk om een kennismakingsles te volgen.
+Voor meer informatie kunt u ook contact opnemen met Madeleine Benjert.Telefoonnummer: 06-53427094.
 
 Wees welkom!
