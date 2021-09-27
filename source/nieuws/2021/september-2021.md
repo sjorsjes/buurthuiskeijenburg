@@ -8,6 +8,8 @@ title: Wees welkom bij Buurthuis Keijenburg.
 
 De verenigingen zijn weer van start gegaan met hun activiteiten. Fijn dat jullie er weer zijn!
 Wij, team Keijenburg, zijn blij iedereen weer te kunnen en mogen ontmoeten.
+Alle vaste activiteiten zijn gewoon te bezoeken zonder corona check!
+(Enkel de extra (eenmalige, jaarlijkse) evenementen/afspraken zullen enkel toegankelijk zijn met een corona check aan de deur. )
 
 Mocht u tijd over hebben, zin hebben in een praatje, gezelschap of een nieuwe hobby zoeken....
 Keijenburg heeft een divers aanbod van vaste activiteiten! Van handwerken tot biljart, van bewegen op maat tot het leren van nieuwe talen.
@@ -29,7 +31,8 @@ Team Keijenburg
 
 ## Alvast voor in de agenda; 3 oktober Roosendaalse Curiosamarkt.
 Een gezellige markt met kramen vol met de mooiste vintage items, brocante en spullen uit de sixties. Alles om huis en tuin gezelliger te maken. Van gerestylede meubels, verzamelitems, Lp's / singeltjes
-gebruiksvoorwerpen, klein meubelen, poppen/beren, vintage kleding/sieraden en nog veel meer. Dus kom gezellig overdekt snuffelen, of het nu vintage, curiosa, brocante, of spullen uit de sixties zijn, iedereen heeft zo zijn favorieten. Gratis entree 3 oktober van 11.00 tot 16.00 Buurthuis Keijenburg, Keijenburg 70 Roosendaal
+gebruiksvoorwerpen, klein meubelen, poppen/beren, vintage kleding/sieraden en nog veel meer. Dus kom gezellig overdekt snuffelen, of het nu vintage, curiosa, brocante, of spullen uit de sixties zijn, iedereen heeft zo zijn favorieten. 
+Gratis entree 3 oktober van 11.00 tot 16.00 Buurthuis Keijenburg, Keijenburg 70 Roosendaal. 
+(enkel entree via geldige corona check.)
 
-*deze datum is onder voorbehoud, doorgang vindt alleen plaatst als we een volwaardige markt kunnen organiseren, dus als er geen beperkende corona maatregelen meer zijn*
 Namens Esther Verhoeven  
