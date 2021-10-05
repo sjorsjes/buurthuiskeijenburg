@@ -29,10 +29,6 @@ Graag tot ziens!
 Team Keijenburg
 
 
-## Alvast voor in de agenda; 3 oktober Roosendaalse Curiosamarkt.
-Een gezellige markt met kramen vol met de mooiste vintage items, brocante en spullen uit de sixties. Alles om huis en tuin gezelliger te maken. Van gerestylede meubels, verzamelitems, Lp's / singeltjes
-gebruiksvoorwerpen, klein meubelen, poppen/beren, vintage kleding/sieraden en nog veel meer. Dus kom gezellig overdekt snuffelen, of het nu vintage, curiosa, brocante, of spullen uit de sixties zijn, iedereen heeft zo zijn favorieten. 
-Gratis entree 3 oktober van 11.00 tot 16.00 Buurthuis Keijenburg, Keijenburg 70 Roosendaal. 
-(enkel entree via geldige corona check.)
-
-Namens Esther Verhoeven  
+## Alvast voor in de agenda; zie ook de agenda op de site!
+# Senioren bingo op vrijdag 8 oktober, zaal open 13.00 uur, aanvang 13.30 uur.
+# Crea Veres Najaarsbeurs op zondag 21 november van 11.00 uur tot 16.00 uur. (entree gratis; met coronacheck)
