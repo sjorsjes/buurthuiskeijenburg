@@ -9,6 +9,6 @@ eleventyNavigation:
 
 Buurthuis Keijenburg is weer open met inachtneming van de huidige regels vanuit de overheid en het RIVM.
 
-Hoe wij hiermee omgaan vindt u in [het Corona protocol]({{ '/' | 'url'}}lib/files/corona-protocol-keijenburg-versie-mei-2021.pdf).
+Hoe wij hiermee omgaan vindt u in [het Corona protocol]({{ '/' | 'url'}}lib/files/corona-protocol-keijenburg-versie-september-2021.pdf).
 
 Daarnaast dienen aanwijzingen van de vrijwilligers en het personeel van Keijenburg rondom de maatregelen opgevolgd te worden
