@@ -12,7 +12,7 @@ Keijenburg heeft een divers aanbod van vaste activiteiten! Van handwerken tot bi
 Voor meer informatie kijkt u onder het kopje verenigingen en in de vaste week planning.
 Mocht u meer willen weten of vragen hebben kunt u natuurlijk altijd contact met ons opnemen.
 Alle vaste activiteiten zijn gewoon te bezoeken zonder corona check!
-(Enkel de extra (eenmalige, jaarlijkse) evenementen/afspraken zullen enkel toegankelijk zijn met een corona check aan de deur. )
+(Enkel de extra evenementen/afspraken en het gebruik van het cafe zullen enkel toegankelijk zijn met een corona check aan de deur. )
 
 Indien uw activiteit er niet bijstaat, en u deze wel op zou willen zetten... 
 Neemt u vooral contact op met onze zakelijk leidster Anne-Belle.
@@ -21,14 +21,13 @@ We hebben een fijne en warme groep met vrijwilligers waar we goed voor zorgen. U
 
 Ook kunt u ruimtes huren voor uw vergadering, activiteit of bijeenkomst.
 Foto's van onze ruimten vindt u onder het kopje zaalverhuur en voor meer info weet u ons te vinden.
-(Voor feesten en partijen zijn deze ruimtes helaas niet te huren)
+(Voor particuliere feesten en partijen zijn deze ruimtes helaas niet te huren)
 
 Graag tot ziens!
 Team Keijenburg
 
 
 ## Alvast voor in de agenda; zie ook de agenda op de site!
-# Senioren bingo op vrijdag 12 november, zaal open 13.00 uur, aanvang 13.30 uur.
-# Crea Veres Najaarsbeurs op zondag 21 november van 11.00 uur tot 16.00 uur. (entree gratis; met coronacheck in het cafe)
+# Crea Veres Najaarsbeurs op zondag 21 november van 11.00 uur tot 16.00 uur. (entree gratis; met coronacheck indien u van het cafe gebruik maakt)
 
 
