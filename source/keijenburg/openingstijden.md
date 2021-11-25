@@ -25,4 +25,4 @@ Zaterdag en zondag op aanvraag.
 
 | **Zomervakantie** | 26 juli t/m 6 september       |
 | **Sinterklaas**   | 5 december                    |
-| **Kerstvakantie** | 24 december t/m 2 januari     |
+| **Kerstvakantie** | 20 december t/m 2 januari     |
