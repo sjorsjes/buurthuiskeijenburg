@@ -23,11 +23,12 @@ Ook kunt u ruimtes huren voor uw vergadering, activiteit of bijeenkomst.
 Foto's van onze ruimten vindt u onder het kopje zaalverhuur en voor meer info weet u ons te vinden.
 (Voor particuliere feesten en partijen zijn deze ruimtes helaas niet te huren)
 
+Mbt corona.
+Natuurlijk volgen wij de richtlijnen vanuit de overheid. Op dit moment zijn we de avonden gesloten.
+
 Graag tot ziens!
 Team Keijenburg
 
 
-## Alvast voor in de agenda; zie ook de agenda op de site!
-# Crea Veres Najaarsbeurs op zondag 21 november van 11.00 uur tot 16.00 uur. (entree gratis; met coronacheck indien u van het cafe gebruik maakt)
 
 
