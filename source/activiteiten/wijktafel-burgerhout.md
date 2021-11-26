@@ -3,7 +3,7 @@ tags: services
 visual: wijktafel.jpg
 icon: info.png
 title: Wijktafel Burgerhout
-excerpt: Vanaf Januari 2022: Elke 2de donderdag van de maand kunnen bewoners, ondernemers en partners uit Burgerhout in gesprek gaan met de sociale partners uit de wijk Burgerhout.
+excerpt: "Vanaf Januari 2022: Elke 2de donderdag van de maand kunnen bewoners, ondernemers en partners uit Burgerhout in gesprek gaan met de sociale partners uit de wijk Burgerhout."
 ---
 
 De wijktafel wordt gehouden van 16:00 - 17:00 uur in buurthuis Keijenburg. 
