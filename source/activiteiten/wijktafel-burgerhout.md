@@ -20,5 +20,3 @@ Gespreksonderwerpen kunnen gaan over leefbaarheid, welzijn, zorg en veiligheid.
 
 Iedere 2de donderdagdag van de maand van 16.00 tot 17.00 in Buurthuis Keijenburg.
 De eertse data in 2022 zijn: 13 jan, 10 feb, 10 maart, 14 april, 12 mei.
-
-
