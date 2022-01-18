@@ -1,6 +1,6 @@
 ---
 layout: content
-date: 2022-01-01
+date: 2022-01-17
 tags: news
 title: Wees welkom bij Buurthuis Keijenburg.
 ---
