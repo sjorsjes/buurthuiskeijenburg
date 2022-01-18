@@ -38,13 +38,6 @@
               "url": "verenigingen/engelse-les/"
             },
             {
-              "name": "Vitale Coalitie Burgerhout (3e ma v.d. maand)"
-            },
-            {
-              "name": "Wijktafel burgerhout (3e ma v.d. mnd)",
-              "url": "activiteiten/wijktafel-burgerhout/"
-            },
-            {
               "name": "Senioren yoga",
               "url": "verenigingen/dru-yoga/"
             }
@@ -219,6 +212,14 @@
             {
               "name": "Schildersclub Kunstkring 2000",
               "url": "verenigingen/schilderclub-kunstkring-2000/"
+            },
+            {
+              "name": "Wijktafel burgerhout (2e Donderdag v.d. mnd)",
+              "url": "activiteiten/wijktafel-burgerhout/"
+            },        },
+            {
+              "name": "Sociaal overleg Inwoners ondersteuning (elke week)",
+              "url": " /"
             },
             {
               "name": "Biljarten Keijenburg77",
