@@ -11,7 +11,7 @@
               "name": "Biljart W-groep"
             },
             {
-              "name": "Quilting Bee (1ste ma v.d. mnd)"
+              "name": "Quilting Bee (1ste maandag v.d. mnd)"
             },
             {
               "name": "Bewegen op maat",
@@ -31,7 +31,7 @@
               "url": "verenigingen/schildersvereniging-metverve/"
             },
             {
-              "name": "Kaarten (om de week)"
+              "name": "Kaarten maken(om de week)"
             },
             {
               "name": "Engelse les",
@@ -81,6 +81,9 @@
             },
             {
               "name": "Koersbal"
+            },
+            {
+              "name": "Quiet" 
             }
           ]
         },
@@ -114,6 +117,10 @@
             },
             {
               "name": "Schotse dansgroep Schiehallion"
+            },
+            {
+              "name": "Spaanse les Comlex",
+              "url": "verenigingen/spaanse-les-comlex/"
             }
           ]
         }
@@ -232,6 +239,9 @@
               "name": "Gymgroep VIB"
             },
             {
+              "name": "Tai-Chi"
+            },
+            {
               "name": "Bridge club",
               "url": "verenigingen/bridgen/"
             }
@@ -283,7 +293,7 @@
               "url": "verenigingen/out-of-line-dancers/"
             },
             {
-              "name": "Senioren Bingo Keijenburg (laatste vrijdag v.d. mnd)"
+              "name": "Senioren Bingo Keijenburg (2e vrijdag v.d. mnd)"
             }
           ]
         },
