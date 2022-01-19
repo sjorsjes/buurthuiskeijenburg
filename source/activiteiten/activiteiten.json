@@ -200,7 +200,8 @@
               "name": "Biljart W groep"
             },
             {
-              "name": "Tai-Chi"
+              "name": "Tai-Chi",
+              "url": "verenigingen/tai-chi/"
             },
             {
               "name": "Spaanse les Comlex",
@@ -292,7 +293,8 @@
               "url": "verenigingen/out-of-line-dancers/"
             },
             {
-              "name": "Senioren Bingo Keijenburg (2e vrijdag v.d. mnd)"
+              "name": "Senioren Bingo Keijenburg (2e vrijdag v.d. mnd)".
+              "url": "verenigingen/seniorenbingo-keijenburg/"
             }
           ]
         },
