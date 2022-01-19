@@ -4,9 +4,8 @@ eleventyNavigation:
     key: Senioren Bingo Keijenburg
 ---
 
-Speciaal voor de senioren in onze mooie wijk (en stad) organiseerd een vaste club Keijenburg-vrijwilligers 
-elke 2e vrijdag van de maand een gezellige Bingo middag.
-De prijzen wisselen per keer en bestaan uit boodschappen.
+Buurthuis Keijenburg organiseert elke 2e vrijdagmiddag van de maand een gezellige Bingo middag voor senioren.
+De prijzen wisselen per keer en bestaan uit levensmiddelen.
 
 Aanvangsttijd: 13.30 uur
 De zaal gaat open om 13 uur.
