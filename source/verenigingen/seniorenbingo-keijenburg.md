@@ -1,8 +1,9 @@
 ---
 eleventyNavigation:
     parent: Verenigingen
-    key: Senioren Bingo Keijenburg.
+    key: Senioren Bingo Keijenburg
 ---
+
 
 Buurthuis Keijenburg organiseert elke 2e vrijdagmiddag van de maand een gezellige Bingo middag voor senioren.
 De prijzen wisselen per keer en bestaan uit levensmiddelen.
@@ -17,5 +18,5 @@ Kosten:
 
 We spelen 9 rondes en een hoofdronde!
 
-Wees welkom!
+**Wees welkom!
 
