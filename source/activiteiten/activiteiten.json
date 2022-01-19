@@ -194,7 +194,8 @@
           "name": "ochtend",
           "activities": [
             {
-              "name": "Beweegroute Keijenburg om 10 uur"
+              "name": "Beweegroute Keijenburg om 10 uur",
+              "url": "verenigingen/beweegroute-keijenburg/"
             },
             {
               "name": "Biljart W groep"
