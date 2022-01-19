@@ -3,7 +3,7 @@ eleventyNavigation:
     parent: Verenigingen
     key: Tai Chi.
     
-    visual: verenigingen/Tai chi keijenburg.png 
+visual: verenigingen/tai_chi_keijenburg.png 
 ---
 
 Nieuw bij Keijenburg; Tai Chi!
