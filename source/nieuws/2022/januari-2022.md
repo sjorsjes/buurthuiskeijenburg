@@ -33,6 +33,14 @@ De horeca/bar is echter gesloten. Een kop koffie tijdens uw activiteit is wel mo
 Een mondkapje is ten aller tijden verplicht, ook als u zit en evenementen zijn helaas nog niet toegestaan.
 Zodra er veranderingen komen in de regels hoort u dit vanzelfsprekend van ons.
 
+## Rondje Burgerhout; wandelroute.
+Stap door de Roosendaalse buurt waar katholieke historie en de turfvaart tot leven komen; 
+ontwikkeld door stichting Burgerhout Bruist.
+
+De foldermet informatie over onze mooie wijk, inclusief routekaartje, is gratis verkrijgbaar 
+bij Buurthuis Keijenburg en VVV Roosendaal (adres: Markt 71)
+
+
 Graag tot ziens!
 Blijf gezond!
 
