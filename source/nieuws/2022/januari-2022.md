@@ -1,12 +1,13 @@
 ---
 layout: content
-date: 2022-01-17
+date: 2022-01-27
 tags: news
 title: Wees welkom bij Buurthuis Keijenburg.
 ---
 ## Diversiteit bij Buurthuis Keijenburg.
 
-Sinds de versoeplingen van 15 jan jl zijn we gelukkig weer open!
+Sinds de versoeplingen van 15 jan jl zijn we gelukkig weer open, er is wel een QR code nodig om binnen te mogen. 
+Zie voor meer informatie de corona regels onderaan deze pagina of het protocol versie jan 2022.
 
 Bij buurthuis Keijenburg is er van alles te doen!
 Mocht u tijd over hebben, zin hebben in een praatje, gezelschap of een nieuwe hobby zoeken....
@@ -27,18 +28,27 @@ Ook kunt u ruimtes huren voor uw vergadering, activiteit of bijeenkomst.
 Foto's van onze ruimten vindt u onder het kopje zaalverhuur en voor meer info weet u ons te vinden.
 (Voor particuliere feesten en partijen zijn deze ruimtes helaas niet te huren)
 
-## Corona.
-Natuurlijk volgen wij de richtlijnen vanuit de overheid. We zijn sinds 17 januari 2022 ook weer geopend voor kunst, cultuur, scholing en sport.
-De horeca/bar is echter gesloten. Een kop koffie tijdens uw activiteit is wel mogelijk, alcohol niet.
-Een mondkapje is ten aller tijden verplicht, ook als u zit en evenementen zijn helaas nog niet toegestaan.
-Zodra er veranderingen komen in de regels hoort u dit vanzelfsprekend van ons.
-
 ## Rondje Burgerhout; wandelroute.
 Stap door de Roosendaalse buurt waar katholieke historie en de turfvaart tot leven komen; 
 ontwikkeld door stichting Burgerhout Bruist.
 
 De folder met informatie over onze mooie wijk, inclusief routekaartje, is gratis verkrijgbaar 
 bij Buurthuis Keijenburg en VVV Roosendaal (adres: Markt 71) of [download hier de folder](/lib/files/rondje-burgerhout.pdf) om zelf te printen.
+
+## Corona binnenkomst met QR code.
+Natuurlijk volgen wij de richtlijnen vanuit de overheid. 
+We zijn gelukkig weer volledig geopend tot 22.00 savonds. Binnenkomst is met een QR code.
+We zijn verplicht uw QR code bij binnekomst te scannen.(via smartfone of op papier) Zonder code kunt u helaas niet binnen.
+Uw code wordt bij de bar gescant.
+Mocht u hulp nodig hebben met het aanvragen of klaarzetten van uw QR code raden wij u aan contact te zoeken met het Digipunt van Roosendaal.
+Zij zijn te benaderen via wonenplus@wijzijntraverse.nl of telefoonnummer 06-38772526.
+
+De horeca/bar is per 28 januari ook weer open. Dat betekend dat u weer in het cafe plaats mag nemen en er alcohol geschonken mag worden.
+Een mondkapje is ten aller tijden verplicht, als u plaats neemt mag deze af. 
+Ook de 1,5 meter dient nog in acht genomen te worden. Houd dus ruimte tussen de zitplaatsen.
+
+Zodra er veranderingen komen in deze regels hoort u dit vanzelfsprekend van ons.
+
 
 Graag tot ziens!
 Blijf gezond!
