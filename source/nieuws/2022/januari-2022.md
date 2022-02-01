@@ -28,6 +28,11 @@ Ook kunt u ruimtes huren voor uw vergadering, activiteit of bijeenkomst.
 Foto's van onze ruimten vindt u onder het kopje zaalverhuur en voor meer info weet u ons te vinden.
 (Voor particuliere feesten en partijen zijn deze ruimtes helaas niet te huren)
 
+## zet in je agenda! 22 Feb; Speurtocht voor de gezinnen in de wijk Burgerhout!
+Om 16 uur start er bij Buurthuis Keijenburg een speurtocht voor gezinnen uit onze mooie wijk!
+Het wordt georganiseerd door stichting buurtgezinnen en ieder gezin mag mee doen! 
+Kom ook gezelig langs!
+
 ## Rondje Burgerhout; wandelroute.
 Stap door de Roosendaalse buurt waar katholieke historie en de turfvaart tot leven komen; 
 ontwikkeld door stichting Burgerhout Bruist.
