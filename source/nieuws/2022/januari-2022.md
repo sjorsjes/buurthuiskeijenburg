@@ -40,13 +40,10 @@ ontwikkeld door stichting Burgerhout Bruist.
 De folder met informatie over onze mooie wijk, inclusief routekaartje, is gratis verkrijgbaar 
 bij Buurthuis Keijenburg en VVV Roosendaal (adres: Markt 71) of [download hier de folder](/lib/files/rondje-burgerhout.pdf) om zelf te printen.
 
-## Corona binnenkomst met QR code.
+## Corona binnenkomst zonder QR code.
 Natuurlijk volgen wij de richtlijnen vanuit de overheid. 
-We zijn gelukkig weer volledig geopend tot 22.00 savonds. Binnenkomst is met een QR code.
-We zijn verplicht uw QR code bij binnekomst te scannen.(via smartfone of op papier) Zonder code kunt u helaas niet binnen.
-Uw code wordt bij de bar gescant.
-Mocht u hulp nodig hebben met het aanvragen of klaarzetten van uw QR code raden wij u aan contact te zoeken met het Digipunt van Roosendaal.
-Zij zijn te benaderen via wonenplus@wijzijntraverse.nl of telefoonnummer 06-38772526.
+We zijn gelukkig weer volledig geopend tot 22.00 savonds. Binnenkomst is in tegenstelling tot eerdere berichten zonder QR code.
+We hebben nieuwe info vanuit de gemeente ontvangen waaruit blijkt dat we de activiteiten binnen een buurthuis als laagdrempelig mogen beschouwen en daarbij is een QR code niet noodzakelijk. Dit geld enkel voor de vaste activiteiten. Mensen die enkel van de horeca gebruik willen maken en evenementen dienen wel met QR code plaats te vinden.
 
 De horeca/bar is per 28 januari ook weer open. Dat betekend dat u weer in het cafe plaats mag nemen en er alcohol geschonken mag worden.
 Een mondkapje is ten aller tijden verplicht, als u plaats neemt mag deze af. 
