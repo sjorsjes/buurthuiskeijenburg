@@ -6,8 +6,8 @@ title: Wees welkom bij Buurthuis Keijenburg.
 ---
 ## Diversiteit bij Buurthuis Keijenburg.
 
-Sinds de versoeplingen van 15 jan jl zijn we gelukkig weer open, er is wel een QR code nodig om binnen te mogen. 
-Zie voor meer informatie de corona regels onderaan deze pagina of het protocol versie jan 2022.
+Sinds de versoeplingen van 15 jan jl zijn we gelukkig weer open.
+Informatie mbt de corona regels staan onderaan deze pagina.
 
 Bij buurthuis Keijenburg is er van alles te doen!
 Mocht u tijd over hebben, zin hebben in een praatje, gezelschap of een nieuwe hobby zoeken....
