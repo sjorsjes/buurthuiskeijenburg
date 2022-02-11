@@ -11,6 +11,10 @@
         "image": "team/vrijwilligers/ad-2.png"
       },
       {
+        "name": "Bonnie",
+        "image": "team/vrijwilligers/bonnie.png"
+      },
+      {
         "name": "Cees",
         "image": "team/vrijwilligers/cees.png"
       },
@@ -21,6 +25,14 @@
       {
         "name": "Ed",
         "image": "team/vrijwilligers/ed.png"
+      },
+      {
+        "name": "Gerda",
+        "image": "team/vrijwilligers/gerda.png"
+      },
+      {
+        "name": "Janny",
+        "image": "team/vrijwilligers/janny.png"
       },
       {
         "name": "Joke",
