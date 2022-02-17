@@ -6,17 +6,24 @@ eleventyNavigation:
 
 BEWEGEN OP MAAT
  
-Bewegen op maat is een bewegingsprogramma voor mensen met o.a. Parkinson, MS, Reuma en niet aangeboren hersenletsel.
-Onder deskundige begeleiding van dans- en bewegingstherapeut Madeleine Benjert
-bieden deze lessen een inspirerende omgeving om met gelijkgestemden actief te zijn, om je vrijer en onafhankelijker te voelen en vooral te bewegen met plezier op mooie muziek.
-Een uitdaging voor lichaam en geest, voor iedereen toegankelijk!
-De ervaring die je in deze lessen meekrijgt helpen je om je gedurende de week makkelijker te bewegen.
- 
-Datum:     Wekelijks vanaf 6 september van 10.30-11.30u
-Locatie:   Buurthuis Keijenburg
-          
-Kom gratis kennis maken en meedoen tijdens een kennismakingsles!
-Gedurende het gehele seizoen is het mogelijk om een kennismakingsles te volgen.
-Voor meer informatie kunt u ook contact opnemen met Madeleine Benjert.Telefoonnummer: 06-53427094.
+Een bewegingsprogramma voor mensen met o.a. Parkinson, MS, reuma en niet aangeboren hersenletsel. 
+Onder deskundige begeleiding van dans- en bewegingstherapeute Madeleine Benjert.
 
-Wees welkom!
+Deze lessen bieden een inspirerende omgeving om met gelijkgestemden op eigen niveau actief in beweging te zijn, 
+om je vrijer en onafhankelijker te voelen, en vooral te bewegen met plezier op passende muziek. 
+Een uitdaging voor je lichaam & geest, je ( nieuwe) mogelijkheden ervaren en beleven. 
+Tegelijkertijd werk je o.a. aan coördinatie, balans, stabiliteit, kracht, cognitie. 
+
+Het eerste deel van de les werken we op de stoel, daarna voor wie wil/ kan ook staand en door de ruimte.
+De lessen zijn voor iedereen toegankelijk onafhankelijk van de mate van mobiliteit , ervaring is niet nodig. 
+De ervaring die je in deze lessen meekrijgt helpen je om je gedurende de week makkelijker te bewegen.
+
+**Elke maandag 10.30 – 11.30 uur, daarna koffie of thee.
+
+**Gratis proefles!
+Buurthuis Keijenburg
+Keijenburg 70						
+Roosendaal
+
+Belangstelling? Stuur een mail naar madeleinebenjert@gmail.com
+						
