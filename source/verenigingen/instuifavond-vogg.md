@@ -1,3 +1,4 @@
+---
 eleventyNavigation:
     parent: Verenigingen
     key: Instuifavond VOGG
