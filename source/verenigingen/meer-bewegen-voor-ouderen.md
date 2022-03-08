@@ -13,6 +13,5 @@ De oefeningen zijn afgestemd op de senioren en gaan op een speelse manier onder 
 
 Het lidmaatschap bedraagt € 10,– per maand, contant te betalen. Voor men besluit lid te worden, kan men 2 keer gratis een les bijwonen.
 
-Voor nadere inlichtingen kunt u bellen of mailen naar Geert van Tilburg.  
-Tel: [0165 536427](tel:0165536427)  
-Email: [g.van.tilburg@home.nl](mailto:g.van.tilburg@home.nl)
+Voor nadere inlichtingen kunt u bellen of mailen naar Joke Hoevenaars.  
+jikehoevenars1@gmail.com 
