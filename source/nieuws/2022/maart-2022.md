@@ -2,7 +2,7 @@
 layout: content
 date: 2022-03-08
 tags: news
-title: Stap binnen bij Buurthuis Keijenburg.
+title: Stap eens binnen bij Buurthuis Keijenburg.
 ---
 ## Diversiteit bij Buurthuis Keijenburg.
 
@@ -11,6 +11,9 @@ Mocht u tijd over hebben, zin hebben in een praatje, gezelschap of een nieuwe ho
 Keijenburg heeft een divers aanbod van vaste activiteiten! Van handwerken tot biljart, van bewegen op maat tot het leren van nieuwe talen.
 Voor meer informatie kijkt u onder het kopje verenigingen en in de vaste week planning.
 Mocht u meer willen weten of vragen hebben kunt u natuurlijk altijd contact met ons opnemen.
+
+## Per Maart start het soepuurtje weer op!
+Elke woensdag en donderdag tussen 12 en 13 uur kunt u voor 1,50 euro een heerlijk kopje soep komen eten!
 
 ## Gratis corona zelftests voor minima.
 Gemeente Roosendaal stelt gratis corona zelftests ter beschikking voor iedereen die niet de financiele middelen heeft deze te kopen.
