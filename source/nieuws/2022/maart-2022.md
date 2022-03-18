@@ -20,7 +20,7 @@ Gemeente Roosendaal stelt gratis corona zelftests ter beschikking voor iedereen 
 U kunt een test ophalen bij ons buurthuis. U hoeft niks aan te tonen, wij registreren uw gegevens niet, gewoon even om een test vragen.
 
 ## Vrijwilliger gezocht!
-Voor de vrijdag ochtend zoeken wij nog een collega voor achter de bar!
+Voor de dinsdag avond zoeken wij nog een collega voor achter de bar!
 Komt u ons mooie team versterken? Het is de uitgelezen kans om nieuwe mensen te leren kennen en u tegelijkertijd in te zetten voor onze mooie wijk/stad.
 Voor meer informatie kunt u contact opnemen met AnneBelle; onze zakelijk leidster. We komen graag met u in contact!
 
