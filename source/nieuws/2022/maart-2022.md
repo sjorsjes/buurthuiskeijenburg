@@ -12,6 +12,12 @@ Keijenburg heeft een divers aanbod van vaste activiteiten! Van handwerken tot bi
 Voor meer informatie kijkt u onder het kopje verenigingen en in de vaste week planning.
 Mocht u meer willen weten of vragen hebben kunt u natuurlijk altijd contact met ons opnemen.
 
+## Roosendaalse Fit week! Keijenburg organiseerd een Beweegbingo.
+Doet u mee aan de roosendaalse Fit week? Bij ons kan dat door deel te nemen aan de beweegbingo.
+Deze beweegbingo zit vol oefeningen (op ieders niveau) en gezonde snacks.
+Koffie en thee wordt u gratis door het buurthuis aangeboden en de deelname aan de bingo is ook gratis!
+Donderdag 31 maart om 09.30 uur bent u van harte welkom voor de beweegbingo. 
+
 ## Per Maart start het soepuurtje weer op!
 Elke woensdag en donderdag tussen 12 en 13 uur kunt u voor 1,50 euro een heerlijk kopje soep komen eten!
 
