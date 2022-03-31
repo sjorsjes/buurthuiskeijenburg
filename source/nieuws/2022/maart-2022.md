@@ -12,13 +12,12 @@ Keijenburg heeft een divers aanbod van vaste activiteiten! Van handwerken tot bi
 Voor meer informatie kijkt u onder het kopje verenigingen en in de vaste week planning.
 Mocht u meer willen weten of vragen hebben kunt u natuurlijk altijd contact met ons opnemen.
 
-## Roosendaalse Fit week! Keijenburg organiseerd een Beweegbingo.
-Doet u mee aan de roosendaalse Fit week? Bij ons kan dat door deel te nemen aan de beweegbingo.
-Deze beweegbingo zit vol oefeningen (op ieders niveau) en gezonde snacks.
-Koffie en thee wordt u gratis door het buurthuis aangeboden en de deelname aan de bingo is ook gratis!
-Donderdag 31 maart om 09.30 uur bent u van harte welkom voor de beweegbingo. 
+## Komt u ook? Voor meer informatie zie de maandagenda!
+- 3 april is er weer een voorjaar fair in buurthuis Keijenburg! De toegang is gratis.
+- 8 april is er weer een senioren bingo!
+- 14 april is er een paas ontbijt; kaarten zijn te koop bij de bar of via telefoon/email.
 
-## Per Maart start het soepuurtje weer op!
+## Schuift u ook aan bij het soepuurtje?
 Elke woensdag en donderdag tussen 12 en 13 uur kunt u voor 1,50 euro een heerlijk kopje soep komen eten!
 
 ## Gratis corona zelftests voor minima.
@@ -34,9 +33,6 @@ Voor meer informatie kunt u contact opnemen met AnneBelle; onze zakelijk leidste
 Ook kunt u ruimtes huren voor uw vergadering, activiteit of bijeenkomst.
 Foto's van onze ruimten vindt u onder het kopje zaalverhuur en voor meer info weet u ons te vinden.
 (Voor particuliere feesten en partijen zijn deze ruimtes helaas niet te huren)
-
-## Er kunnen weer extra activiteiten georganiseerd worden!
-Kijk voor meer informatie in de maand agenda op deze site.
 
 ## Rondje Burgerhout; wandelroute.
 Stap door de Roosendaalse buurt waar katholieke historie en de turfvaart tot leven komen; 
