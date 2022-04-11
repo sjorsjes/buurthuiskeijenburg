@@ -1,6 +1,7 @@
 require('dotenv').config();
 
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 const filterByYear = require('./filters/filterByYear');
 const filterByYearAndMonth = require('./filters/filterByYearAndMonth');
@@ -8,6 +9,8 @@ const { formatDay, formatNumericDay, formatMonth, formatYear, formatDateTime } =
 const sortByTitle = require('./filters/filterSortByTitle');
 
 module.exports = function (config) {
+	config.addPlugin(UpgradeHelper);
+
 	// LAYOUTS
 	config.addLayoutAlias('base', 'layouts/base.njk');
 	config.addLayoutAlias('home', 'layouts/home.njk');

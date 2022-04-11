@@ -96,10 +96,6 @@ blockquote {
 }
 
 .content {
-	p + table {
-		margin-top: -1rem;
-	}
-
 	h2 + p {
 		margin-top: var(--distance-s);
 	}
