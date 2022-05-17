@@ -1,11 +1,11 @@
 ---
 eleventyNavigation:
     parent: Verenigingen
-    key: Senioren Bingo Keijenburg
+    key: Bingo Keijenburg
 ---
 
 
-Buurthuis Keijenburg organiseert elke 2e vrijdagmiddag van de maand een gezellige Bingo middag voor senioren.
+Buurthuis Keijenburg organiseert elke 2e vrijdagmiddag van de maand een gezellige Bingo middag voor iedereen die van bing houdt!
 De prijzen wisselen per keer en bestaan uit levensmiddelen.
 
 Aanvangsttijd: 13.30 uur
