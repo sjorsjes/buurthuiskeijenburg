@@ -295,8 +295,8 @@
               "url": "verenigingen/out-of-line-dancers/"
             },
             {
-              "name": "Senioren Bingo Keijenburg (2e vrijdag v.d. mnd)",
-              "url": "verenigingen/seniorenbingo-keijenburg/"
+              "name": "Bingo Keijenburg (2e vrijdag v.d. mnd)",
+              "url": "verenigingen/bingo-keijenburg/"
             }
           ]
         },
@@ -324,12 +324,7 @@
         },
         {
           "name": "middag",
-          "activities": [
-            {
-              "name": "Keijenburg Bingo (voorlopig niet)",
-              "url": "verenigingen/keijenburg-bingo/"
-            }
-          ]
+          "activities": []
         },
         {
           "name": "avond",
