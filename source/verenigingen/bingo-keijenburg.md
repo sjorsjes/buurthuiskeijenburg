@@ -5,7 +5,7 @@ eleventyNavigation:
 ---
 
 
-Buurthuis Keijenburg organiseert elke 2e vrijdagmiddag van de maand een gezellige Bingo middag voor iedereen die van bing houdt!
+Buurthuis Keijenburg organiseert elke 2e vrijdagmiddag van de maand een gezellige Bingo middag voor iedereen die van bingo houdt!
 De prijzen wisselen per keer en bestaan uit levensmiddelen.
 
 Aanvangsttijd: 13.30 uur
