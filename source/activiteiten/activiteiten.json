@@ -82,9 +82,6 @@
             {
               "name": "Koersbal",
               "url": "verenigingen/koersbal/"
-            },
-            {
-              "name": "Quiet" 
             }
           ]
         },
@@ -122,6 +119,9 @@
             {
               "name": "Spaanse les Comlex",
               "url": "verenigingen/spaanse-les-comlex/"
+            },
+            {
+              "name": "Yoga"
             }
           ]
         }
@@ -175,10 +175,6 @@
             {
               "name": "Nouveau",
               "url": "verenigingen/nouveau/"
-            },
-            {
-              "name": "Dru Yoga",
-              "url": "verenigingen/dru-yoga/"
             },
             {
               "name": "VOGG (2e wo v.d. mnd)",
