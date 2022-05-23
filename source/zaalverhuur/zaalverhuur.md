@@ -66,8 +66,8 @@ De afmetingen van de gehele zaal bedragen 12m. x 12m.
 
 ![½ Josephzaal (bargedeelte)]({{ "/" | url }}lib/img/zalen/josephzaal-bar.jpg "½ Josephzaal (bargedeelte)")
 
-### Kantoor penningmeester
-Het kantoor van de penningmeester bevindt zich op de 1e verdieping. Deze ruimte is niet te huur.
+### Kantoor boven
+Het kantoor op de eerste verdieping is te huur en biedt zoals het nu ingericht is ruimte voor 2 werkplekken.
 
 ### Bestuurskamer
 Deze vergaderruimte bevindt zich op de 1e verdieping, en is geschikt voor maximaal 8 personen. Ruimte voorzien van een whiteboard.
