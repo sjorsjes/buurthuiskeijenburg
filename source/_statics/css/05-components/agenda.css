@@ -93,9 +93,5 @@
 }
 
 .agenda__no-items {
-	display: block;
-
-	width: 100%;
-
 	padding: 1rem;
 }

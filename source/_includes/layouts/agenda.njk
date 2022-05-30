@@ -8,7 +8,7 @@ layout: content
 {%- for month in months -%}
 	<div class="agenda">
 		<h2 class="agenda__month">{{ month.month }} {{ month.year }}</h2>
-		
+
 		{% if month.data.length %}
 			<ul class="agenda__list">
 			{%- for activity in month.data -%}
@@ -32,7 +32,7 @@ layout: content
 		{% else %}
 			<ul class="agenda__list">
 				<li class="agenda__list-item">
-					<span class="agenda__no-items">Op dit moment zijn er nog geen activiteiten bekend.</span>
+					<div class="agenda__no-items">Op dit moment zijn er nog geen activiteiten bekend.</div>
 				</li>
 			</ul>
 		{% endif %}

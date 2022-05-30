@@ -19,8 +19,8 @@ const format = (dateString) => {
 	return {
 		numericDay,
 		numericMonth,
-		day: days.get(weekday),
-		month: months.get(numericMonth),
+		day: days.has(weekday) ? days.get(weekday) : weekday,
+		month: months.has(numericMonth) ? months.get(numericMonth) : numericMonth,
 		year: new Intl.DateTimeFormat([], yearOptions).format(date),
 		hours: date.getHours(),
 		minutes: date.getMinutes()
