@@ -44,7 +44,7 @@
               "name": "Nederlandse les via Bharosa Taaluiting)"
             },
             {
-              "name": "Senioren yoga",
+              "name": "Yoga",
               "url": "verenigingen/dru-yoga/"
             }
           ]
@@ -131,6 +131,7 @@
             },
             {
               "name": "Yoga"
+              "url": "verenigingen/dru-yoga/"
             }
           ]
         }
@@ -148,6 +149,7 @@
             },
             {
               "name": "Koersbal"
+              "url": "verenigingen/koersbal/"
             },
             {
               "name": "Lapjesberg",
