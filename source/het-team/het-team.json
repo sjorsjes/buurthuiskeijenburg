@@ -47,6 +47,10 @@
         "image": "team/vrijwilligers/marianne.png"
       },
       {
+        "name": "Marionne",
+        "image": "team/anoniem.png"
+      },
+      {
         "name": "Mieke",
         "image": "team/vrijwilligers/mieke.png"
       },
@@ -79,6 +83,10 @@
         "image": "team/vrijwilligers/robbie.png"
       },
       {
+        "name": "Suzan",
+        "image": "team/vrijwilligers/suzan.png"
+      },
+      {
         "name": "Wally",
         "image": "team/vrijwilligers/wally.png"
       }
@@ -103,6 +111,10 @@
       {
         "name": "Marcel de Beer",
         "image": "team/bestuur/marcel-de-beer.png"
+      },
+      {
+        "name": "Pascale van Zuilen",
+        "image": "team/bestuur/pascale.png"
       },
       {
         "name": "Wilbert Brouwers",
