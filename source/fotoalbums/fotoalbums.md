@@ -4,6 +4,7 @@ eleventyNavigation:
     key: Fotoalbums
 
 galleryYears:
+- 2022
 - 2020
 - 2019
 
