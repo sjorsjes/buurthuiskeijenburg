@@ -7,11 +7,12 @@ eleventyNavigation:
 ---
 
 Stichting Buurthuis Keijenburg hecht waarde aan de privacy van diens medewerkers, vrijwilliger en gebruikers.
-Gegevens worden enkel verzameld en opgeslagen indien dit noodzakelijk is voor een goede samenwerking. Verwerking en gebruik hiervan gaat conform de AVG-wetgeving. (Algemene Verordening Gegevensbescherming) 
+Gegevens worden enkel verzameld en opgeslagen indien dit noodzakelijk is voor een goede samenwerking. Verwerking en gebruik hiervan gaat conform de AVG-wetgeving. (Algemene Verordening Gegevensbescherming)
 
 In deze privacy policy willen we transparante informatie geven over hoe wij met (bijzondere) persoonsgegevens omgaan.
 
-Wij als Buurthuis Keijenburg zijn verantwoordelijk voor de verwerking van uw persoonsgegevens.
+Wij als Buurthuis Keijenburg zijn verantwoordelijk voor de verwerking van uw
+persoonsgegevens.
 In de verwerking van de (bijzondere) persoonsgegevens zullen wij in ieder geval:
 -	De gegevensverwerking in overeenstemming met het doel waarvoor ze zijn verstrekt.
 -	Niet meer gegevens vragen dan die strikt noodzakelijk zijn voor deze verwerking.
@@ -27,14 +28,13 @@ Persoonsgegevens die door Keijenburg worden verwerkt ten behoeve van de volgende
 - Communicatie over deze opdrachten of uitnodigingen  
  
 Voor de bovenstaande doelstelling(en) kan Buurthuis Keijenburg (voor zover noodzakelijk en van toepassing) de volgende persoonsgegevens van je vragen:  
-- Voornaam 
-- Tussenvoegsel 
-- Achternaam 
-- Geboortedatum 
-- Kopie ID-kaart
+- Voornaam  
+- Tussenvoegsel  
+- Achternaam  
+- Geboortedatum  
 - Telefoonnummer (vast en/of mobiel)  
-- E-mailadres 
-- Bank gegevens  (enkel van medewerkers)
+- E-mailadres  
+- Bank gegevens (enkel van medewerkers)
 
 ## Bewaartermijn 
 Buurthuis Keijenburg bewaart persoonsgegevens niet langer dan noodzakelijk voor het doel waarvoor deze zijn verstrekt dan wel op grond van de wet is vereist. 
@@ -48,7 +48,7 @@ Verwerking van persoonsgegevens van Klanten of leveranciers worden door Keijenbu
 Grondslag voor deze persoonsgegevens is: De overeengekomen opdracht. 
 
 ## Verstrekking aan derden
-We verzamelen informatie die u heef ingegeven tijdens het maken van uw vrijwilligersovereenkomst dan wel het aangaan van een (tijdelijk/permanent) (huur)contract. We slaan ook de persoonlijke informatie op die u daarbij heeft opgegeven.  De gegevens die u aan ons geeft kunnen wij aan derde partijen verstrekken indien dit noodzakelijk is voor uitvoering van de hierboven beschreven doeleinden.  
+We verzamelen informatie die u heef ingegeven tijdens het maken van uw vrijwilligersovereenkomst dan wel het aangaan van een (tijdelijk/permanent) (huur)contract. We slaan ook de persoonlijke informatie op die u daarbij heeft opgegeven. De gegevens die u aan ons geeft kunnen wij aan derde partijen verstrekken indien dit noodzakelijk is voor uitvoering van de hierboven beschreven doeleinden.  
 
 Zo maken wij gebruik van een derde partij voor: 
 - Subsidie aanvraag van Keijenburg
@@ -85,3 +85,10 @@ Mocht u een klacht hebben over de verwerking van uw persoonsgegevens dan vragen 
  
 ## Vragen?
 Indien u na het lezen van deze policy nog vragen kunt u [contact opnemen met Hilja van Eekelen (bestuurslid)](/contact). Dit kan via telefoon, mail of loop even binnen.
+
+**Contactgegevens**  
+Buurthuis Keijenburg  
+Keijenburg 70  
+4702 CG Roosendaal  
+Tel [0165-535439](tel:0165535439)  
+Email: [buurthuis.keijenburg@home.nl](mailto:buurthuis.keijenburg@home.nl)  
