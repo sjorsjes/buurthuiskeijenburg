@@ -13,4 +13,4 @@ Wij willen graag samen muziek maken, elkaar in een goede sfeer stimuleren om zo 
 
 Ben je een geoefende zanger(es) en zoek je een goed en gezellig koor dat hard wil werken om prachtige koormuziek tot klinken te brengen dan is het Roosendaals Kamerkoor wellicht ook iets voor jou.
 
-Als u geïnteresseerd bent, kunt u contact opnemen met onze secretaris Ad Hopstaken, liefst via de mail [info@roosendaalskamerkoor.nl](mailto:info@roosendaalskamerkoor.nl) of telefonisch [06-36348888](tel:0636348888)
+Als u geïnteresseerd bent, kunt u contact opnemen met onze secretaris Christel Vink, liefst via de mail [info@roosendaalskamerkoor.nl](mailto:info@roosendaalskamerkoor.nl) of telefonisch met de voorzitter Ans van Aken [06-19634653](tel:0619634653)
