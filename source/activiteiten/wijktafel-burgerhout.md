@@ -18,8 +18,7 @@ Hier kunnen bewoners, ondernemers en partners uit Burgerhout maandelijks in gesp
 
 Gespreksonderwerpen kunnen gaan over leefbaarheid, welzijn, zorg en veiligheid.
 
-Iedere 2de donderdagdag van de maand van 16.00 tot 17.00 in Buurthuis Keijenburg.
-De eertse data in 2022 zijn: 13 jan, 10 feb, 10 maart, 14 april, 12 mei.
+Iedere 2de donderdag van de maand van 16.00 tot 17.00 in Buurthuis Keijenburg.
 
 Heeft u vooraf vragen over de wijktafel neem dan contact op met de Opbouwwerker Marco van Belle.
 Email:		marco.vanbelle@wijzijntraversegroep.nl
