@@ -21,7 +21,7 @@ Matjes zijn aanwezig.
 
 Voor meer informatie of 
 het aanmelden voor een kennismakingsles:
-b.vandesanden@ziggo.nl 
+b.vandesanden@home.nl 
 
 
 Bette van de Sanden 
