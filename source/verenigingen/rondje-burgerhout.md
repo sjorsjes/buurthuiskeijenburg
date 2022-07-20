@@ -2,15 +2,21 @@
 eleventyNavigation:
     parent: Verenigingen
     title: >
-        Rondje Burgerhout; wandelroute.
+        Rondje Burgerhout
     key: > 
         Rondje Burgerhout
 
 visual: verenigingen/rondje-burgerhout.jpg
 ---
 
-Stap door de Roosendaalse buurt waar katholieke historie en de turfvaart tot leven komen; 
-ontwikkeld door stichting Burgerhout Bruist.
+## Stap door de Roosendaalse buurt waar katholieke historie en de turfvaart tot leven komen.
 
-De folder met informatie over onze mooie wijk, inclusief routekaartje, is gratis verkrijgbaar 
-bij Buurthuis Keijenburg en VVV Roosendaal (adres: Markt 71) of [download hier de folder](/lib/files/rondje-burgerhout.pdf) om zelf te printen.
+De folder is op te halen bij:
+- Buurthuis Keijenburg (Keijenburg 70)
+- VVV Roosendaal (Markt 71)
+
+Ook kunt u [hier de folder downloaden](/lib/files/rondje-burgerhout.pdf).
+
+“Rondje Burgerhout” is een wandelroute van ongeveer 4 km. Tijdens de wandeling komt u langs historisch interessante plaatsen waar u informatie over vindt in de folder. De wandeling kan gedaan worden met rolstoel of rollator en is kindvriendelijk.  
+  
+Geniet van ons mooie Roosendaal.
