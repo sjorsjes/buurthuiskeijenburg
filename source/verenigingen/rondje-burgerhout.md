@@ -1,10 +1,13 @@
 ---
 eleventyNavigation:
     parent: Verenigingen
-    key: Rondje Burgerhout
----
+    title: >
+        Rondje Burgerhout; wandelroute.
+    key: > 
+        Rondje Burgerhout
 
-Rondje Burgerhout; wandelroute.
+visual: verenigingen/rondje-burgerhout.jpg
+---
 
 Stap door de Roosendaalse buurt waar katholieke historie en de turfvaart tot leven komen; 
 ontwikkeld door stichting Burgerhout Bruist.
