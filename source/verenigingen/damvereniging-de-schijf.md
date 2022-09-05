@@ -4,12 +4,15 @@ eleventyNavigation:
     key: Damvereniging De Schijf
 ---
 
-Damvereniging de Schijf speelt op de dinsdagavonden. Vanaf 19.30 uur voor de onderlinge clubcompetitie. Soms ook voor de Provinciale Nederlandse Dambond (PNDB).
 
-Aan het sneldammen mag iedereen meedoen, ook degenen de niet hebben meegedaan aan het toernooi. Dus iedereen is van harte welkom!
+Roosendaalse Damvereniging De Schijf
 
-Voor nadere inlichtingen kunt u bellen of mailen naar John Abelshausen.  
-Tel: [06-50535298](tel:0650535298)  
-Email: [johnabelshausen@live.nl](mailto:johnabelshausen@live.nl)
+Elke dinsdagavond vanaf 19.30 uur houdt de Roosendaalse damvereniging De Schijf de clubavond in De Keijenburg.
+De Schijf is een kleine vereniging waar naast het spelen van serieuze dampartijen nadrukkelijk plaats is voor een gezellige clubsfeer. 
+
+Nieuwe leden zijn altijd zeer welkom. 
+Iedereen die belangstelling heeft voor deze mooie denksport, jong of oud, beginner of iemand die het dammen na lange tijd weer eens wil oppakken, loop eens binnen op een dinsdagavond om zo kennis te maken met onze damclub.  
+
+Voor nadere informatie kunt u ook even bellen met telefoonnummer 06-53762445.
 
 
