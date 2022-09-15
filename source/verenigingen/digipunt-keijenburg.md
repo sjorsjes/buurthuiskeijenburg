@@ -1,4 +1,9 @@
-Digipunt Keijenburg.
+---
+eleventyNavigation:
+    parent: Verenigingen
+    key: Digipunt Keijenburg
+---
+
 Elke dinsdagochtend vanaf 10.00 uur!
 
 Onze vrijwilliger Wim zit elke dinsdagochtend in het cafe voor u klaar!
