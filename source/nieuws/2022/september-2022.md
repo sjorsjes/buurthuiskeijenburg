@@ -21,7 +21,7 @@ Kijk voor het hele overzicht in de maandagenda op deze site.
 
 ## Digipunt Keijenburg.
 Vanaf september is er elke dinsdag ochtend een digipint binnen Keijenburg.
-Wim, onze vrijwilliger, helpt u vanaf 10.00 uur met al uw vragen op digitaal gebied! (hij repareert niet)
+Wim, onze vrijwilliger, helpt u van 10.00 - 12.00 uur met al uw vragen op digitaal gebied! (hij repareert niet)
 Heeft u vragen, wilt u dat er even iemand meekijkt.... u bent van harte Welkom in ons cafe!
 
 ## Vrijwilligers gezocht!
