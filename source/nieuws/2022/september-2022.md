@@ -12,10 +12,17 @@ Alle verenigingen starten weer op en extra activiteiten worden weer opgezet.
 Loop eens binnen! U bent van harte welkom!
 
 ## Komt u ook? 
-- Donderdag 1 sept om 14 uur is er weer een KBO middag.
-- Vrijdag 9 sept is er weer Bingo.
-- Zondag 11 september is er weer een dansmiddag!
-Maar er staat meer op de planning! Kijk voor het hele overzicht in de maandagenda op deze site.
+- Donderdag 15 sept om 14 uur is er weer een KBO middag.
+- Zondag 18 september is er een vintage / brocante markt.
+- Zondag 9 oktober is er een korendag.
+- Vrijdag 14 oktober is er weer Bingo.
+Maar er staat meer op de planning! 
+Kijk voor het hele overzicht in de maandagenda op deze site.
+
+## Digipunt Keijenburg.
+Vanaf september is er elke dinsdag ochtend een digipint binnen Keijenburg.
+Wim, onze vrijwilliger, helpt u met al uw vragen op digitaal gebied! (hij repareert niet)
+Heeft u vragen, wilt u dat er even iemand meekijkt.... u bent van harte Welkom in ons cafe!
 
 ## Vrijwilligers gezocht!
 Wij zoeken (inval) collega's voor achter de bar! Met name voor af en toe een weekend dagdeel. Alles uiteraard in overleg.
