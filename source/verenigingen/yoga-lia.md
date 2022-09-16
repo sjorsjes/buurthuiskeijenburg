@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
     parent: Verenigingen
-    key: Yoga 
+    key: Yoga van Lia
 ---
 
 Lia van Nijnatten van Lia’s Yoga verzorgt yoga lessen op 
