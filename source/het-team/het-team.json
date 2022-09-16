@@ -85,10 +85,6 @@
       {
         "name": "Suzan",
         "image": "team/vrijwilligers/suzan.png"
-      },
-      {
-        "name": "Wally",
-        "image": "team/vrijwilligers/wally.png"
       }
     ],
     "personeelsleden": [
@@ -102,11 +98,6 @@
         "name": "Hilja van Eekelen",
         "function": "secretaris",
         "image": "team/bestuur/hilja-van-eekelen.png"
-      },
-      {
-        "name": "Johan Elst",
-        "function": "penningmeester",
-        "image": "team/bestuur/johan-elst.png"
       },
       {
         "name": "Marcel de Beer",
