@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
     parent: Verenigingen
-    key: Yoga 
+    key: Yoga van Bette
 ---
 
 **Yoga
