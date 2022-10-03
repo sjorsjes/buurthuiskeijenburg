@@ -21,7 +21,7 @@ Elke 2e vrijdag van de maand organiseren wij een seniorenbingo voor kwetsbare ou
 Onze boekenkast is geopend op dinsdag- en donderdagmiddag van 14.00 tot 16.00 uur. Melden bij binnenkomst.
 
 ## Beweegroute
-Leuk, rollator vriendelijk, wandelpad met verschillende beweegoefeningen tussendoor. Eén route van 1,65 km en één route van 2,65 km. <a href="{{ '/' | 'url'}}lib/files/beweegroute.pdf">Meer informatie</a>.
+Leuk, rollator vriendelijk, wandelpad met verschillende beweegoefeningen tussendoor. Eén route van 1,65 km en één route van 2,65 km. <a href="/buurthuiskeijenburg/files/beweegroute.pdf">Meer informatie</a>.
 
 Uiteraard heeft u bij het bezoek van het buurthuis geen koorts, of verkoudheidsklachten. 
 Een mondkapje dragen bij binnenkomst is verplicht. Indien u heeft plaats genomen op uw zitplaats, mag het mondkapje af. 

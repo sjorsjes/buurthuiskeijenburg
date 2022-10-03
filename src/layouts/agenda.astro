@@ -26,7 +26,7 @@ const { frontmatter } = Astro.props;
                             <ul class="agenda__list">
                                 { month.data.map((activity) => (
                                     <li class="agenda__list-item">
-                                        <a href={ activity.url } class="agenda__link">
+                                        <a href={ `/buurthuiskeijenburg${activity.url}` } class="agenda__link">
                                             <div class="agenda__date text-center">
                                                 <div class="agenda__date-number">{ formatDay(activity.url as string).numeric }</div>
                                                 <div class="agenda__date-day">{ formatDay(activity.url as string).short }</div>

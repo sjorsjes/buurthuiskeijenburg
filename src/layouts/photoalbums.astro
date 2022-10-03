@@ -64,10 +64,10 @@ const filterByYear = (array: any, year: any) => {
             galleryYears.reverse().map(({ name: year }) => (
                 <h2 id={`year-${year}`}>{ year }</h2>
 
-                <div class="gallery__list">                    
+                <div class="gallery__list">
                     {
                         filterByYear(activitiesPerYear.flat(), year).map((activity: any) => (
-                            <a href={`/fotoalbums/${ year }/${ activity.name }`} class="gallery__list-item">
+                            <a href={`/buurthuiskeijenburg/fotoalbums/${ year }/${ activity.name }`} class="gallery__list-item">
                                 <div class="gallery__list-item__title">
                                     <h3>{ activity.name }</h3>
                                 </div>

@@ -29,7 +29,7 @@ const { frontmatter } = Astro.props;
                                     <div class="activities__tag">
                                         {
                                             act.url
-                                            ? <a href={ act.url }>{ act.name }</a>
+                                            ? <a href={ `/buurthuiskeijenburg${act.url}` }>{ act.name }</a>
                                             : act.name
                                         }
                                     </div>
