@@ -20,27 +20,27 @@ De ruimte is ingericht met enkele zittafels. Hier wordt geen huur voor gerekend,
 
 Tevens staat in deze ruimte ons biljart, welke door vaste verenigingen wordt gebruikt.
 
-![Bar](/images/zalen/bar.jpg "Bar")
+![Bar](/buurthuiskeijenburg/images/zalen/bar.jpg "Bar")
 
 ### Toneelzaal in het geheel.
 De gehele toneelzaal is op te delen in 2 delen, namelijk toneelzaal (bargedeelte) en toneelzaal (toneelgedeelte) of te gebruiken als een grote zaal voorzien van een heus toneel indien gewenst. De afmetingen van deze hele zaal bedragen 17 m. x 8,5 m.
 Tevens beschikt deze zaal over een projectiescherm, geluidsinstallatie en microfoon.
 
-![Toneelzaal](/images/zalen/toneelzaal.jpg "Toneelzaal")
+![Toneelzaal](/buurthuiskeijenburg/images/zalen/toneelzaal.jpg "Toneelzaal")
 
 ### ½ Toneelzaal (bargedeelte)
 
-![½ Toneelzaal (bargedeelte)](/images/zalen/toneelzaal-bar.jpg "½ Toneelzaal (bargedeelte)")
+![½ Toneelzaal (bargedeelte)](/buurthuiskeijenburg/images/zalen/toneelzaal-bar.jpg "½ Toneelzaal (bargedeelte)")
 
 ### ½ Toneelzaal (toneelgedeelte)
 
-![½ Toneelzaal (toneelgedeelte)](/images/zalen/toneelzaal-toneel.jpg "½ Toneelzaal (toneelgedeelte)")
+![½ Toneelzaal (toneelgedeelte)](/buurthuiskeijenburg/images/zalen/toneelzaal-toneel.jpg "½ Toneelzaal (toneelgedeelte)")
 
 ### Toneel
 Het toneel kan los gehuurd worden als repetitie ruimte voor bijvoorbeeld een toneelvereniging. Tevens kan het toneel gehuurd worden in combinatie met de toneelzaal voor een uitvoering.
 Toneel is voorzien van microfoons en coulissen.
 
-![Toneel](/images/zalen/toneel.jpg "Toneel")
+![Toneel](/buurthuiskeijenburg/images/zalen/toneel.jpg "Toneel")
 
 ### Toneelkamertje
 Deze aparte ruimte bevindt zich op het toneel en is voorzien van een toilet. Wordt vaak gebruikt als kleedruimte voor bijvoorbeeld de band bij een optreden.
@@ -48,22 +48,22 @@ Deze aparte ruimte bevindt zich op het toneel en is voorzien van een toilet. Wor
 ### Achterzaaltje
 Vergaderruimte/leslokaal tot ongeveer 20 personen, voorzien van een digibord en een whiteboard. 6.40 m. x 5.50 m.
 
-![Achterzaaltje](/images/zalen/achterzaaltje.jpg "Achterzaaltje")
+![Achterzaaltje](/buurthuiskeijenburg/images/zalen/achterzaaltje.jpg "Achterzaaltje")
 
 ### Josephzaal in zijn geheel.
 Deze lichte zaal is ook op te delen in 2 zalen, namelijk Josephzaal (gedeelte ingang) en Josephzaal (bargedeelte) of te gebruiken als 1 grote ruimte. Deze zaal is voorzien van een geluidsinstallatie en een microfoon.
 
 De afmetingen van de gehele zaal bedragen 12m. x 12m.
 
-![josephzaal](/images/zalen/josephzaal.jpg "josephzaal")
+![josephzaal](/buurthuiskeijenburg/images/zalen/josephzaal.jpg "josephzaal")
 
 ### ½ Josephzaal (gedeelte ingang)
 
-![½ Josephzaal (gedeelte ingang)](/images/zalen/josephzaal-ingang.jpg "½ Josephzaal (gedeelte ingang)")
+![½ Josephzaal (gedeelte ingang)](/buurthuiskeijenburg/images/zalen/josephzaal-ingang.jpg "½ Josephzaal (gedeelte ingang)")
 
 ### ½ Josephzaal (bargedeelte)
 
-![½ Josephzaal (bargedeelte)](/images/zalen/josephzaal-bar.jpg "½ Josephzaal (bargedeelte)")
+![½ Josephzaal (bargedeelte)](/buurthuiskeijenburg/images/zalen/josephzaal-bar.jpg "½ Josephzaal (bargedeelte)")
 
 ### Kantoor boven
 Het kantoor op de eerste verdieping is te huur en biedt zoals het nu ingericht is ruimte voor 2 werkplekken.
@@ -71,14 +71,14 @@ Het kantoor op de eerste verdieping is te huur en biedt zoals het nu ingericht i
 ### Bestuurskamer
 Deze vergaderruimte bevindt zich op de 1e verdieping, en is geschikt voor maximaal 8 personen. Ruimte voorzien van een whiteboard.
 
-![Bestuurskamer](/images/zalen/bestuurskamer.jpg "Bestuurskamer")
+![Bestuurskamer](/buurthuiskeijenburg/images/zalen/bestuurskamer.jpg "Bestuurskamer")
 
 ### Bovenzaaltje
 Vergaderruimte/leslokaal tot ongeveer 20 personen, op de 1e verdieping. Deze zaal is voorzien van een whiteboard. De afmetingen bedragen 6.00 m. x 4.50 m.
 
-![Bovenzaaltje](/images/zalen/bovenzaaltje.jpg "Bovenzaaltje")
+![Bovenzaaltje](/buurthuiskeijenburg/images/zalen/bovenzaaltje.jpg "Bovenzaaltje")
 
 ### Zolder
 Deze ruimte bevindt zich op de 2e verdieping en heeft een schuin toelopend dak. Deze ruimte wordt momenteel gebruikt als yogazolder.
 
-![Zolder](/images/zalen/zolder.jpg "Zolder")
+![Zolder](/buurthuiskeijenburg/images/zalen/zolder.jpg "Zolder")
