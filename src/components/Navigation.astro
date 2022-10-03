@@ -1,0 +1,51 @@
+---
+import NavigationLink from './NavigationLink.astro';
+import NavigationChildLink from './NavigationChildLink.astro';
+---
+
+<nav class="navigation">
+    <div class="navigation__container">
+        <h1 class="visuallyhidden">Buurthuis Keijenburg</h1>
+
+        <a href="/" class="navigation__logo">
+            <img src="/images/logo-alternative.svg" alt="Buurthuis Keijenburg" />
+        </a>
+
+        <div class="navigation__scroll">
+            <ul class="navigation__list">
+                <NavigationLink href="/nieuws">Nieuws</NavigationLink>
+                <NavigationLink href="/activiteiten">
+                    Activiteiten
+
+                    <ul slot="children" class="navigation__sublist" aria-label="submenu">
+                        <NavigationChildLink href="/activiteiten/agenda">Agenda</NavigationChildLink>
+                        <NavigationChildLink href="/activiteiten/vaste-activiteiten">Vaste activiteiten</NavigationChildLink>
+                    </ul>
+                </NavigationLink>
+                <NavigationLink href="/het-team">Het team</NavigationLink>
+                <NavigationLink href="/keijenburg">
+                    Keijenburg
+                
+                    <ul slot="children" class="navigation__sublist" aria-label="submenu">
+                        <NavigationChildLink href="/keijenburg/historie">De historie</NavigationChildLink>
+                        <NavigationChildLink href="/keijenburg/openingstijden">Openingstijden</NavigationChildLink>
+                        <NavigationChildLink href="/keijenburg/in-het-nieuws">In het nieuws</NavigationChildLink>
+                        <NavigationChildLink href="/keijenburg/huisregels">Huisregels</NavigationChildLink>
+                        <NavigationChildLink href="/keijenburg/avg">AVG</NavigationChildLink>
+                        <NavigationChildLink href="/keijenburg/corona-informatie">Corona informatie</NavigationChildLink>
+                        <NavigationChildLink href="/keijenburg/jaarverslag">Jaarverslagen</NavigationChildLink>
+                    </ul>
+                </NavigationLink>
+
+                <NavigationLink href="/verenigingen">Verenigingen</NavigationLink>
+                <NavigationLink href="/fotoalbums">Fotoalbums</NavigationLink>
+                <NavigationLink href="/zaalverhuur">Zaalverhuur</NavigationLink>
+                <NavigationLink href="/contact">Contact</NavigationLink>
+            </ul>
+        </div>
+
+        <button class="navigation__mobile-toggle js-toggle-menu">
+            <span class="navigation__mobile-toggle__icon"></span>
+        </button>
+    </div>
+</nav>

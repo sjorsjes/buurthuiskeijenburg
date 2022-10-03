@@ -1,0 +1,15 @@
+---
+const [{ Content, frontmatter }] = (await Astro.glob('../_content/nieuws/**/*.{md,mdx}')).sort(
+	(a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf()
+);
+---
+
+<article class="content container text-center">
+    <div class="content__body">
+        <Content />
+
+        <small class="content__date">
+            {new Date(frontmatter.date).toLocaleDateString('nl-NL', { year: 'numeric', month: 'short', day: 'numeric' })}
+        </small>
+    </div>
+</article>

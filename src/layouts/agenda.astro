@@ -1,0 +1,62 @@
+---
+import BaseLayout from './base.astro';
+
+import Content from '../components/Content.astro';
+
+import agenda, { formatDay } from '../js/agenda';
+
+const allItems = await Astro.glob(`../pages/activiteiten/agenda/**/*.md`);
+
+const upcoming3Months = agenda(allItems);
+
+console.log(upcoming3Months[0].data[0].file);
+
+
+const { frontmatter } = Astro.props;
+---
+
+<BaseLayout title={frontmatter?.title}>
+    <Content title={frontmatter?.title} visual={frontmatter?.visual}>
+        <slot />
+
+        {
+            upcoming3Months.map((month) => (
+                <div class="agenda">
+                    <h2 class="agenda__month">{ month.date }</h2>
+
+                    {
+                        month.data.length
+                        ?
+                            <ul class="agenda__list">
+                                { month.data.map((activity) => (
+                                    <li class="agenda__list-item">
+                                        <a href={ activity.url } class="agenda__link">
+                                            <div class="agenda__date text-center">
+                                                <div class="agenda__date-number">{ formatDay(activity.url as string).numeric }</div>
+                                                <div class="agenda__date-day">{ formatDay(activity.url as string).short }</div>
+                                            </div>
+                    
+                                            <div class="agenda__description">
+                                                <span class="agenda__title">{ activity.frontmatter.title }</span>
+
+                                                { activity.frontmatter.time
+                                                    ? <small class="text-muted">{ activity.frontmatter.time }</small>
+                                                    : ''
+                                                }
+                                            </div>
+                                        </a>
+                                    </li>
+                                ))}
+                            </ul>
+                        :    
+                            <ul class="agenda__list">
+                                <li class="agenda__list-item">
+                                    <div class="agenda__no-items">Op dit moment zijn er nog geen activiteiten bekend.</div>
+                                </li>
+                            </ul>
+                        }
+                </div>
+            ))
+        }
+    </Content>
+</BaseLayout>

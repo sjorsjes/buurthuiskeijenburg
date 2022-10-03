@@ -1,0 +1,58 @@
+---
+const paths = Astro.url.pathname.split('/').filter(x => x);
+
+let parts = [
+  {
+    text: 'Home',
+    href: '/',
+    'aria-current': Astro.url.pathname === '/' ? 'page' : undefined
+  }
+];
+
+paths.forEach((text, i) => {
+    const href = `/${paths.slice(0, i + 1).join('/')}`;
+
+    parts.push({
+        text: decodeURI(text).replace(/[-_]/g, ' '),
+        href,
+        'aria-current': Astro.url.pathname === href ? 'page' : undefined
+    })
+});
+---
+
+<nav class="breadcrumbs" aria-labelledby="breadcrumb">
+    <ul class="breadcrumbs__list" role="list">
+        { parts.map(({ text, ...attrs }, i) =>
+            <li class="breadcrumbs__list-item" role="listitem">
+                <a class="breadcrumbs__link" {...attrs}>{text}</a>
+
+                {
+                    i !== parts.length - 1
+                    ? <span>&nbsp;/&nbsp;</span>
+                    : ''
+                }
+            </li>
+        )}
+    </ul>
+</nav>
+
+<style>
+    .breadcrumbs {
+        margin-bottom: 1rem;
+    }
+
+    .breadcrumbs__list {
+        margin: 0;
+        padding-left: 0;
+
+        list-style: none;
+    }
+
+    .breadcrumbs__list-item {
+        display: inline-block;
+    }
+
+    .breadcrumbs__link {
+        font-size: var(--font-size-xs);
+    }
+</style>

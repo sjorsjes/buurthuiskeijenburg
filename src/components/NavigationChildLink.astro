@@ -1,0 +1,12 @@
+---
+export interface Props extends astroHTML.JSX.AnchorHTMLAttributes {}
+
+const { href, ...props } = Astro.props;
+const isActive = href === Astro.url.pathname;
+---
+
+<li class:list={[ 'navigation__list-item', { 'is-active': isActive } ]}>
+	<a href={href} class="navigation__link" {...props}>
+		<slot />
+	</a>
+</li>

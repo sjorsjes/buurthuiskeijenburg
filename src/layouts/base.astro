@@ -1,0 +1,58 @@
+---
+export type Props = {
+  title?: string;
+}
+
+import '../styles/main.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro'
+
+const { title } = Astro.props;
+
+const pageTitle = title ? ` - ${title}` : '';
+---
+
+<!doctype html>
+<html lang="nl">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    {import.meta.env.MODE === 'production' &&
+        <meta http-equiv="Content-Security-Policy" content="default-src 'none';
+                                                            script-src 'self' 'unsafe-inline';
+                                                            style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+                                                            img-src 'self';
+                                                            font-src 'self' https://fonts.gstatic.com;
+                                                            media-src 'self';
+                                                            manifest-src 'self';
+                                                            frame-src 'self'; ">
+    }
+
+	<title>Buurthuis Keijenburg { pageTitle }</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="wrapper">
+        <Header />
+
+		<slot />
+
+		<Footer />
+	</div>
+
+    <script is:inline>
+        const menu = document.querySelector('.js-toggle-menu');
+
+        menu.addEventListener('click', () => {
+            document.body.classList.toggle('mobile-menu-active');
+        });
+    </script>
+</body>
+</html>

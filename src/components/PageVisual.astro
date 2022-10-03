@@ -1,0 +1,11 @@
+---
+export interface Props {
+  visual?: string;
+}
+
+const { visual } = Astro.props;
+const visualUrl = `background-image: url(/images/${ visual ? visual : 'content/voorgevel.jpg' });`;
+
+---
+
+<div class="page_visual" style={visualUrl}></div>

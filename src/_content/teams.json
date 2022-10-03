@@ -1,0 +1,130 @@
+{
+  "teams": [{
+    "type": "vrijwilligers",
+    "people": [
+      {
+        "name": "Ad",
+        "image": "vrijwilligers/ad.png"
+      },
+      {
+        "name": "Ad",
+        "image": "vrijwilligers/ad-2.png"
+      },
+      {
+        "name": "Cees",
+        "image": "vrijwilligers/cees.png"
+      },
+      {
+        "name": "Cor",
+        "image": "vrijwilligers/cor.png"
+      },
+      {
+        "name": "Ed",
+        "image": "vrijwilligers/ed.png"
+      },
+      {
+        "name": "Gerda",
+        "image": "vrijwilligers/gerda.png"
+      },
+      {
+        "name": "Janny",
+        "image": "vrijwilligers/janny.png"
+      },
+      {
+        "name": "Joke",
+        "image": "vrijwilligers/joke.png"
+      },
+      {
+        "name": "Jolanda",
+        "image": "vrijwilligers/jolanda.png"
+      },
+      {
+        "name": "Lizet",
+        "image": "vrijwilligers/lizet.png"
+      },
+      {
+        "name": "Marianne",
+        "image": "vrijwilligers/marianne.png"
+      },
+      {
+        "name": "Marionne",
+        "image": "anoniem.png"
+      },
+      {
+        "name": "Mieke",
+        "image": "vrijwilligers/mieke.png"
+      },
+      {
+        "name": "Nel",
+        "image": "vrijwilligers/nel.png"
+      },
+      {
+        "name": "Nordin",
+        "image": "anoniem.png"
+      },
+      {
+        "name": "Omar",
+        "image": "vrijwilligers/omar.png"
+      },
+      {
+        "name": "Peter",
+        "image": "vrijwilligers/peter.png"
+      },
+      {
+        "name": "Ria",
+        "image": "vrijwilligers/ria.png"
+      },
+      {
+        "name": "Rina",
+        "image": "vrijwilligers/rina.png"
+      },
+      {
+        "name": "Robbie",
+        "image": "vrijwilligers/robbie.png"
+      },
+      {
+        "name": "Suzan",
+        "image": "vrijwilligers/suzan.png"
+      },
+      {
+        "name": "Wally",
+        "image": "vrijwilligers/wally.png"
+      }
+    ]
+  }, {
+    "type": "personeelsleden",
+    "people": [
+      {
+        "name": "Anne-belle",
+        "image": "personeel/anne-belle.png"
+      }
+    ]
+  }, {
+    "type": "bestuursleden",
+    "people": [
+      {
+        "name": "Hilja van Eekelen",
+        "function": "secretaris",
+        "image": "bestuur/hilja-van-eekelen.png"
+      },
+      {
+        "name": "Johan Elst",
+        "function": "penningmeester",
+        "image": "bestuur/johan-elst.png"
+      },
+      {
+        "name": "Marcel de Beer",
+        "image": "bestuur/marcel-de-beer.png"
+      },
+      {
+        "name": "Pascale van Zuilen",
+        "image": "bestuur/pascale.png"
+      },
+      {
+        "name": "Wilbert Brouwers",
+        "function": "voorzitter",
+        "image": "bestuur/wilbert-brouwers.png"
+      }
+    ]
+  }]
+}

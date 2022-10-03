@@ -1,0 +1,30 @@
+---
+import BaseLayout from './base.astro';
+import Content from '../components/Content.astro';
+
+const verenigingen = (await Astro.glob('../pages/verenigingen/*.{md,mdx}')).sort(
+    (a, b) => a.frontmatter.title - b.frontmatter.title
+);
+
+const { frontmatter } = Astro.props;
+---
+
+<BaseLayout title={frontmatter?.title}>
+    <Content title={frontmatter?.title} visual={frontmatter?.visual}>
+        <slot />
+
+        <h2>Onze verenigingen</h2>
+
+        <ul>
+            {
+                verenigingen.map(({ frontmatter, url, Content }) => (
+                    <li>
+                        <a href={url}>
+                            { frontmatter.title }
+                        </a>
+                    </li>
+                ))
+            }
+        </ul>
+    </Content>
+</BaseLayout>
