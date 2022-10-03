@@ -6,7 +6,8 @@ import image from "@astrojs/image";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://sjorsjes.github.io/buurthuiskeijenburg/',
+  site: 'https://sjorsjes.github.io',
+	base: '/buurthuiskeijenburg',
   integrations: [mdx(), sitemap(), image()],
   vite: {
     assetsInclude: ['**/*.JPG']
