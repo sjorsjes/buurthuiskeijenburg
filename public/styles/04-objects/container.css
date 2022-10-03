@@ -10,14 +10,14 @@
 
 	margin: 0 auto;
 	padding: 2rem 1rem;
+}
 
-	img {
-		width: auto;
+.content img {
+	width: auto;
 
-		margin: 0 auto;
+	margin: 0 auto;
 
-		border: 5px solid var(--color-white);
-	}
+	border: 5px solid var(--color-white);
 }
 
 .content__date {
@@ -45,9 +45,9 @@
 	background-size: cover;
 
 	border-bottom: 2px solid var(--color-yellow);
+}
 
-	&--large {
-		height: 30rem;
-		max-height: 70vh;
-	}
+.page_visual--large {
+	height: 30rem;
+	max-height: 70vh;
 }

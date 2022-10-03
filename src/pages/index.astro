@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/base.astro';
 
+import PageVisual from '../components/PageVisual.astro';
 import HomepageNewsItem from '../components/HomepageNewsItem.astro';
 import HomepageActiviteiten from '../components/HomepageActiviteiten.astro';
 import HomepageFacebookItems from '../components/HomepageFacebookItems.astro';
@@ -9,13 +10,20 @@ import HomepageCTA from '../components/HomepageCTA.astro';
 ---
 
 <BaseLayout>
+	<PageVisual
+		large
+		highlightText="Buurthuis Keijenburg Beweegroute"
+		highlightActionText="Bekijk de informatie"
+		highlightUrl="/verenigingen/beweegroute-keijenburg"
+	/>
+
 	<HomepageNewsItem />
-	
+
 	<HomepageActiviteiten />
 
 	<HomepageFacebookItems />
 
 	<HomepageServices />
-	
+
 	<HomepageCTA />
 </BaseLayout>

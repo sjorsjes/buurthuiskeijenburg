@@ -14,44 +14,43 @@
 	border-radius: 0;
 
 	appearance: none;
-
-	&:hover {
-		color: var(--color-green);
-		text-decoration: none;
-
-		background-color: var(--color-white);
-	}
-
-	&--secondary {
-		color: var(--color-pink);
-
-		background-color: var(--color-pink-light);
-		border-color: var(--color-pink);
-
-		&:hover {
-			color: var(--color-white);
-
-			background-color: var(--color-pink);
-		}
-	}
-
-	&--facebook {
-		margin: 0;
-
-		color: var(--color-white);
-
-		background-color: var(--color-facebook);
-		border-color: var(--color-facebook-border);
-
-		&:hover {
-			color: var(--color-white);
-
-			background-color: var(--color-facebook-border);
-		}
-	}
-
-	& + .btn {
-		margin-left: 1rem;
-	}
 }
 
+.btn:hover {
+	color: var(--color-green);
+	text-decoration: none;
+
+	background-color: var(--color-white);
+}
+
+.btn--secondary {
+	color: var(--color-pink);
+
+	background-color: var(--color-pink-light);
+	border-color: var(--color-pink);
+}
+
+.btn--secondary:hover {
+	color: var(--color-white);
+
+	background-color: var(--color-pink);
+}
+
+.btn--facebook {
+	margin: 0;
+
+	color: var(--color-white);
+
+	background-color: var(--color-facebook);
+	border-color: var(--color-facebook-border);
+}
+
+.btn--facebook:hover {
+	color: var(--color-white);
+
+	background-color: var(--color-facebook-border);
+}
+
+.btn + .btn {
+	margin-left: 1rem;
+}

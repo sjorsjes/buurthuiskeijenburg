@@ -9,20 +9,20 @@ h1 {
 	margin: 0 0 var(--distance-xs);
 
 	font-size: var(--font-size-l);
+}
 
-	&:not(.page__title) + p {
-		margin-top: calc(var(--distance-xs) * -1);
-	}
+h1:not(.page__title) + p {
+	margin-top: calc(var(--distance-xs) * -1);
 }
 
 h2 {
 	margin: 0 0 var(--distance-xs);
 
 	font-size: var(--font-size-m);
+}
 
-	& + p {
-		margin-top: calc(var(--distance-xs) * -1);
-	}
+h2 + p {
+	margin-top: calc(var(--distance-xs) * -1);
 }
 
 h3, h4, h5, h6 {
@@ -40,10 +40,10 @@ p {
 
 a {
 	color: var(--color-link);
+}
 
-	&:hover {
-		color: var(--color-black);
-	}
+a:hover {
+	color: var(--color-black);
 }
 
 blockquote {
@@ -53,31 +53,22 @@ blockquote {
 	border-left: 4px solid var(--color-olive);
 }
 
-.content {
-	h2 + p {
-		margin-top: var(--distance-s);
-	}
-
-	table + p {
-		margin-top: var(--distance-s);
-	}
-
-	h1:not(.page__title) + p {
-		margin-top: calc(var(--distance-xs) * -1);
-	}
-
-	img {
-		margin-top: 1rem;
-		margin-bottom: 3rem;
-	}
-
-	@media (--small) {
-		h1:not(.page__title) + p {
-			margin-top: calc(var(--distance-m) * -1);
-		}
-	}
+.content h2 + p {
+	margin-top: var(--distance-s);
 }
 
+.content table + p {
+	margin-top: var(--distance-s);
+}
+
+.content h1:not(.page__title) + p {
+	margin-top: calc(var(--distance-xs) * -1);
+}
+
+.content img {
+	margin-top: 1rem;
+	margin-bottom: 3rem;
+}
 
 /* SMALL */
 @media (min-width: 30rem) {
@@ -85,20 +76,20 @@ blockquote {
 		margin: 0 0 var(--distance-m);
 
 		font-size: var(--font-size-xl);
+	}
 
-		&:not(.page__title) + p {
-			margin-top: calc(var(--distance-m) * -1);
-		}
+	h1:not(.page__title) + p {
+		margin-top: calc(var(--distance-m) * -1);
 	}
 
 	h2 {
 		margin: 0 0 var(--distance-m);
 
 		font-size: var(--font-size-l);
+	}
 
-		& + p {
-			margin-top: calc(var(--distance-m) * -1);
-		}
+	h2 + p {
+		margin-top: calc(var(--distance-m) * -1);
 	}
 
 	h3, h4, h5, h6 {
@@ -106,18 +97,19 @@ blockquote {
 
 		font-size: var(--font-size-m);
 
-		& + p {
-			margin-top: calc(var(--distance-xs) * -1);
-		}
+	}
+	h3 + p,
+	h4 + p,
+	h5 + p,
+	h6 + p {
+		margin-top: calc(var(--distance-xs) * -1);
 	}
 
 	p {
 		margin-bottom: var(--distance-m);
 	}
 
-	.content {
-		h1:not(.page__title) + p {
-			margin-top: calc(var(--distance-m) * -1);
-		}
+	.content h1:not(.page__title) + p {
+		margin-top: calc(var(--distance-m) * -1);
 	}
 }

@@ -1,11 +1,139 @@
 ---
 export interface Props {
-  visual?: string;
+	visual?: string;
+	large?: boolean;
+	highlightText?: string;
+	highlightActionText?: string;
+	highlightUrl?: string;
 }
 
-const { visual } = Astro.props;
+const { visual, large = false, highlightText, highlightActionText, highlightUrl } = Astro.props;
 const visualUrl = `background-image: url(/images/${ visual ? visual : 'content/voorgevel.jpg' });`;
-
 ---
 
-<div class="page_visual" style={visualUrl}></div>
+<div class={ `page_visual ${large ? 'page_visual--large' : ''}` } style={visualUrl}>
+	{
+		highlightUrl
+		? <a href={ highlightUrl } class="highlight" data-content={ highlightActionText }>
+				{ highlightText }
+			</a>
+		: ''
+	}
+</div>
+
+<style>
+	.highlight {
+		position: absolute;
+		bottom: 0;
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		width: 100%;
+		height: 50px;
+
+		color: var(--color-white);
+		font-weight: bold;
+		text-align: center;
+		text-decoration: none;
+
+		border-top: 2px solid var(--color-white);
+		background: var(--color-green);
+
+		&:hover {
+			border-color: var(--color-green);
+		}
+	}
+
+	.highlight--second {
+		bottom: 50px;
+
+		background: var(--color-pink);
+
+		&:hover {
+			border-color: var(--color-pink);
+
+			&:before {
+				color: var(--color-pink);
+			}
+		}
+	}
+
+	/* SMALL */
+	@media (min-width: 30rem) {
+		.highlight {
+			width: 50%;
+		}
+
+		.highlight--second {
+			right: 0;
+			bottom: 0;
+
+			width: 50%;
+		}
+	}
+
+	/* MEDIUM */
+	@media (min-width: 45rem) {
+		.highlight {
+			top: 10%;
+			left: 10%;
+
+			transform: rotate(-5deg);
+
+			width: 150px;
+			height: 150px;
+
+			padding: var(--distance-m);
+
+			border: 2px solid var(--color-white);
+			border-radius: 50%;
+		}
+
+		.highlight:hover:before {
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			color: var(--color-green);
+			font-weight: bold;
+			text-align: center;
+
+			background-color: var(--color-white);
+			border-radius: 50%;
+
+			content: attr(data-content);
+		}
+
+		.highlight--second {
+			top: auto;
+			bottom: 10%;
+			left: 10%;
+
+			transform: rotate(3deg);
+
+			width: 150px;
+		}
+	}
+
+	/* LARGE */
+	@media (min-width: 62rem) {
+		.highlight {
+			top: auto;
+			bottom: 15%;
+			left: 15%;
+		}
+
+		.highlight--second {
+			bottom: 5%;
+			left: 30%;
+		}
+	}
+</style>
