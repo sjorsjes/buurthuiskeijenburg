@@ -3,7 +3,6 @@ import BaseLayout from './base.astro';
 import Content from '../components/Content.astro';
 import { Image } from '@astrojs/image/components';
 
-
 const { frontmatter, file } = Astro.props;
 const directory = file.substring(file.indexOf('pages')).slice(0, -9);
 const allPhotos = await Astro.glob(`../pages/fotoalbums/**/*.jpg`);
@@ -13,7 +12,7 @@ const photos = allPhotos.filter((photo) => photo.default.src.includes(directory)
 <BaseLayout title={frontmatter?.title}>
     <Content title={frontmatter?.title} visual={frontmatter?.visual}>
         <slot />
-        
+
         {
             photos.map((photo) => (
                 <Image src={ photo.default } quality="80" width="800" aspectRatio="3:2" alt="" />

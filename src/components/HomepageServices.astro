@@ -28,3 +28,84 @@ const posts = await Astro.glob('../pages/activiteiten/vaste-activiteiten/**/*.{m
 	</div>
 </div>
 
+<style>
+	.services {
+		padding: 2rem;
+
+		background-color: var(--color-pink-light);
+		border-bottom: 4px solid var(--color-white);
+	}
+
+	.services__list {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+
+		margin: 0 -1rem;
+		padding: 0;
+
+		list-style: none;
+	}
+
+	.services__list-item {
+		width: 50%;
+
+		padding: 1rem 0.5rem;
+	}
+
+	.services__icon {
+		width: 75px;
+		height: 75px;
+
+		margin: 0 auto 1rem;
+
+		background-color: var(--color-green);
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: 70%;
+		border-radius: 50%;
+	}
+
+	.services__excerpt {
+		display: none;
+	}
+
+	.services__subtitle {
+		margin-bottom: 0;
+
+		white-space: nowrap;
+	}
+
+	.services__more-information {
+		margin-top: 1rem;
+	}
+
+	/* MEDIUM */
+	@media (min-width: 45rem) {
+		.services__list-item {
+			width: 50%;
+
+			padding-bottom: 3rem;
+		}
+
+		.services__icon {
+			width: 125px;
+			height: 125px;
+		}
+
+		.services__excerpt {
+			display: block;
+		}
+
+		.services__subtitle {
+			white-space: normal;
+		}
+	}
+
+	/* LARGE */
+	@media (min-width: 62rem) {
+		.services__list-item {
+			width: 33.33%;
+		}
+	}
+</style>

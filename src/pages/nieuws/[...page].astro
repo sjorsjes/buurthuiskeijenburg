@@ -20,7 +20,7 @@ const { page } = Astro.props;
                 <Content />
             </article>
         ))}
-    </div>   
+    </div>
 
     <nav aria-labelledby="pagination"  class="pagination">
         <ol class="pagination__list">
@@ -43,3 +43,54 @@ const { page } = Astro.props;
         </ol>
     </nav>
 </ContentLayout>
+
+<style>
+	.news__item {
+		padding: 2rem 0;
+
+		&:not(:last-child) {
+			border-bottom: 1px solid var(--color-yellow);
+		}
+
+		h1 {
+			margin-bottom: 2rem;
+		}
+	}
+
+	.pagination {
+		width: 100%;
+
+		padding: 2rem 0 0;
+
+		border-top: 2px solid var(--color-yellow);
+	}
+
+	.pagination__list {
+		display: flex;
+
+		margin: 0;
+		padding: 0;
+
+		list-style: none;
+	}
+
+	.pagination__action {
+		width: 50%;
+	}
+
+	.pagination__action--previous {
+		margin: 0;
+	}
+
+	.pagination__action--next {
+		margin-left: auto;
+
+		text-align: right;
+	}
+
+	.pagination__action-link {
+		display: inline-block;
+
+		padding: 1rem;
+	}
+</style>

@@ -15,31 +15,94 @@ const { frontmatter } = Astro.props;
         {
             activities.map((activity) => (
                 <div class="activities">
-                <h2 class="activities__day">{ activity.day }</h2>
+					<h2 class="activities__day">{ activity.day }</h2>
 
-                <ol class="activities__list">
-                    { activity.parts.map((part) => (
-                        <li class="activities__list-item">
-                            <div class="activities__part">
-                                { part.name }
-                            </div>
+					<ol class="activities__list">
+						{ activity.parts.map((part) => (
+							<li class="activities__list-item">
+								<div class="activities__part">
+									{ part.name }
+								</div>
 
-                            <div class="activities__tags">
-                                { part.activities.map((act) => (
-                                    <div class="activities__tag">
-                                        {
-                                            act.url
-                                            ? <a href={ act.url }>{ act.name }</a>
-                                            : act.name
-                                        }
-                                    </div>
-                                ))}
-                            </div>
-                        </li>
-                    ))}
-                </ol>
-            </div>
+								<div class="activities__tags">
+									{ part.activities.map((act) => (
+										<div class="activities__tag">
+											{
+												act.url
+												? <a href={ act.url }>{ act.name }</a>
+												: act.name
+											}
+										</div>
+									))}
+								</div>
+							</li>
+						))}
+					</ol>
+				</div>
             ))
         }
     </Content>
 </BaseLayout>
+
+<style>
+	.activities {
+		margin-bottom: 2rem;
+
+		background-color: var(--color-white);
+		border-radius: 4px;
+		box-shadow: 0 10px 25px -22px var(--color-true-black);
+	}
+
+	.activities__day {
+		margin: 0;
+		padding: 1rem;
+
+		text-transform: capitalize;
+
+		border-bottom: 2px solid var(--color-gray-light);
+	}
+
+	.activities__list {
+		margin: 0;
+		padding: 0;
+
+		list-style: none;
+	}
+
+	.activities__list-item {
+		display: flex;
+		align-items: center;
+
+		font-size: var(--font-size-s);
+
+		@media (--medium) {
+			font-size: var(--font-size-m);
+		}
+	}
+
+	.activities__list-item:not(:last-child) {
+		border-bottom: 1px solid var(--color-gray-light);
+	}
+
+	.activities__part {
+		flex: 0 0 100px;
+
+		padding: 1rem;
+
+		font-weight: bold;
+	}
+
+	.activities__tags {
+		padding: 0.5rem 0 0;
+	}
+
+	.activities__tag {
+		display: inline-block;
+
+		margin-bottom: 0.5rem;
+		margin-right: 0.5rem;
+		padding: 0.3rem 0.5rem;
+
+		background-color: var(--color-gray-light);
+	}
+</style>
