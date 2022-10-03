@@ -67,7 +67,7 @@ const filterByYear = (array: any, year: any) => {
                 <div class="gallery__list">
                     {
                         filterByYear(activitiesPerYear.flat(), year).map((activity: any) => (
-                            <a href={`/buurthuiskeijenburg/fotoalbums/${ year }/${ activity.name }`} class="gallery__list-item">
+                            <a href={`/fotoalbums/${ year }/${ activity.name }`} class="gallery__list-item">
                                 <div class="gallery__list-item__title">
                                     <h3>{ activity.name }</h3>
                                 </div>

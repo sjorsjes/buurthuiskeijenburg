@@ -9,7 +9,7 @@ const posts = await Astro.glob('../pages/activiteiten/vaste-activiteiten/**/*.{m
 		<ul class="services__list">
             {posts.map(({ url, frontmatter, getHeadings }) => (
                 <li class="services__list-item text-center">
-					<div class="services__icon" style={ `background-image: url(/buurthuiskeijenburg/images/icons/${ frontmatter.icon })` }></div>
+					<div class="services__icon" style={ `background-image: url(/images/icons/${ frontmatter.icon })` }></div>
 
 					<h2 class="services__subtitle">
 						{ getHeadings()[0]?.text }
@@ -19,7 +19,7 @@ const posts = await Astro.glob('../pages/activiteiten/vaste-activiteiten/**/*.{m
 						{ frontmatter.excerpt }
 					</div>
 
-					<a href={ `/buurthuiskeijenburg${url}` } class="btn btn--secondary services__more-information">
+					<a href={ url } class="btn btn--secondary services__more-information">
 						Lees meer
 					</a>
 				</li>

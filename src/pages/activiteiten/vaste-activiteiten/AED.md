@@ -14,4 +14,4 @@ Een Automatische Externe Defibrillator (AED) is een draagbaar apparaat dat het h
 ## Wat doet een AED?  
 Bij een hartstilstand staat het hart meestal niet helemaal stil. Dat lijkt alleen zo. De hartkamers worden heel snel en chaotisch geprikkeld, waardoor ze niet meer samentrekken. Dit heet ventrikelfibrilleren. Een AED is dan nodig om het hart te resetten en weer normaal te laten kloppen. Dit resetten noemen we defibrilleren.
 
-![AED bij Keijenburg](/buurthuiskeijenburg/images/content/aed-keijenburg.jpg)
+![AED bij Keijenburg](/images/content/aed-keijenburg.jpg)

@@ -19,7 +19,7 @@ const { frontmatter } = Astro.props;
             {
                 verenigingen.map(({ frontmatter, url, Content }) => (
                     <li>
-                        <a href={ `/buurthuiskeijenburg${url}`}>
+                        <a href={ url }>
                             { frontmatter.title }
                         </a>
                     </li>

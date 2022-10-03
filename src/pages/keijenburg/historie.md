@@ -10,7 +10,7 @@ In de volksmond heette het toen “het St. Joseph-huis”.
 De stichting Keijenburg is opgericht in 1971 en is de opvolger van het bestuur van het   Josephhuis. De stichting Keijenburg bestaat in 2021 vijftig jaar.  
 Er is altijd al sprake geweest van een band tussen de kerk en ons buurthuis. De samenwerking bij bepaalde activiteiten, zoals het toentertijd jaarlijks terugkerende ziekentriduüm, is hier een sprekend voorbeeld van. 
 
-![Keijenburg vroeger](/buurthuiskeijenburg/images/content/keijenburg-vroeger-jaartal-onbekend.jpg)
+![Keijenburg vroeger](/images/content/keijenburg-vroeger-jaartal-onbekend.jpg)
 
 ## Ziekentriduüm
 Na de eucharistievieringen kwamen de zieke mensen uit de regio, vanuit de St. Josephkerk naar het buurthuis voor een samenzijn met maaltijd. Een hele operatie waarbij vrijwilligers en legerambulances waren ingeschakeld voor aan- en afvoer van de deelnemers in rolstoelen en brancards.

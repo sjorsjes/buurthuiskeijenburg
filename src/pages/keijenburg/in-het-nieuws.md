@@ -3,7 +3,7 @@ layout: "../../layouts/content.astro"
 title: "In het nieuws"
 ---
 
-!["Uitslag van de Rabo clubactie!"](/buurthuiskeijenburg/images/content/rabo-clubactie-2020.jpg "Rabobank Clubactie")
+!["Uitslag van de Rabo clubactie!"](/images/content/rabo-clubactie-2020.jpg "Rabobank Clubactie")
 
 Dit jaar deden we weer mee met de Rabobank Clubactie.
 Zeker in deze tijd kunnen we alle (financiele) hulp goed gebruiken.
