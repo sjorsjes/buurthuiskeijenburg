@@ -19,57 +19,58 @@ export type FacebookResponse = {
         next: string;
     }
 }
-
-const FACEBOOK_ACCESS_TOKEN = 'EAAJvvMQj7KUBADukJLlEmZAJ96YZBLrzhdPMRjqrpOCmlF2mq3BHlgg9t3CsWypVCWex8rNJ3BcA410N0RmG0Cr6wiKQZA3XjbyC6J82OtkZA92eY4HN8LteMa6n9OoMvvTfKuEgw7uv9OLEW6v0kzGruwGtNNR5MxJ0BISUZAwU363QHht7TnuBCE26ZAuws5bf0e14Ju8QZDZD';
-const FACEBOOK_APP_ID = '799318416748096';
-const FACEBOOK_POST_LIMIT = 2;
-
+const { FACEBOOK_APP_ID, FACEBOOK_ACCESS_TOKEN, FACEBOOK_POST_LIMIT } = import.meta.env;
 const facebookPosts: FacebookResponse = await fetch(`https://graph.facebook.com/v7.0/${FACEBOOK_APP_ID}/feed?fields=id%2Cpicture%2Cfull_picture%2Ccreated_time%2Cmessage&limit=${FACEBOOK_POST_LIMIT}&access_token=${FACEBOOK_ACCESS_TOKEN}`)
 		.then(res => res.json());
 ---
 
-<div class="facebook">
-	<div class="container">
-		<h1 class="text-center">Facebook</h1>
+{
+	facebookPosts.data
+	?
+		<div class="facebook">
+			<div class="container">
+				<h1 class="text-center">Facebook</h1>
 
-		<div class="facebook__container">
-            {facebookPosts.data.map((post) => (
-                <div class:list={[ 'facebook__post', { 'facebook__post--image': post.full_picture } ]}>
-					<a href={ `https://www.facebook.com/${post.id}` } class="facebook__post-link">
-						<span class="facebook__post-link__text">
-							Bekijk het bericht…
-						</span>
-					</a>
+				<div class="facebook__container">
+					{facebookPosts.data.map((post) => (
+						<div class:list={[ 'facebook__post', { 'facebook__post--image': post.full_picture } ]}>
+							<a href={ `https://www.facebook.com/${post.id}` } class="facebook__post-link">
+								<span class="facebook__post-link__text">
+									Bekijk het bericht…
+								</span>
+							</a>
 
-					{
-                        post.full_picture
-                        ? <div class="facebook__post-visual">
-                            <img src={post.full_picture} alt="" />
-                          </div>
-                        : ''
-					}
-
-					<div class="facebook__post-body">
-						<small class="facebook__post-date">
-                            {new Date(post.created_time).toLocaleDateString('nl-NL', { year: 'numeric', month: 'short', day: 'numeric' })}
-						</small>
-
-						<div class="facebook__post-content">
 							{
-                                post.full_picture
-                                ? truncate(post.message, { length: 225, omission: '…' })
-							    : truncate(post.message, { length: 500, omission: '…' })
-                            }
-						</div>
-					</div>
-				</div>
-            ))}
-		</div>
+								post.full_picture
+								? <div class="facebook__post-visual">
+									<img src={post.full_picture} alt="" />
+								</div>
+								: ''
+							}
 
-		<div class="text-center">
-			<a href="https://www.facebook.com/buurthuiskeijenburg/" class="btn btn--facebook">
-                Bekijk alle berichten
-            </a>
+							<div class="facebook__post-body">
+								<small class="facebook__post-date">
+									{new Date(post.created_time).toLocaleDateString('nl-NL', { year: 'numeric', month: 'short', day: 'numeric' })}
+								</small>
+
+								<div class="facebook__post-content">
+									{
+										post.full_picture
+										? truncate(post.message, { length: 225, omission: '…' })
+										: truncate(post.message, { length: 500, omission: '…' })
+									}
+								</div>
+							</div>
+						</div>
+					))}
+				</div>
+
+				<div class="text-center">
+					<a href="https://www.facebook.com/buurthuiskeijenburg/" class="btn btn--facebook">
+						Bekijk alle berichten
+					</a>
+				</div>
+			</div>
 		</div>
-	</div>
-</div>
+	: ''
+}
