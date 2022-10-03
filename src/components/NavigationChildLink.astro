@@ -6,7 +6,7 @@ const isActive = href === Astro.url.pathname;
 ---
 
 <li class:list={[ 'navigation__list-item', { 'is-active': isActive } ]}>
-	<a href={`/buurthuiskeijenburg${href}`} class="navigation__link" {...props}>
+	<a href={href} class="navigation__link" {...props}>
 		<slot />
 	</a>
 </li>
