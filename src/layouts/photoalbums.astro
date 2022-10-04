@@ -72,12 +72,14 @@ const filterByYear = (array: any, year: any) => {
                                     <h3>{ activity.name }</h3>
                                 </div>
 
-								<PhotoalbumImage
-                                    src={`../pages/fotoalbums/${ activity.year }/${ activity.fullName }/${ activity.images[0] }`}
-                                    alt=""
-                                    width="250"
-                                    aspectRatio="4:3"
-                                />
+								<div class="gallery__list-item__img">
+									<PhotoalbumImage
+										src={`../pages/fotoalbums/${ activity.year }/${ activity.fullName }/${ activity.images[0] }`}
+										alt=""
+										width="250"
+										aspectRatio="4:3"
+									/>
+								</div>
                             </a>
                         ))
                     }
