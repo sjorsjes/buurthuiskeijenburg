@@ -1,12 +1,12 @@
 ---
 import BaseLayout from './base.astro';
 import Content from '../components/Content.astro';
-import { Image } from '@astrojs/image/components';
+import PhotoalbumImage from '../components/PhotoalbumImage.astro';
 
 const { frontmatter, file } = Astro.props;
 const directory = file.substring(file.indexOf('pages')).slice(0, -9);
-const allPhotos = await Astro.glob(`../pages/fotoalbums/**/*.jpg`);
-const photos = allPhotos.filter((photo) => photo.default.src.includes(directory));
+const allPhotos = import.meta.glob<ImageMetadata>('../pages/fotoalbums/**/*.jpg', { import: 'default' });
+const photos = Object.keys(allPhotos).filter((photo) => photo.includes(directory));
 ---
 
 <BaseLayout title={frontmatter?.title}>
@@ -14,8 +14,8 @@ const photos = allPhotos.filter((photo) => photo.default.src.includes(directory)
         <slot />
 
         {
-            photos.map((photo) => (
-                <Image src={ photo.default } quality="80" width="800" aspectRatio="3:2" alt="" />
+            photos.map((photo, i) => (
+				<PhotoalbumImage src={ photo } />
             ))
         }
     </Content>
