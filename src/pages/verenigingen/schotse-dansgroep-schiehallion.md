@@ -1,3 +1,8 @@
+---
+layout: "../../layouts/content.astro"
+title: Schotse dansgroep Schiehallion
+---
+
 Wat is Scottish Country Dancing ? 
 Bij de term “Schotse dansen  denken de meeste mensen aan Highland Dancing, wat in hoofdzaak een vorm van solodansen is. 
 De dansvorm van de Scottish Country Dance wordt gedanst in een groep van 3 of 4 paren. 
