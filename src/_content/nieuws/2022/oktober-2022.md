@@ -22,7 +22,6 @@ Maar er staat meer op de planning! Kijk voor het hele overzicht in de maandagend
 
 ## Vrijwilligers gezocht!
 Wij zoeken (inval) collega's voor achter de bar! Met name voor af en toe een weekend dagdeel. Alles uiteraard in overleg.
-Ook op de maandag ochtend zijn er mogelijkheden.
 Komt u ons mooie team versterken? Het is de uitgelezen kans om nieuwe mensen te leren kennen en u tegelijkertijd in te zetten voor onze mooie wijk/stad.
 Voor meer informatie kunt u contact opnemen met AnneBelle; onze zakelijk leidster. We komen graag met u in contact!
 
