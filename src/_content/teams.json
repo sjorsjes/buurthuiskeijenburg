@@ -59,10 +59,6 @@
         "image": "vrijwilligers/nel.png"
       },
       {
-        "name": "Nordin",
-        "image": "anoniem.png"
-      },
-      {
         "name": "Omar",
         "image": "vrijwilligers/omar.png"
       },
@@ -85,10 +81,6 @@
       {
         "name": "Suzan",
         "image": "vrijwilligers/suzan.png"
-      },
-      {
-        "name": "Wally",
-        "image": "vrijwilligers/wally.png"
       }
     ]
   }, {
@@ -110,6 +102,7 @@
       {
         "name": "vacant",
         "function": "penningmeester",
+        "image": "anoniem.png"
       },
       {
         "name": "Marcel de Beer",
