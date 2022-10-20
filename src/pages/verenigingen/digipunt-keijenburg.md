@@ -1,7 +1,8 @@
 ---
 layout: "../../layouts/content.astro"
-title: Digihulp Keijenburg
+title: Digipunt Keijenburg
 ---
+
 Elke Dinsdag van 10 -12 uur Digitale hulp  bij Keijenburg.
 
 Kunt u wel wat hulp of uitleg gebruiken in deze digitale wereld? 
