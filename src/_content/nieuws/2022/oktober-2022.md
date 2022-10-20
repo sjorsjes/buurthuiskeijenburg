@@ -33,6 +33,7 @@ Kunt u wel wat hulp of uitleg gebruiken rondom de digitale wereld? Bij uw comput
 Denk aan software bediening, hulp bij overzetten, digid instellen, QR-codes ed....
 Elke dinsdagochtend tussen 10 en 12 uur is Wim, onze vrijwilliger aanwezig in het cafe van Keijenburg om u te helpen!
 Schroom niet, samen komen we er wel aan uit!
+(er wordt niet gerepareerd....)
 
 Graag tot ziens!
 
