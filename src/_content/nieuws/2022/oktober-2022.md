@@ -1,5 +1,5 @@
 ---
-date: 2022-10-19
+date: 2022-10-20
 ---
 
 # Wees welkom bij Buurthuis Keijenburg!
@@ -19,6 +19,7 @@ Dit geld komt onze sociale activiteiten ten goede!
 ## Komt u ook? 
 - donderdag 20 oktober is er weer een KBO middag.
 - donderdag 3 November is er een gezellige middag van de KBO
+- vrijdag 11 november is er weer Bingo.
 - zondag 20 november een optreden van Op-Sound!!
 Maar er staat meer op de planning! Kijk voor het hele overzicht in de maandagenda op deze site.
 
