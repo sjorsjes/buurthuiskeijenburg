@@ -1,22 +1,23 @@
 ---
-import BaseLayout from './base.astro';
-import Content from '../components/Content.astro';
-import PhotoalbumImage from '../components/PhotoalbumImage.astro';
+import BaseLayout from "./base.astro";
+import Content from "../components/Content.astro";
+import PhotoalbumImage from "../components/PhotoalbumImage.astro";
 
 const { frontmatter, file } = Astro.props;
-const directory = file.substring(file.indexOf('pages')).slice(0, -9);
-const allPhotos = import.meta.glob<ImageMetadata>('../pages/fotoalbums/**/*.jpg', { import: 'default' });
-const photos = Object.keys(allPhotos).filter((photo) => photo.includes(directory));
+const directory = file.substring(file.indexOf("pages")).slice(0, -9);
+const allPhotos = import.meta.glob<ImageMetadata>(
+	["../pages/fotoalbums/**/*.jpg", "../pages/fotoalbums/**/*.jpeg"],
+	{ import: "default" }
+);
+const photos = Object.keys(allPhotos).filter((photo) =>
+	photo.includes(directory)
+);
 ---
 
 <BaseLayout title={frontmatter?.title}>
-    <Content title={frontmatter?.title} visual={frontmatter?.visual}>
-        <slot />
+	<Content title={frontmatter?.title} visual={frontmatter?.visual}>
+		<slot />
 
-        {
-            photos.map((photo, i) => (
-				<PhotoalbumImage src={ photo } />
-            ))
-        }
-    </Content>
+		{photos.map((photo, i) => <PhotoalbumImage src={photo} />)}
+	</Content>
 </BaseLayout>

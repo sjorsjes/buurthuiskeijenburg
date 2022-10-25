@@ -1,19 +1,22 @@
 ---
-import { Image } from '@astrojs/image/components';
+import { Image } from "@astrojs/image/components";
 
 export type Props = {
 	src: string;
 	width?: string;
 	aspectRatio?: string;
 	alt?: string;
-}
+};
 
-const { src, width = '800', aspectRatio = '3:2', alt = '' } = Astro.props;
+const { src, width = "800", aspectRatio = "3:2", alt = "" } = Astro.props;
 
 console.log(src);
 
-const images = import.meta.glob<ImageMetadata>('../pages/fotoalbums/**/*.jpg', { import: 'default' });
+const images = import.meta.glob<ImageMetadata>(
+	["../pages/fotoalbums/**/*.jpg", "../pages/fotoalbums/**/*.jpeg"],
+	{ import: "default" }
+);
 const imagesrc = await images[src]();
 ---
 
-<Image src={ imagesrc } width={ width } aspectRatio={ aspectRatio } alt={ alt } />
+<Image src={imagesrc} width={width} alt={alt} />
