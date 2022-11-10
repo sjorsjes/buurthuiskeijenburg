@@ -1,47 +1,63 @@
 ---
-import ContentLayout from '../../layouts/content.astro';
+import ContentLayout from "../../layouts/content.astro";
 
 export async function getStaticPaths({ paginate }) {
-    const posts = (await Astro.glob('../../_content/nieuws/**/*.{md,mdx}')).sort(
-	    (a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf()
-    );
+	const posts = (await Astro.glob("../../_content/nieuws/**/*.{md,mdx}")).sort(
+		(a, b) =>
+			new Date(b.frontmatter.date).valueOf() -
+			new Date(a.frontmatter.date).valueOf()
+	);
 
-    return paginate(posts, { pageSize: 2 });
+	return paginate(posts, { pageSize: 2 });
 }
 
 const { page } = Astro.props;
 ---
 
 <ContentLayout>
-    <div class="news">
-        {page.data.map(({ Content, frontmatter }) => (
-            <article class="news__item">
-                <div>{new Date(frontmatter.date).toLocaleDateString('nl-NL', { year: 'numeric', month: 'short', day: 'numeric' })}</div>
-                <Content />
-            </article>
-        ))}
-    </div>
+	<div class="news">
+		{
+			page.data.map(({ Content, frontmatter }) => (
+				<article class="news__item">
+					<div>
+						{new Date(frontmatter.date).toLocaleDateString("nl-NL", {
+							year: "numeric",
+							month: "short",
+							day: "numeric",
+						})}
+					</div>
+					<Content />
+				</article>
+			))
+		}
+	</div>
 
-    <nav aria-labelledby="pagination"  class="pagination">
-        <ol class="pagination__list">
-            <li class="pagination__action pagination__action--previous">
-                {page.url.prev
-                ?
-                    <a href={page.url.prev} class="btn">Vorige</a>
-                :
-                    ''
-                }
-            </li>
-            <li class="pagination__action pagination__action--next">
-                {page.url.next
-                ?
-                    <a href={page.url.next} class="btn">Volgende</a>
-                :
-                    ''
-                }
-            </li>
-        </ol>
-    </nav>
+	<nav aria-labelledby="pagination" class="pagination">
+		<ol class="pagination__list">
+			<li class="pagination__action pagination__action--previous">
+				{
+					page.url.prev ? (
+						<a href={page.url.prev} class="btn">
+							Vorige
+						</a>
+					) : (
+						""
+					)
+				}
+			</li>
+			<li class="pagination__action pagination__action--next">
+				{
+					page.url.next ? (
+						<a href={page.url.next} class="btn">
+							Volgende
+						</a>
+					) : (
+						""
+					)
+				}
+			</li>
+		</ol>
+	</nav>
 </ContentLayout>
 
 <style>

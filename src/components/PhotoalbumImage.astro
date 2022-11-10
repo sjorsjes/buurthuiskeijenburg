@@ -9,9 +9,6 @@ export type Props = {
 };
 
 const { src, width = "800", aspectRatio = "3:2", alt = "" } = Astro.props;
-
-console.log(src);
-
 const images = import.meta.glob<ImageMetadata>(
 	["../pages/fotoalbums/**/*.jpg", "../pages/fotoalbums/**/*.jpeg"],
 	{ import: "default" }
