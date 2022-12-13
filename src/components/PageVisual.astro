@@ -5,19 +5,52 @@ export interface Props {
 	highlightText?: string;
 	highlightActionText?: string;
 	highlightUrl?: string;
+	vacancyHighlightText?: string;
+	vacancyHighlightActionText?: string;
+	vacancyHighlightUrl?: string;
 }
 
-const { visual, large = false, highlightText, highlightActionText, highlightUrl } = Astro.props;
-const visualUrl = `background-image: url(/images/${ visual ? visual : 'content/voorgevel.jpg' });`;
+const {
+	visual,
+	large = false,
+	highlightText,
+	highlightActionText,
+	highlightUrl,
+	vacancyHighlightText,
+	vacancyHighlightActionText,
+	vacancyHighlightUrl,
+} = Astro.props;
+const visualUrl = `background-image: url(/images/${
+	visual ? visual : "content/voorgevel.jpg"
+});`;
 ---
 
-<div class={ `page_visual ${large ? 'page_visual--large' : ''}` } style={visualUrl}>
+<div
+	class={`page_visual ${large ? "page_visual--large" : ""}`}
+	style={visualUrl}
+>
 	{
-		highlightUrl
-		? <a href={ highlightUrl } class="highlight" data-content={ highlightActionText }>
-				{ highlightText }
+		!!highlightUrl?.length && (
+			<a
+				href={highlightUrl}
+				class="highlight"
+				data-content={highlightActionText}
+			>
+				{highlightText}
 			</a>
-		: ''
+		)
+	}
+
+	{
+		!!vacancyHighlightUrl?.length && (
+			<a
+				href={vacancyHighlightUrl}
+				class="highlight highlight--second"
+				data-content={vacancyHighlightActionText}
+			>
+				{vacancyHighlightText}
+			</a>
+		)
 	}
 </div>
 
@@ -50,14 +83,14 @@ const visualUrl = `background-image: url(/images/${ visual ? visual : 'content/v
 		bottom: 50px;
 
 		background: var(--color-pink);
+	}
 
-		&:hover {
-			border-color: var(--color-pink);
+	.highlight--second:hover {
+		border-color: var(--color-pink);
+	}
 
-			&:before {
-				color: var(--color-pink);
-			}
-		}
+	.highlight--second:hover:before {
+		color: var(--color-pink);
 	}
 
 	/* SMALL */
@@ -67,6 +100,7 @@ const visualUrl = `background-image: url(/images/${ visual ? visual : 'content/v
 		}
 
 		.highlight--second {
+			left: auto;
 			right: 0;
 			bottom: 0;
 
@@ -114,12 +148,17 @@ const visualUrl = `background-image: url(/images/${ visual ? visual : 'content/v
 
 		.highlight--second {
 			top: auto;
+			right: 10%;
 			bottom: 10%;
-			left: 10%;
+			left: auto;
 
 			transform: rotate(3deg);
 
 			width: 150px;
+		}
+
+		.highlight--second:hover:before {
+			color: var(--color-pink);
 		}
 	}
 
@@ -132,8 +171,9 @@ const visualUrl = `background-image: url(/images/${ visual ? visual : 'content/v
 		}
 
 		.highlight--second {
+			right: 15%;
 			bottom: 5%;
-			left: 30%;
+			left: auto;
 		}
 	}
 </style>
