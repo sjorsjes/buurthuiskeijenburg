@@ -17,10 +17,9 @@ Dankjewel allemaal voor het geweldig mooie bedrag van 620 euro die we vanuit de 
 Dit geld komt onze sociale activiteiten ten goede! 
 
 ## Komt u ook? 
-- vrijdag 11 november is er weer Bingo.
-- zondag 20 november een optreden van Op-Sound!!
-- zondag 27 nov de najaarsmarkt van creaveres.
-Maar er staat meer op de planning! Kijk voor het hele overzicht in de maandagenda op deze site.
+- 2e kerstdag vieren we weer ouderwets gezamenlijk in Keijenburg. Met muziek, bingo, lekker eten...maar vooral samen!
+
+Tussen kerst en Oud en Nieuw zijn wij gesloten. vanaf 2 Januari 2023 zien we u graag weer terug.
 
 ## Vrijwilligers gezocht!
 Wij zoeken (inval) collega's voor achter de bar! Met name voor af en toe een weekend dagdeel. Alles uiteraard in overleg.
@@ -34,6 +33,7 @@ Elke dinsdagochtend tussen 10 en 12 uur is Wim, onze vrijwilliger aanwezig in he
 Schroom niet, samen komen we er wel aan uit!
 (er wordt niet gerepareerd....)
 
+Fijne feestdagen!
 Graag tot ziens!
 
 Team Keijenburg
