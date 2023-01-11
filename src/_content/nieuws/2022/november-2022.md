@@ -12,14 +12,8 @@ Houd vooral de krant, onze facebookpagina en natuurlijk deze website in de gaten
 Ook zijn de extra activiteiten te vinden aan de gevel van het gebouw.
 Loop eens langs en kom binnen! U bent van harte welkom!
 
-## DANKJEWEL!!
-Dankjewel allemaal voor het geweldig mooie bedrag van 620 euro die we vanuit de Rabo Clubsupport actie hebben mogen ontvangen!
-Dit geld komt onze sociale activiteiten ten goede! 
-
 ## Komt u ook? 
-- 2e kerstdag vieren we weer ouderwets gezamenlijk in Keijenburg. Met muziek, bingo, lekker eten...maar vooral samen!
-
-Tussen kerst en Oud en Nieuw zijn wij gesloten. vanaf 2 Januari 2023 zien we u graag weer terug.
+* vrijdag 13 jan is er weer Bingo!
 
 ## Vrijwilligers gezocht!
 Wij zoeken (inval) collega's voor achter de bar! Met name voor af en toe een weekend dagdeel. Alles uiteraard in overleg.
