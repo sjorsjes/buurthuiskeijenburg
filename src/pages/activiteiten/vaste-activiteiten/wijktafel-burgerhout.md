@@ -21,8 +21,8 @@ Gespreksonderwerpen kunnen gaan over leefbaarheid, welzijn, zorg en veiligheid.
 
 Iedere 2de donderdag van de maand van 16.00 tot 17.00 in Buurthuis Keijenburg.
 
-Heeft u vooraf vragen over de wijktafel neem dan contact op met de Opbouwwerker Marco van Belle.
-Email:		marco.vanbelle@wijzijntraversegroep.nl
-Telefoon: 	+31 636206393
-		    +31 165 750050
+Heeft u vooraf vragen over de wijktafel neem dan contact op met de Opbouwwerker Edwin Spitters.
+Email:		edwin.spitters@wijzijntraversegroep.nl
+Telefoon: +31614001960
+          +31 165 750050
 
