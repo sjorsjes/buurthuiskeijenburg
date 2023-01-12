@@ -19,10 +19,15 @@ title: "Openingstijden"
 
 Zaterdag en zondag op aanvraag.
 
-## Sluitingsdata 2021
+## Sluitingsdata 2023
 
 |               |                                   |
 | ------------- | --------------------------------- |
-| **Zomervakantie** | 26 juli t/m 6 september       |
-| **Sinterklaas**   | 5 december                    |
-| **Kerstvakantie** | 20 december t/m 2 januari     |
+| **Carnaval**      | 20 februari t/m 26 februari   |
+| **Pasen**         | 8,9 en 10 April               |
+| **Koningsdag**    | 27 en 28 April                |
+| **Hemelvaart**    | 18 en 19 mei                  |
+| **Pinksteren**    | 28 en 29 mei                  |
+| **Zomervakantie** | 24 juli t/m 20 augustus       |
+| **Sinterklaas**   | 5 december   (avond)          |               |
+| **Kerstvakantie** | 25 december t/m 1 januari     |
