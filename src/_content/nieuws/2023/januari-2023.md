@@ -9,8 +9,12 @@ Benieuwd wat? Dit is te vinden in de vaste week agenda. (klik op activiteiten/ v
 Ook stellen de verenigingen zich voor! (klik op verenigingen)
 
 ## Komt u ook? 
-* vrijdag 13 jan is er weer Bingo!
 * Donderdag 26 jan organiseerd de KBO weer een gezellige middag.
+* Zaterdag 28 jan wordt de Kwakkelkraant verspreid! Wilt u ook meehelpen? Opgeven kan via de organisatie van de Kwakkelkraant.
+* vrijdag 10 februari is er weer BINGO bij Keijenburg
+* Zaterdag 11 februari is ons eigenste Keikesbal! Het carnavalsfeest voor de kinderen!
+* Woensdag 15 februari is Ut Groot Keienbal. Ook de 50 plussers weten wel wat Carnaval is!
+
 (meer info klik op activiteiten / agenda)
 
 ## Keij Nieuw(s)
