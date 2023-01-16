@@ -21,11 +21,11 @@
   "dependencies": {
     "@astrojs/image": "^0.12.1",
     "@types/lodash.truncate": "^4.4.7",
-    "astro": "^1.6.15",
+    "astro": "^1.9.2",
     "lodash.truncate": "^4.4.2",
     "postcss-import": "^15.1.0",
     "postcss-nested": "^6.0.0",
-    "sharp": "^0.31.2"
+    "sharp": "^0.31.3"
   },
   "devDependencies": {
     "fast-glob": "^3.2.12"
