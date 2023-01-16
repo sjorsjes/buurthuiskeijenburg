@@ -41,7 +41,14 @@ const filterItems = (
 	y: number
 ) => {
 	return data.filter((item: MarkdownInstance<Record<string, any>>) => {
-		const { year, month } = urlToDate(item.url as string);
+		let year;
+		let month;
+
+		if (item.frontmatter?.date) {
+			[year, month] = item.frontmatter.date.split("-");
+		} else {
+			({ year, month } = urlToDate(item.url as string));
+		}
 
 		return Number(year) === y && parseInt(month, 10) === m;
 	});
