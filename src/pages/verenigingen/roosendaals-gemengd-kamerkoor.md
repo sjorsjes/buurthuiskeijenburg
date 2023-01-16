@@ -10,4 +10,3 @@ Ons repertoire loopt uiteen van oratorium (o.a .Händel, Haydn) tot opera (Verdi
 Je bent van harte welkom om eens een keer te komen luisteren of ons koor iets voor je is.
 
 Telefoon [0165 – 543638](tel:0165543638).
-

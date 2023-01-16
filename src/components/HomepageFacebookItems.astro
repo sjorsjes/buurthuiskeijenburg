@@ -1,64 +1,75 @@
 ---
-import truncate from 'lodash.truncate';
+import truncate from "lodash.truncate";
 
 export type FacebookPost = {
-  id: string;
-  created_time: string;
-  picture?: string;
-  full_picture?: string;
-  message?: string;
-}
+	id: string;
+	created_time: string;
+	picture?: string;
+	full_picture?: string;
+	message?: string;
+};
 
 export type FacebookResponse = {
-    data: FacebookPost[];
-    paging: {
-        cursors: {
-            before: string;
-            after: string;
-        },
-        next: string;
-    }
-}
-const { FACEBOOK_APP_ID, FACEBOOK_ACCESS_TOKEN, FACEBOOK_POST_LIMIT } = import.meta.env;
-const facebookPosts: FacebookResponse = await fetch(`https://graph.facebook.com/v7.0/${FACEBOOK_APP_ID}/feed?fields=id%2Cpicture%2Cfull_picture%2Ccreated_time%2Cmessage&limit=${FACEBOOK_POST_LIMIT}&access_token=${FACEBOOK_ACCESS_TOKEN}`)
-		.then(res => res.json());
+	data: FacebookPost[];
+	paging: {
+		cursors: {
+			before: string;
+			after: string;
+		};
+		next: string;
+	};
+};
+const { FACEBOOK_APP_ID, FACEBOOK_ACCESS_TOKEN, FACEBOOK_POST_LIMIT } =
+	import.meta.env;
+const facebookPosts: FacebookResponse = await fetch(
+	`https://graph.facebook.com/v7.0/${FACEBOOK_APP_ID}/feed?fields=id%2Cpicture%2Cfull_picture%2Ccreated_time%2Cmessage&limit=${FACEBOOK_POST_LIMIT}&access_token=${FACEBOOK_ACCESS_TOKEN}`
+).then((res) => res.json());
 ---
 
 {
-	facebookPosts.data
-	?
+	facebookPosts.data ? (
 		<div class="facebook">
 			<div class="container">
 				<h1 class="text-center">Facebook</h1>
 
 				<div class="facebook__container">
 					{facebookPosts.data.map((post) => (
-						<div class:list={[ 'facebook__post', { 'facebook__post--image': post.full_picture } ]}>
-							<a href={ `https://www.facebook.com/${post.id}` } class="facebook__post-link">
+						<div
+							class:list={[
+								"facebook__post",
+								{ "facebook__post--image": post.full_picture },
+							]}
+						>
+							<a
+								href={`https://www.facebook.com/${post.id}`}
+								class="facebook__post-link"
+							>
 								<span class="facebook__post-link__text">
 									Bekijk het bericht…
 								</span>
 							</a>
 
-							{
-								post.full_picture
-								? <div class="facebook__post-visual">
+							{post.full_picture ? (
+								<div class="facebook__post-visual">
 									<img src={post.full_picture} alt="" />
 								</div>
-								: ''
-							}
+							) : (
+								""
+							)}
 
 							<div class="facebook__post-body">
 								<small class="facebook__post-date">
-									{new Date(post.created_time).toLocaleDateString('nl-NL', { year: 'numeric', month: 'short', day: 'numeric' })}
+									{new Date(post.created_time).toLocaleDateString("nl-NL", {
+										year: "numeric",
+										month: "short",
+										day: "numeric",
+									})}
 								</small>
 
 								<div class="facebook__post-content">
-									{
-										post.full_picture
-										? truncate(post.message, { length: 225, omission: '…' })
-										: truncate(post.message, { length: 500, omission: '…' })
-									}
+									{post.full_picture
+										? truncate(post.message, { length: 225, omission: "…" })
+										: truncate(post.message, { length: 500, omission: "…" })}
 								</div>
 							</div>
 						</div>
@@ -66,13 +77,18 @@ const facebookPosts: FacebookResponse = await fetch(`https://graph.facebook.com/
 				</div>
 
 				<div class="text-center">
-					<a href="https://www.facebook.com/buurthuiskeijenburg" class="btn btn--facebook">
+					<a
+						href="https://www.facebook.com/buurthuiskeijenburg"
+						class="btn btn--facebook"
+					>
 						Bekijk alle berichten
 					</a>
 				</div>
 			</div>
 		</div>
-	: ''
+	) : (
+		""
+	)
 }
 
 <style>
@@ -140,7 +156,7 @@ const facebookPosts: FacebookResponse = await fetch(`https://graph.facebook.com/
 
 			padding-bottom: 100%;
 
-			content: '';
+			content: "";
 		}
 
 		img {

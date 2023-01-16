@@ -2,7 +2,7 @@
 date: 2020-12-15
 ---
 
-# Update n.a.v. de  Corona Lockdown aankondiging van 14 december 2020
+# Update n.a.v. de Corona Lockdown aankondiging van 14 december 2020
 
 ## Update Buurthuis Keijenburg
 
@@ -33,7 +33,6 @@ Dat we 2021 maar weer meer in gezamenlijkheid mogen beleven...**
 
 Tot ziens!
 Team Keijenburg.
- 
 
 **Gezamenlijk statement buurthuizen Roosendaal en bijbehorende dorpen.**
 
@@ -54,4 +53,3 @@ Alleen op die manier kunnen we samen de mogelijkheden benutten die er wel zijn.
 Voor nu; blijf gezond en vergeet elkaar niet.
 
 Namens alle Roosendaalse buurthuizen,Dankuwel.
-

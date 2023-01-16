@@ -1,92 +1,109 @@
 ---
-import fg from 'fast-glob';
-import BaseLayout from './base.astro';
-import Content from '../components/Content.astro';
-import PhotoalbumImage from '../components/PhotoalbumImage.astro';
+import fg from "fast-glob";
+import BaseLayout from "./base.astro";
+import Content from "../components/Content.astro";
+import PhotoalbumImage from "../components/PhotoalbumImage.astro";
 
 export type gallery = {
-    year: number;
-    name: string;
-    fullName: string;
-    metadata: string;
-    images: string[];
-}
+	year: number;
+	name: string;
+	fullName: string;
+	metadata: string;
+	images: string[];
+};
 
-const galleryYears = await fg('src/pages/fotoalbums/*', { objectMode: true, onlyDirectories: true });
-const activitiesPerYear = await Promise.all(galleryYears.map(async (yearObj) => {
-    const year = yearObj.name;
-    const activities = await fg(`src/pages/fotoalbums/${year}/*`, { objectMode: true, onlyDirectories: true });
-    const imagesPerActivity = await Promise.all(activities.map(async (activity) => {
-        const images = await fg(`src/pages/fotoalbums/${year}/${activity.name}/*`, { objectMode: true });
+const galleryYears = await fg("src/pages/fotoalbums/*", {
+	objectMode: true,
+	onlyDirectories: true,
+});
+const activitiesPerYear = await Promise.all(
+	galleryYears.map(async (yearObj) => {
+		const year = yearObj.name;
+		const activities = await fg(`src/pages/fotoalbums/${year}/*`, {
+			objectMode: true,
+			onlyDirectories: true,
+		});
+		const imagesPerActivity = await Promise.all(
+			activities.map(async (activity) => {
+				const images = await fg(
+					`src/pages/fotoalbums/${year}/${activity.name}/*`,
+					{ objectMode: true }
+				);
 
-        return {
-            [activity.name]: images.map(image => image.name),
-        };
-    }));
+				return {
+					[activity.name]: images.map((image) => image.name),
+				};
+			})
+		);
 
-    return activities.map((activity) => {
-        let [name, metadata] = activity.name.split('__');
+		return activities.map((activity) => {
+			let [name, metadata] = activity.name.split("__");
 
-        name = name.trim();
+			name = name.trim();
 
-        if (metadata) {
-            metadata = metadata.trim();
-        }
+			if (metadata) {
+				metadata = metadata.trim();
+			}
 
-        const img = imagesPerActivity.find((act) => {
-            const [key] = Object.keys(act);
+			const img = imagesPerActivity.find((act) => {
+				const [key] = Object.keys(act);
 
-            return key === activity.name;
-        });
+				return key === activity.name;
+			});
 
-        return {
-            year,
-            name,
-            fullName: activity.name,
-            metadata,
-            images: img[activity.name]
-        }
-    });
-}));
+			return {
+				year,
+				name,
+				fullName: activity.name,
+				metadata,
+				images: img[activity.name],
+			};
+		});
+	})
+);
 
 const { frontmatter } = Astro.props;
 
 const filterByYear = (array: any, year: any) => {
-    return array.filter((v: any) => v.year === `${year}`)
+	return array.filter((v: any) => v.year === `${year}`);
 };
 ---
 
 <BaseLayout title={frontmatter?.title}>
-    <Content title={frontmatter?.title} visual={frontmatter?.visual}>
-        <slot />
+	<Content title={frontmatter?.title} visual={frontmatter?.visual}>
+		<slot />
 
-        {
-            galleryYears.reverse().map(({ name: year }) => (
-                <h2 id={`year-${year}`}>{ year }</h2>
+		{
+			galleryYears.reverse().map(({ name: year }) => (
+				<>
+					<h2 id={`year-${year}`}>{year}</h2>
+					<div class="gallery__list">
+						{filterByYear(activitiesPerYear.flat(), year).map(
+							(activity: any) => (
+								<a
+									href={`/fotoalbums/${year}/${activity.name}`}
+									class="gallery__list-item"
+								>
+									<div class="gallery__list-item__title">
+										<h3>{activity.name}</h3>
+									</div>
 
-                <div class="gallery__list">
-                    {
-                        filterByYear(activitiesPerYear.flat(), year).map((activity: any) => (
-                            <a href={`/fotoalbums/${ year }/${ activity.name }`} class="gallery__list-item">
-                                <div class="gallery__list-item__title">
-                                    <h3>{ activity.name }</h3>
-                                </div>
-
-								<div class="gallery__list-item__img">
-									<PhotoalbumImage
-										src={`../pages/fotoalbums/${ activity.year }/${ activity.fullName }/${ activity.images[0] }`}
-										alt=""
-										width="250"
-										aspectRatio="4:3"
-									/>
-								</div>
-                            </a>
-                        ))
-                    }
-                </div>
-            ))
-        }
-    </Content>
+									<div class="gallery__list-item__img">
+										<PhotoalbumImage
+											src={`../pages/fotoalbums/${activity.year}/${activity.fullName}/${activity.images[0]}`}
+											alt=""
+											width="250"
+											aspectRatio="4:3"
+										/>
+									</div>
+								</a>
+							)
+						)}
+					</div>
+				</>
+			))
+		}
+	</Content>
 </BaseLayout>
 
 <style>

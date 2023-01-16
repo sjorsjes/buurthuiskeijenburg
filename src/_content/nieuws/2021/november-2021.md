@@ -12,7 +12,7 @@ Mocht u meer willen weten of vragen hebben kunt u natuurlijk altijd contact met 
 Alle vaste activiteiten zijn gewoon te bezoeken zonder corona check!
 (Enkel de extra evenementen/afspraken en het gebruik van het cafe zullen enkel toegankelijk zijn met een corona check aan de deur. )
 
-Indien uw activiteit er niet bijstaat, en u deze wel op zou willen zetten... 
+Indien uw activiteit er niet bijstaat, en u deze wel op zou willen zetten...
 Neemt u vooral contact op met onze zakelijk leidster Anne-Belle.
 Ook voor eenmalige activiteiten of evenementen bent u aan het juiste adres.
 We hebben een fijne en warme groep met vrijwilligers waar we goed voor zorgen. U voelt zich hier vast thuis!
@@ -26,7 +26,3 @@ Natuurlijk volgen wij de richtlijnen vanuit de overheid. Op dit moment zijn we d
 
 Graag tot ziens!
 Team Keijenburg
-
-
-
-

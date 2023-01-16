@@ -13,4 +13,4 @@ De oefeningen zijn afgestemd op de senioren en gaan op een speelse manier onder 
 Het lidmaatschap bedraagt € 10,– per maand, contant te betalen. Voor men besluit lid te worden, kan men 2 keer gratis een les bijwonen.
 
 Voor nadere inlichtingen kunt u mailen naar Joke Hoevenaars.  
-jokehoevenaars1@gmail.com 
+jokehoevenaars1@gmail.com

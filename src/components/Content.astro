@@ -1,24 +1,25 @@
 ---
 export type Props = {
-  title: string;
-  visual?: string;
-}
+	title: string;
+	visual?: string;
+};
 
-import PageVisual from '../components/PageVisual.astro';
-import Breadcrumbs from '../components/Breadcrumbs.astro';
+import PageVisual from "../components/PageVisual.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
 
 const { title, visual } = Astro.props;
 ---
+
 <PageVisual visual={visual} />
 
 <main class="main">
-    <article class="content container">
-        <Breadcrumbs />
+	<article class="content container">
+		<Breadcrumbs />
 
-        <h1 class="page__title">{ title }</h1>
+		<h1 class="page__title">{title}</h1>
 
-        <slot />
-    </article>
+		<slot />
+	</article>
 </main>
 
 <style>

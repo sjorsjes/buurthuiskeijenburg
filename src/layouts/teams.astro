@@ -1,21 +1,23 @@
 ---
-import BaseLayout from './base.astro';
+import BaseLayout from "./base.astro";
 
-import Content from '../components/Content.astro';
-import Teams from '../components/Teams.astro';
+import Content from "../components/Content.astro";
+import Teams from "../components/Teams.astro";
 
 const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout title={frontmatter?.title}>
-    <Content title={frontmatter?.title} visual={frontmatter?.visual}>
-        <slot />
+	<Content title={frontmatter?.title} visual={frontmatter?.visual}>
+		<slot />
 
-        <div class="text-center">
-            <br />
-            <a href="/contact" class="btn">Neem contact met ons op voor de mogelijkheden</a>
-        </div>
+		<div class="text-center">
+			<br />
+			<a href="/contact" class="btn"
+				>Neem contact met ons op voor de mogelijkheden</a
+			>
+		</div>
 
-        <Teams />
-    </Content>
+		<Teams />
+	</Content>
 </BaseLayout>

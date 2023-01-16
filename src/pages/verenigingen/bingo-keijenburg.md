@@ -16,5 +16,4 @@ Kosten:
 
 We spelen 9 rondes en een hoofdronde!
 
-**Wees welkom!
-
+\*\*Wees welkom!
