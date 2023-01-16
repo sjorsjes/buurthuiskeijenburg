@@ -14,4 +14,3 @@ Helaas hebben wij dit jaar (2020) i.v.m. Corona onze voorstelling moeten verplaa
 **Contactpersoon**  
 Ria van doormaal  
 Email: [graag.gedaan@outlook.com](mailto:graag.gedaan@outlook.com)
- 

@@ -23,7 +23,7 @@
 	--color-text: var(--color-gray);
 	--color-link: var(--color-gray);
 
-	--font-face-body: 'Open Sans', helvetica, arial, sans-serif;
+	--font-face-body: "Open Sans", helvetica, arial, sans-serif;
 
 	--font-weight-normal: 400;
 	--font-weight-bold: 700;

@@ -14,4 +14,3 @@ Zo helpen we elkaar en kunnen ook mensen waarvoor de bibliotheek in het centreum
 
 Leent u een boek dat u graag wilt houden? Ook dat mag!
 Wij wensen u veel leesplezier!
-

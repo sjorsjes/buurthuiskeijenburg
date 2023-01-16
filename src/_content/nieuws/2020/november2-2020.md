@@ -2,7 +2,7 @@
 date: 2020-11-19
 ---
 
-# Update n.a.v. de  Corona persconferentie van 17 November 2020.
+# Update n.a.v. de Corona persconferentie van 17 November 2020.
 
 **Gezamenlijk statement buurthuizen Roosendaal en bijbehorende dorpen.**
 
@@ -27,38 +27,38 @@ Namens alle Roosendaalse buurthuizen,Dankuwel.
 **Update Buurthuis Keijenburg**
 
 Beste gebruiker/bezoeker van Buurthuis Keijenburg,
- 
-Vanaf donderdag 19 november gaan we terug naar de gedeeltelijke lockdown zoals deze in oktober was. 
+
+Vanaf donderdag 19 november gaan we terug naar de gedeeltelijke lockdown zoals deze in oktober was.
 Dit betekent concreet voor ons als buurthuis dat we enkel open mogen voor de zaalverhuur.
-Daardoor komen meerdere verenigingen niet in aanmerking door hun eigen beperkingen (sport/koren e.d.) 
+Daardoor komen meerdere verenigingen niet in aanmerking door hun eigen beperkingen (sport/koren e.d.)
 Horeca is gesloten, de uitzonderingen hierop zijn niet van toepassing op Keijenburg. Er zijn ook al vele afmeldingen vanuit verenigingen.
- 
+
 Daarnaast is nog steeds het advies;
-- blijf zo veel mogelijk thuis
-- zoek elkaar niet onnodig op
-- beperk sociale contacten
-- beperk sociaal verkeer
- 
+
+-   blijf zo veel mogelijk thuis
+-   zoek elkaar niet onnodig op
+-   beperk sociale contacten
+-   beperk sociaal verkeer
+
 Keijenburg is bij uitstek een plaats voor ontmoetingen en daarmee nu een risico in deze moeilijke tijd.
- 
+
 Wij vanuit Keijenburg vinden het daarom niet verantwoord om open te gaan.
 Veiligheid staat nog steeds voorop. Veiligheid voor de bezoekers, welke merendeel op leeftijd zijn, maar zeker ook de veiligheid voor onze vrijwilligers.
- 
+
 Buurthuis Keijenburg blijft in ieder geval gesloten voor de reguliere activiteiten tot en met 1 januari 2021
 Rond 8 december zal er vanuit de overheid nieuwe informatie komen.
 Daarna, als duidelijker is wat wel en niet mogelijk is richting begin 2021, willen we graag met onze verenigingen in gesprek over het verdere verloop.
 Zodra we daarop meer informatie hebben zullen we dit verspreiden via de gebruikelijke kanalen.
- 
+
 Helaas zien wij binnen de regelgeving geen mogelijkheid ons gebruikelijke kerstdiner door te laten gaan.
 Wel zullen we de gevel en hal zo mooi mogelijk aankleden zodat we hopelijk wat sfeer kunnen brengen in de wijk.
 
 Koffiemiddagen.
 We bekijken de mogelijkheden om wederom een vaste koffiemiddag te organiseren, zoals dit in Juni ook het geval was.
 U hoort hier zo spoedig mogelijk meer over.
- 
+
 Voor nu; Blijf zoveel mogelijk thuis en blijf gezond!
- 
+
 We zien jullie heel graag in 2021 weer terug.
- 
+
 Team Keijenburg.
- 

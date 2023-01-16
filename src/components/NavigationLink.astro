@@ -2,11 +2,11 @@
 export interface Props extends astroHTML.JSX.AnchorHTMLAttributes {}
 
 const { href, ...props } = Astro.props;
-const [,part] = Astro.url.pathname.split('/');
+const [, part] = Astro.url.pathname.split("/");
 const isActive = part ? (href as string).includes(part) : false; // Set false for the homepage
 ---
 
-<li class:list={[ 'navigation__list-item', { 'is-active': isActive } ]}>
+<li class:list={["navigation__list-item", { "is-active": isActive }]}>
 	<a href={href} class="navigation__link" {...props}>
 		<slot />
 	</a>

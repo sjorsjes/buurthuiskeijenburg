@@ -2,11 +2,11 @@
 date: 2021-01-12
 ---
 
-# Update n.a.v. de  Corona Lockdown verlenging van 12 januari 2021.
+# Update n.a.v. de Corona Lockdown verlenging van 12 januari 2021.
 
 Beste gebruiker/bezoeker van Buurthuis Keijenburg,
 
-Zoals u allen gehoord heeft is Nederland, vanwege het corona virus, vanaf half december 2020 in een lockdown. 
+Zoals u allen gehoord heeft is Nederland, vanwege het corona virus, vanaf half december 2020 in een lockdown.
 Deze lockdown is op 12 januari verlengt tot ten minste 9 februari 2021.
 Helaas betekend dit dat wij als buurthuis tot en met 9 feb 2021 niet op een reguliere wijze open kunnen.
 Sociaal verkeer en sociale contacten moeten immers tot een minimum beperkt blijven.
@@ -14,7 +14,7 @@ Sociaal verkeer en sociale contacten moeten immers tot een minimum beperkt blijv
 Wel wordt er van de buurthuizen gevraagd of zij iets kunnen betekenen tegen de eenzaamheid.
 Eenzaamheid ligt zeker in deze tijd sneller op de loer.
 
-Daarom zijn we enkel open voor de koffie middagen. Deze zijn elke dinsdag en donderdag middag. 
+Daarom zijn we enkel open voor de koffie middagen. Deze zijn elke dinsdag en donderdag middag.
 Op deze manier kunnen mensen die zich eenzaam voelen langskomen voor koffie en een praatje.
 (alleen indien u geen klachten heeft en op reservering, aan de deur kan niet gereserveerd worden!)
 Daarnaast zal er voor dezelfde groep mensen eens per maand een seniorenbingo georganiseerd worden.
@@ -27,7 +27,6 @@ Blijf zoveel mogelijk thuis, houdt u zich aan de regels en blijf gezond!
 
 Tot ziens!
 Team Keijenburg.
- 
 
 **Gezamenlijk statement buurthuizen Roosendaal en bijbehorende dorpen.**
 
@@ -48,4 +47,3 @@ Alleen op die manier kunnen we samen de mogelijkheden benutten die er wel zijn.
 Voor nu; blijf gezond en vergeet elkaar niet.
 
 Namens alle Roosendaalse buurthuizen, Dankuwel.
- 

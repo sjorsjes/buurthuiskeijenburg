@@ -1,60 +1,77 @@
 ---
-import NavigationLink from './NavigationLink.astro';
-import NavigationChildLink from './NavigationChildLink.astro';
+import NavigationLink from "./NavigationLink.astro";
+import NavigationChildLink from "./NavigationChildLink.astro";
 ---
 
 <nav class="navigation">
-    <div class="navigation__container">
-        <h1 class="visuallyhidden">Buurthuis Keijenburg</h1>
+	<div class="navigation__container">
+		<h1 class="visuallyhidden">Buurthuis Keijenburg</h1>
 
-        <a href="/" class="navigation__logo">
-            <img src="/images/logo-alternative.svg" alt="Buurthuis Keijenburg" />
-        </a>
+		<a href="/" class="navigation__logo">
+			<img src="/images/logo-alternative.svg" alt="Buurthuis Keijenburg" />
+		</a>
 
-        <div class="navigation__scroll">
-            <ul class="navigation__list">
-                <NavigationLink href="/nieuws">Nieuws</NavigationLink>
-                <NavigationLink href="/activiteiten">
-                    Activiteiten
+		<div class="navigation__scroll">
+			<ul class="navigation__list">
+				<NavigationLink href="/nieuws">Nieuws</NavigationLink>
+				<NavigationLink href="/activiteiten">
+					Activiteiten
 
-                    <ul slot="children" class="navigation__sublist" aria-label="submenu">
-                        <NavigationChildLink href="/activiteiten/agenda">Agenda</NavigationChildLink>
-                        <NavigationChildLink href="/activiteiten/vaste-activiteiten">Vaste activiteiten</NavigationChildLink>
-                    </ul>
-                </NavigationLink>
-                <NavigationLink href="/het-team">Het team</NavigationLink>
-                <NavigationLink href="/keijenburg">
-                    Keijenburg
+					<ul slot="children" class="navigation__sublist" aria-label="submenu">
+						<NavigationChildLink href="/activiteiten/agenda"
+							>Agenda</NavigationChildLink
+						>
+						<NavigationChildLink href="/activiteiten/vaste-activiteiten"
+							>Vaste activiteiten</NavigationChildLink
+						>
+					</ul>
+				</NavigationLink>
+				<NavigationLink href="/het-team">Het team</NavigationLink>
+				<NavigationLink href="/keijenburg">
+					Keijenburg
 
-                    <ul slot="children" class="navigation__sublist" aria-label="submenu">
-                        <NavigationChildLink href="/keijenburg/historie">De historie</NavigationChildLink>
-                        <NavigationChildLink href="/keijenburg/openingstijden">Openingstijden</NavigationChildLink>
-                        <NavigationChildLink href="/keijenburg/in-het-nieuws">In het nieuws</NavigationChildLink>
-                        <NavigationChildLink href="/keijenburg/huisregels">Huisregels</NavigationChildLink>
-                        <NavigationChildLink href="/keijenburg/avg">AVG</NavigationChildLink>
-                        <NavigationChildLink href="/keijenburg/corona-informatie">Corona informatie</NavigationChildLink>
-                        <NavigationChildLink href="/keijenburg/jaarverslag">Jaarverslagen</NavigationChildLink>
-                    </ul>
-                </NavigationLink>
+					<ul slot="children" class="navigation__sublist" aria-label="submenu">
+						<NavigationChildLink href="/keijenburg/historie"
+							>De historie</NavigationChildLink
+						>
+						<NavigationChildLink href="/keijenburg/openingstijden"
+							>Openingstijden</NavigationChildLink
+						>
+						<NavigationChildLink href="/keijenburg/in-het-nieuws"
+							>In het nieuws</NavigationChildLink
+						>
+						<NavigationChildLink href="/keijenburg/huisregels"
+							>Huisregels</NavigationChildLink
+						>
+						<NavigationChildLink href="/keijenburg/avg">AVG</NavigationChildLink
+						>
+						<NavigationChildLink href="/keijenburg/corona-informatie"
+							>Corona informatie</NavigationChildLink
+						>
+						<NavigationChildLink href="/keijenburg/jaarverslag"
+							>Jaarverslagen</NavigationChildLink
+						>
+					</ul>
+				</NavigationLink>
 
-                <NavigationLink href="/verenigingen">Verenigingen</NavigationLink>
-                <NavigationLink href="/fotoalbums">Fotoalbums</NavigationLink>
-                <NavigationLink href="/zaalverhuur">Zaalverhuur</NavigationLink>
-                <NavigationLink href="/contact">Contact</NavigationLink>
-            </ul>
-        </div>
+				<NavigationLink href="/verenigingen">Verenigingen</NavigationLink>
+				<NavigationLink href="/fotoalbums">Fotoalbums</NavigationLink>
+				<NavigationLink href="/zaalverhuur">Zaalverhuur</NavigationLink>
+				<NavigationLink href="/contact">Contact</NavigationLink>
+			</ul>
+		</div>
 
-        <button class="navigation__mobile-toggle js-toggle-menu">
-            <span class="navigation__mobile-toggle__icon"></span>
-        </button>
-    </div>
+		<button class="navigation__mobile-toggle js-toggle-menu">
+			<span class="navigation__mobile-toggle__icon"></span>
+		</button>
+	</div>
 </nav>
 
 <script is:inline>
-	const menu = document.querySelector('.js-toggle-menu');
+	const menu = document.querySelector(".js-toggle-menu");
 
-	menu.addEventListener('click', () => {
-		document.body.classList.toggle('mobile-menu-active');
+	menu.addEventListener("click", () => {
+		document.body.classList.toggle("mobile-menu-active");
 	});
 </script>
 
@@ -90,8 +107,17 @@ import NavigationChildLink from './NavigationChildLink.astro';
 
 		background: linear-gradient(var(--color-green) 30%, rgba(255, 255, 255, 0)),
 			linear-gradient(rgba(255, 255, 255, 0), var(--color-green) 70%) 0 100%,
-			radial-gradient(farthest-side at 50% 0, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)),
-			radial-gradient(farthest-side at 50% 100%, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)) 0 100%;
+			radial-gradient(
+				farthest-side at 50% 0,
+				rgba(0, 0, 0, 0.2),
+				rgba(0, 0, 0, 0)
+			),
+			radial-gradient(
+					farthest-side at 50% 100%,
+					rgba(0, 0, 0, 0.2),
+					rgba(0, 0, 0, 0)
+				)
+				0 100%;
 
 		background-repeat: no-repeat;
 		background-size: 100% 40px, 100% 40px, 100% 14px, 100% 14px;
@@ -123,7 +149,7 @@ import NavigationChildLink from './NavigationChildLink.astro';
 			border-radius: 50%;
 			background-color: var(--color-green);
 
-			content: '';
+			content: "";
 		}
 
 		&.is-active > .navigation__link {
@@ -201,7 +227,7 @@ import NavigationChildLink from './NavigationChildLink.astro';
 			&:before,
 			&:after {
 				position: absolute;
-				content: '';
+				content: "";
 			}
 
 			&,
@@ -342,6 +368,11 @@ import NavigationChildLink from './NavigationChildLink.astro';
 				color: var(--color-green);
 
 				border-bottom: none;
+			}
+
+			&.is-active > .navigation__link:hover,
+			&:focus-within > .navigation__link {
+				color: var(--color-white);
 			}
 
 			.navigation__sublist {

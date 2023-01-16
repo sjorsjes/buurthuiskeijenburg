@@ -1,4 +1,9 @@
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	color: var(--color-headings);
 	line-height: 1.6;
 
@@ -25,7 +30,10 @@ h2 + p {
 	margin-top: calc(var(--distance-xs) * -1);
 }
 
-h3, h4, h5, h6 {
+h3,
+h4,
+h5,
+h6 {
 	margin: 0;
 
 	font-size: var(--font-size-s);
@@ -92,11 +100,13 @@ blockquote {
 		margin-top: calc(var(--distance-m) * -1);
 	}
 
-	h3, h4, h5, h6 {
+	h3,
+	h4,
+	h5,
+	h6 {
 		margin: 0 0 var(--distance-xs);
 
 		font-size: var(--font-size-m);
-
 	}
 	h3 + p,
 	h4 + p,

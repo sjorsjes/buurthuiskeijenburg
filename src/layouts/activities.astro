@@ -1,37 +1,30 @@
 ---
-import BaseLayout from './base.astro';
+import BaseLayout from "./base.astro";
 
-import Content from '../components/Content.astro';
-import { activities } from '../_content/vaste-activiteiten.json';
-
+import Content from "../components/Content.astro";
+import { activities } from "../_content/vaste-activiteiten.json";
 
 const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout title={frontmatter?.title}>
-    <Content title={frontmatter?.title} visual={frontmatter?.visual}>
-        <slot />
+	<Content title={frontmatter?.title} visual={frontmatter?.visual}>
+		<slot />
 
-        {
-            activities.map((activity) => (
-                <div class="activities">
-					<h2 class="activities__day">{ activity.day }</h2>
+		{
+			activities.map((activity) => (
+				<div class="activities">
+					<h2 class="activities__day">{activity.day}</h2>
 
 					<ol class="activities__list">
-						{ activity.parts.map((part) => (
+						{activity.parts.map((part) => (
 							<li class="activities__list-item">
-								<div class="activities__part">
-									{ part.name }
-								</div>
+								<div class="activities__part">{part.name}</div>
 
 								<div class="activities__tags">
-									{ part.activities.map((act) => (
+									{part.activities.map((act) => (
 										<div class="activities__tag">
-											{
-												act.url
-												? <a href={ act.url }>{ act.name }</a>
-												: act.name
-											}
+											{act.url ? <a href={act.url}>{act.name}</a> : act.name}
 										</div>
 									))}
 								</div>
@@ -39,9 +32,9 @@ const { frontmatter } = Astro.props;
 						))}
 					</ol>
 				</div>
-            ))
-        }
-    </Content>
+			))
+		}
+	</Content>
 </BaseLayout>
 
 <style>

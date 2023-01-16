@@ -1,5 +1,7 @@
 ---
-const posts = await Astro.glob('../pages/activiteiten/vaste-activiteiten/**/*.{md,mdx}');
+const posts = await Astro.glob(
+	"../pages/activiteiten/vaste-activiteiten/**/*.{md,mdx}"
+);
 ---
 
 <div class="services">
@@ -7,23 +9,24 @@ const posts = await Astro.glob('../pages/activiteiten/vaste-activiteiten/**/*.{m
 		<h1 class="text-center">Aanwezig binnen Buurthuis Keijenburg</h1>
 
 		<ul class="services__list">
-            {posts.map(({ url, frontmatter, getHeadings }) => (
-                <li class="services__list-item text-center">
-					<div class="services__icon" style={ `background-image: url(/images/icons/${ frontmatter.icon })` }></div>
+			{
+				posts.map(({ url, frontmatter, getHeadings }) => (
+					<li class="services__list-item text-center">
+						<div
+							class="services__icon"
+							style={`background-image: url(/images/icons/${frontmatter.icon})`}
+						/>
 
-					<h2 class="services__subtitle">
-						{ getHeadings()[0]?.text }
-					</h2>
+						<h2 class="services__subtitle">{getHeadings()[0]?.text}</h2>
 
-					<div class="services__excerpt">
-						{ frontmatter.excerpt }
-					</div>
+						<div class="services__excerpt">{frontmatter.excerpt}</div>
 
-					<a href={ url } class="btn btn--secondary services__more-information">
-						Lees meer
-					</a>
-				</li>
-            ))}
+						<a href={url} class="btn btn--secondary services__more-information">
+							Lees meer
+						</a>
+					</li>
+				))
+			}
 		</ul>
 	</div>
 </div>
