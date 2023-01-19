@@ -16,7 +16,7 @@ Ook stellen de verenigingen zich voor! (klik op verenigingen)
 -   vrijdag 10 februari is er weer BINGO bij Keijenburg
 -   Zaterdag 11 februari is ons eigenste Keikesbal! Het carnavalsfeest voor de kinderen!
 -   Woensdag 15 februari is Ut Groot Keienbal. Ook de 50 plussers weten wel wat Carnaval is!
--   Donderdag 16 februaro presenteerd het KBO een gezellige toneelvoorstelling.
+-   Donderdag 16 februari presenteerd het KBO een gezellige toneelvoorstelling.
 
 (meer info klik op activiteiten / agenda)
 
