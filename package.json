@@ -20,9 +20,9 @@
     "prettier": "prettier --write --loglevel warn ."
   },
   "dependencies": {
-    "@astrojs/image": "^0.12.1",
+    "@astrojs/image": "^0.14.0",
     "@types/lodash.truncate": "^4.4.7",
-    "astro": "^1.9.2",
+    "astro": "^2.0.6",
     "lodash.truncate": "^4.4.2",
     "postcss-import": "^15.1.0",
     "postcss-nested": "^6.0.0",

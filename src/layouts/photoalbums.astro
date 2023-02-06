@@ -76,30 +76,33 @@ const filterByYear = (array: any, year: any) => {
 		{
 			galleryYears.reverse().map(({ name: year }) => (
 				<>
-					<h2 id={`year-${year}`}>{year}</h2>
-					<div class="gallery__list">
-						{filterByYear(activitiesPerYear.flat(), year).map(
-							(activity: any) => (
-								<a
-									href={`/fotoalbums/${year}/${activity.name}`}
-									class="gallery__list-item"
-								>
-									<div class="gallery__list-item__title">
-										<h3>{activity.name}</h3>
-									</div>
+					{
+						!!filterByYear(activitiesPerYear.flat(), year).length &&
+							<h2 id={`year-${year}`}>{year}</h2>
+							<div class="gallery__list">
+								{filterByYear(activitiesPerYear.flat(), year).map(
+									(activity: any) => (
+										<a
+											href={`/fotoalbums/${year}/${activity.name}`}
+											class="gallery__list-item"
+										>
+											<div class="gallery__list-item__title">
+												<h3>{activity.name}</h3>
+											</div>
 
-									<div class="gallery__list-item__img">
-										<PhotoalbumImage
-											src={`../pages/fotoalbums/${activity.year}/${activity.fullName}/${activity.images[0]}`}
-											alt=""
-											width="250"
-											aspectRatio="4:3"
-										/>
-									</div>
-								</a>
-							)
-						)}
-					</div>
+											<div class="gallery__list-item__img">
+												<PhotoalbumImage
+													src={`../pages/fotoalbums/${activity.year}/${activity.fullName}/${activity.images[0]}`}
+													alt=""
+													width="250"
+													aspectRatio="4:3"
+												/>
+											</div>
+										</a>
+									)
+								)}
+							</div>
+					}
 				</>
 			))
 		}
