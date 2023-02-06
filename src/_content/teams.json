@@ -103,11 +103,6 @@
           "image": "bestuur/hilja-van-eekelen.png"
         },
         {
-          "name": "vacant",
-          "function": "penningmeester",
-          "image": "anoniem.png"
-        },
-        {
           "name": "Marcel de Beer",
           "image": "bestuur/marcel-de-beer.png"
         },
@@ -119,6 +114,11 @@
           "name": "Wilbert Brouwers",
           "function": "voorzitter",
           "image": "bestuur/wilbert-brouwers.png"
+        },
+        {
+          "name": "extern uitbesteed",
+          "function": "financiële administratie",
+          "image": "anoniem.png"
         }
       ]
     }
