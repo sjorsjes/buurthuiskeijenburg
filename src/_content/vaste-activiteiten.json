@@ -57,6 +57,10 @@
               "url": "/verenigingen/roosendaals-kamerkoor/"
             },
             {
+              "name": "Yoga van Bette",
+              "url": "/verenigingen/yoga-bette/" 
+            },
+            {
               "name": "Fotowerkgroep Roosendaal (2e ma v.d. mnd)",
               "url": "/verenigingen/fotowerkgroep-roosendaal/"
             },
@@ -236,9 +240,6 @@
             {
               "name": "Wijktafel burgerhout (2e Donderdag v.d. mnd)",
               "url": "/activiteiten/vaste-activiteiten/wijktafel-burgerhout/"
-            },
-            {
-              "name": "Sociaal overleg Inwoners ondersteuning (elke week)"
             },
             {
               "name": "Biljarten Keijenburg77",
