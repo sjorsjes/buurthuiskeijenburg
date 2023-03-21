@@ -1,5 +1,5 @@
 ---
-date: 2023-03-07
+date: 2023-03-21
 ---
 
 # Wees welkom bij Buurthuis Keijenburg!
@@ -27,3 +27,7 @@ Denk aan software bediening, hulp bij overzetten, digid instellen, QR-codes ed..
 Elke dinsdagochtend tussen 10 en 12 uur is Wim, onze vrijwilliger aanwezig in het cafe van Keijenburg om u te helpen!
 Schroom niet, samen komen we er wel aan uit!
 (er wordt niet gerepareerd....)
+
+## Feestdagen sluiting Keijenburg.
+Wegens  feestdagen zijn we gesloten met Pasen (8,9 en 10 April), Koningsdag (27 en 28 April), 
+Hemelvaart (18 en 19 Mei) en Pinksteren. (28 en 29 Mei)
