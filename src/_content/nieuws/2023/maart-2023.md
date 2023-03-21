@@ -10,16 +10,13 @@ Benieuwd wat? Dit is te vinden in de vaste week agenda. (klik op activiteiten/ v
 Ook stellen de verenigingen zich voor! (klik op verenigingen)
 
 ## Komt u ook?
-- Donderdagen: WandelKeijen; deze gezellige wandelgroep start elke donderdag (muv 16 mrt) om 10 uur! Gratis deelname!
-- 9 Maart; Wijktafel.
-- 10 maart; Bingo.
-- 15 Maart; Stembureau Keijenburg (7.30 - 22.00 uur)
-- 15 Maart; G Disco!
-- 16 Maart; Beweegbindog in het kader van de FIT week start 9.30 uur. Gratis deelname!
-- 16 Maart; KBO optreden Toine Vermunt.
-- 18/19 Maart Komedikato Toneel.
 - 26 Maart; KBO toneelstuk.
 - 29 Maart; Franciscusdag.
+- 2 April; Voorjaarsfair Creaveres; beurs met de mooiste handgemaakte artikelen!
+- 6 April; Paasontbijt Keijenburg; kaarten te koop aan de bar!
+- 6 april KBO presenteerd trekdrop en zuurtjes
+- 14 april Bingo bij Keijenburg
+- 15 april Reunie Binnen de donken.
 
 (meer info klik op activiteiten / agenda)
 
