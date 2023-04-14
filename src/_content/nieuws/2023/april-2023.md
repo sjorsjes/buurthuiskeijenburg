@@ -11,7 +11,7 @@ Ook stellen de verenigingen zich voor! (klik op verenigingen)
 ## Komt u ook?
 - 14 april Bingo bij Keijenburg
 - 15 april Reunie Binnen de donken.
-- 16 april informatie bijeenkomst huisartsenpost Roosendaal
+- 19 april informatie bijeenkomst huisartsenpost Roosendaal
 - 6 mei Bommenkinder muziekquiz (na aanmelding)
 - 21 mei Dans/Muziek middag in Keijenburg
 - 3 juni Soos vanuit Quick and Slow
