@@ -41,7 +41,7 @@
 	height: 20rem;
 
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: left center;
 	background-size: cover;
 
 	border-bottom: 2px solid var(--color-yellow);
@@ -50,4 +50,6 @@
 .page_visual--large {
 	height: 30rem;
 	max-height: 70vh;
+
+	background-position: center center;
 }
