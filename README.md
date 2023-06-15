@@ -1,6 +1,6 @@
 # Buurthuis Keijenburg
 
-Deployment is triggered after push and every night on the `master` branch using [Buddy](https://app.buddy.works).
+Deployment is triggered after push and every night on the `main` branch using Github Actions.
 
 -   [ ] homepage updaten
 -   [x] dingen op Keijenburg > in het nieuws kunnen plaatsen
@@ -16,15 +16,17 @@ Deployment is triggered after push and every night on the `master` branch using 
 
 ## Toevoegen van een activiteit
 
--   Maak een nieuw bestand in https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/src/pages/activiteiten/agenda
+-   Maak een nieuw bestand in https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/src/pages/activiteiten/agenda
+-   Selecteer het goede jaar
 -   De naam van dit bestand moet de datum van de activiteit zijn `yyyy-mm-dd.md`
 -   Kopieer onderstaande tekst en plak dit in het bestand:
 
 ```
 ---
 layout: "../../../../layouts/content.astro"
-title: Titel van de activiteit
-time: "12:00 - 13:00"
+title: Keijenburg Bingo
+time: "13.30"
+date: "2023-01-13"
 ---
 ```
 
@@ -32,13 +34,14 @@ time: "12:00 - 13:00"
 
 ## Toevoegen van een vaste activiteit
 
--   Voeg de activiteit toe in https://github.com/sjorsjes/buurthuiskeijenburg/blob/master/src/_content/vaste-activiteiten.json
+-   Voeg de activiteit toe in https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/src/_content/vaste-activiteiten.json
 
 # Fotoalbums
 
 ## Toevoegen van een fotoalbum
 
--   Het toevoegen van een nieuw album gebeurd in de map https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/src/pages/fotoalbums
+-   Het toevoegen van een nieuw album gebeurd in de map https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/src/pages/fotoalbums
+-   Selecteer het goede jaar
 -   Voeg hier een nieuwe map toe en plaats de fotos
 -   In deze nieuwe map dient ook een `index.md` file te staan met onderstaande content
 
@@ -53,7 +56,7 @@ title: "Naam van het album"
 
 ## Toevoegen van een vereniging
 
--   Maak een nieuw bestand aan in de map https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/src/pages/verenigingen
+-   Maak een nieuw bestand aan in de map https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/src/pages/verenigingen
 -   Kopieer onderstaande tekst en plak dit in het bestand:
 
 ```
@@ -67,16 +70,16 @@ title: Naam van de vereniging
 
 ## Verwijderen van een vereniging
 
--   Ga naar https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/src/pages/verenigingen en verwijder de vereninging
+-   Ga naar https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/src/pages/verenigingen en verwijder de vereninging
 
 # Keijenburg
 
 ## Toevoegen artikel op "Keijenburg in het nieuws"
 
--   In het geval van een foto [upload je deze hier](https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/public/images)
+-   In het geval van een foto [upload je deze hier](https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/public/images)
 -   Rechtsbovenin staat _"Add file" > "Upload files"_
 
--   [Ga naar de pagina](https://github.com/sjorsjes/buurthuiskeijenburg/blob/master/src/pages/keijenburg/in-het-nieuws.md)
+-   [Ga naar de pagina](https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/src/pages/keijenburg/in-het-nieuws.md)
 -   Klik op het potlood om de pagina te wijzigen
 -   Hier kun je de teksten toevoegen die je wilt
 -   Om een plaatje toe te voegen doe je het volgende:  
@@ -97,12 +100,12 @@ title: Naam van de vereniging
 -   Open het portret dat je in stap 1 hebt gemaakt door bovenin `File > Open & Place` te kiezen.
 -   Resize / Verplaats de foto zodat deze een beetje mooi staat uitgelijnd. Zorg ervoor dat er aan de bovenkant van het hoofd wat ruimte over is. Zo'n 10% van de totale hoogte.
 -   Wanneer je klaar bent ga je bovenin het menu naar `File > Export as > PNG`. Sla het plaatje ergens op.
--   Ga naar https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/public/images/team , kies de correcte folder en klik rechtsboven in op `Add file > Upload files` en upload het portret.
--   Bewerk https://github.com/sjorsjes/buurthuiskeijenburg/blob/master/src/_content/teams.json en voeg de medewerker toe. Let op: er staat 3 categorieën in dit bestand; `vrijwilligers`, `personeelsleden` en `bestuursleden`.
+-   Ga naar https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/public/images/team , kies de correcte folder en klik rechtsboven in op `Add file > Upload files` en upload het portret.
+-   Bewerk https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/src/_content/teams.json en voeg de medewerker toe. Let op: er staat 3 categorieën in dit bestand; `vrijwilligers`, `personeelsleden` en `bestuursleden`.
 
 ## Verwijderen van een medewerker
 
--   Bewerk https://github.com/sjorsjes/buurthuiskeijenburg/blob/master/src/_content/teams.json en verwijder de medewerker. Let op: verwijder het hele stuk zoals hieronder
+-   Bewerk https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/src/_content/teams.json en verwijder de medewerker. Let op: verwijder het hele stuk zoals hieronder
 
 ```
 {
@@ -111,4 +114,4 @@ title: Naam van de vereniging
 },
 ```
 
--   https://github.com/sjorsjes/buurthuiskeijenburg/tree/master/public/images/team , kies de correcte folder en medewerker en klik dan op de prullenbak rechts in beeld en vervolgens op `commit changes`.
+-   https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/public/images/team , kies de correcte folder en medewerker en klik dan op de prullenbak rechts in beeld en vervolgens op `commit changes`.
