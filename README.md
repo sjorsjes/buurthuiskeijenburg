@@ -100,7 +100,7 @@ title: Naam van de vereniging
 -   Open het portret dat je in stap 1 hebt gemaakt door bovenin `File > Open & Place` te kiezen.
 -   Resize / Verplaats de foto zodat deze een beetje mooi staat uitgelijnd. Zorg ervoor dat er aan de bovenkant van het hoofd wat ruimte over is. Zo'n 10% van de totale hoogte.
 -   Wanneer je klaar bent ga je bovenin het menu naar `File > Export as > PNG`. Sla het plaatje ergens op.
--   Ga naar https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/public/images/team , kies de correcte folder en klik rechtsboven in op `Add file > Upload files` en upload het portret.
+-   Ga naar https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/public/images/teams , kies de correcte folder en klik rechtsboven in op `Add file > Upload files` en upload het portret.
 -   Bewerk https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/src/_content/teams.json en voeg de medewerker toe. Let op: er staat 3 categorieën in dit bestand; `vrijwilligers`, `personeelsleden` en `bestuursleden`.
 
 ## Verwijderen van een medewerker
@@ -114,4 +114,4 @@ title: Naam van de vereniging
 },
 ```
 
--   https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/public/images/team , kies de correcte folder en medewerker en klik dan op de prullenbak rechts in beeld en vervolgens op `commit changes`.
+-   https://github.com/sjorsjes/buurthuiskeijenburg/tree/main/public/images/teams , kies de correcte folder en medewerker en klik dan op de prullenbak rechts in beeld en vervolgens op `commit changes`.
