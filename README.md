@@ -1,5 +1,3 @@
-[![buddy pipeline](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/239412/badge.svg?token=d3d72e8827c58169036184d335bee7d2428430b826818c01148feec9d41db0f6 "buddy manual pipeline")](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/239412) [![buddy pipeline](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/240017/badge.svg?token=d3d72e8827c58169036184d335bee7d2428430b826818c01148feec9d41db0f6 "buddy automatic pipeline")](https://app.buddy.works/gngr/buurthuiskeijenburg/pipelines/pipeline/240017)
-
 # Buurthuis Keijenburg
 
 Deployment is triggered after push and every night on the `master` branch using [Buddy](https://app.buddy.works).
