@@ -36,3 +36,4 @@ Wees welkom!
 ## digipunt gestopt.
 Helaas was er te weinig animo voor onze vrijwilliger om zijn tijd te vullen...
 We verwijzen u graag door naar het digipunt in Parrotia in het centrum.
+
