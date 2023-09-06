@@ -30,6 +30,6 @@ Wat?
 Wanneer?
 - Donderdag achtend van 10.30 - 11.30 uur.
 - Inloop vanaf 10 uur zodat we onder het genot van koffie kennis kunnen maken en bij kunnen praten.
-- Gratis toegang.
+- Gratis toegang. (vanuit RSD FIT; het roosendaalse fit akkoord)
 
 
