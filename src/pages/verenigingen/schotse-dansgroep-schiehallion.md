@@ -10,6 +10,8 @@ Het is niet nodig om een danspartner te hebben om mee te doen.
 De dansen hebben een sociaal karakter, omdat je samen de dans vormt.
 En paren wisslen per dans, dus elke keer dans je met iemand anders.
 Het dansen combineert muziek, beweging, coordinatie, samenwerking, concentratie, communicatie, cultuur en natuurlijk heel veel plezier!
+De dansen en figuren die gedaan worden zijn overal dezelfde, zodat men bij elke club waar dan ook zo mee kan doen.  
+Schiehallion is een kleine gezellige dansclub, waarbij nieuwe leden altijd welkom zijn. 
 
 De Royal Scottish Country Dance Society is de overkoepelende organiesatie, die wereldwijd de belangen van de Schotse dans behartigt.
 Inderdaad wereldwijd, want behalve In Schotland wordt er Schots gedanst van VS tot Australie en van Azie tot...... Roosendaal!
