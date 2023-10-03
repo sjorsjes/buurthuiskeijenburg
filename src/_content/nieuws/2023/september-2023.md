@@ -13,23 +13,20 @@ Vanaf heden zijn er lekkere handijsjes te koop bij buurthuis Keijenburg!
 Loop eens binnen, er is voor ieder wat wils!
 
 ## Komt u ook?
-- 21 sept KBO trio Sfeer.
-- 23 september Burendag
-- 27 sept Open dag Creatief Cultuur en Dans
+- wo 4 oktober G Disco
+- do 5 oktober Boules in de buurt
+- zo 8 oktober Dans en Muziek middag met het duo Eradik
+- wo 11 oktober Open dag creatief en dans; kom eens binnen om het aanbod in uw wijk te zien!
+- do 12 oktober Boules in de buurt
+- vr 13 oktober Bingo
+- zo 15 oktober Creaveres Vinted en brocante beurs
   
 Houd de site en facebook goed in de gaten! Er is genoeg te doen de komende tijd!
 
-## week tegen eenzaamheid.
-Donderdag 28 september start de week tegen eenzaamheid. In die week staat het thema eenzaamheid 
-in Roosendaal centraal. Eenzaamheid bestaat helaas in allerlei varianten. Daarom bieden wij als 
-buurthuis zo veel mogelijkheden tot activiteiten. Voor ieder wat wils. 
-En je bent welkom!
-Stap vooral eens binnen..
-
-28 september gaan we samen wandelen tegen eenzaamheid. Sluit lekker aan. We passen de wandeling aan 
-aan de deelnemers, dus meedoen kan altijd. Ook met rolstoel of rollator!
-Nadien krijgt u van ons een lekker kopje koffie of thee en kunt u verder kennis maken met de medewandelaars 
-en vrijwilligers van ons buurthuis.
+## Open dag Creatief en Dans
+De creatieve en dansgroepen binnen keijenburg stellen zich graag aan u voor!
+U kunt kennis maken, sfeer proeven en demonstraties bekijken. Koffie en thee staat op u te wachten.
+Loop vooral eens binnen!
 
 ## digipunt gestopt.
 Helaas was er te weinig animo voor onze vrijwilliger om zijn tijd te vullen...
