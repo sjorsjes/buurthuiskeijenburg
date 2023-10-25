@@ -203,8 +203,8 @@
           "name": "ochtend",
           "activities": [
             {
-              "name": "Beweegroute Keijenburg om 10 uur",
-              "url": "/verenigingen/beweegroute-keijenburg/"
+              "name": "Wandelclub de wandelkeijen om 10 uur",
+              "url": "/verenigingen/wandelkeijen/"
             },
             {
               "name": "Biljart W groep"
@@ -255,10 +255,6 @@
             {
               "name": "Roosendaals gemengd Koor",
               "url": "/verenigingen/roosendaals-gemengd-kamerkoor/"
-            },
-            {
-              "name": "Toneelvereniging Graag gedaan (mrt - okt)",
-              "url": "/verenigingen/toneelvereniging-graag-gedaan/"
             }
           ]
         }
