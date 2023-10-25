@@ -9,4 +9,4 @@ De wandeling wordt aangepast aan de deelnemers, dus een rollator of rolstoel kan
 Meedoen met de wandelclub is geheel gratis, de koffie nadien is voor eigen rekening.
 
 Wees welkom en wandel lekker mee!
-Het is gezsond en gezellig!
+Het is gezond en gezellig!
