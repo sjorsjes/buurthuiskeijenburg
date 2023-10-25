@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/content.astro"
-title: Wandelkeijen
+title: Wandelkeijen.
 ---
 
 Elke donderdag om 10:00 uur wordt er met de wandelclub "de Wandelkeijen" vanuit gestart buurthuis Keijenburg.
