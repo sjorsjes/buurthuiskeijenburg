@@ -1,5 +1,5 @@
 ---
-date: 2023-09-19
+date: 2023-10-26
 ---
 
 # Wees welkom bij Buurthuis Keijenburg!
@@ -9,15 +9,14 @@ Benieuwd wat? Dit is te vinden in de vaste week agenda. (klik op activiteiten/ v
 Ook stellen de verenigingen zich voor! (klik op verenigingen)
 
 ## Komt u ook?
-- wo 4 oktober G Disco
-- do 5 oktober Boules in de buurt
-- zo 8 oktober Dans en Muziek middag met het duo Eradik
-- wo 11 oktober Open dag creatief en dans; kom eens binnen om het aanbod in uw wijk te zien!
-- do 12 oktober Boules in de buurt
-- vr 13 oktober Bingo
-- zo 15 oktober Creaveres Vinted en brocante beurs
+- zaterdag avond 29 okt; avondje uit ism Quick and Slow
+- zondagmiddag 5 nov; ouderwetse filmmiddag
+- vrijdag 10 nov; Bingo
+- zaterdag 18 november; avondje uit ism quick ans slow
+- zondag 19 nox; sinterklaas vanuit OVW8
+- zondag 26 nov creaveres najaars markt
 
-## En alvast voor inde agenda; een ouderwetse filmmiddag op zondag 22 oktober en de open dag van de koren op 25 oktober.
+## En alvast voor in de agenda; Dansavond in kerstijl ip 8 december!
   
 Houd de site (klik op agenda; maandagenda) en facebook goed in de gaten! Er is genoeg te doen de komende tijd!
 
