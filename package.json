@@ -20,16 +20,14 @@
     "prettier": "prettier --write --loglevel warn ."
   },
   "dependencies": {
-    "@astrojs/image": "^0.17.3",
-    "@types/lodash.truncate": "^4.4.7",
-    "astro": "^2.10.14",
+    "@types/lodash.truncate": "^4.4.9",
+    "astro": "^3.4.4",
     "lodash.truncate": "^4.4.2",
     "postcss-import": "^15.1.0",
-    "postcss-nested": "^6.0.1",
-    "sharp": "^0.32.5"
+    "postcss-nested": "^6.0.1"
   },
   "devDependencies": {
-    "fast-glob": "^3.3.1",
-    "prettier": "^3.0.2"
+    "fast-glob": "^3.3.2",
+    "prettier": "^3.0.3"
   }
 }
