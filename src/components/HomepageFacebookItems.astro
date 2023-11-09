@@ -21,6 +21,7 @@ export type FacebookResponse = {
 };
 const { FACEBOOK_APP_ID, FACEBOOK_ACCESS_TOKEN, FACEBOOK_POST_LIMIT } =
 	import.meta.env;
+
 const facebookPosts: FacebookResponse = await fetch(
 	`https://graph.facebook.com/v7.0/${FACEBOOK_APP_ID}/feed?fields=id%2Cpicture%2Cfull_picture%2Ccreated_time%2Cmessage&limit=${FACEBOOK_POST_LIMIT}&access_token=${FACEBOOK_ACCESS_TOKEN}`
 ).then((res) => res.json());
