@@ -1,14 +1,13 @@
 ---
-import { Image } from "@astrojs/image/components";
+import { Image } from "astro:assets";
 
 export type Props = {
 	src: string;
-	width?: string;
-	aspectRatio?: string;
+	width?: number;
 	alt?: string;
 };
 
-const { src, width = "800", aspectRatio = "3:2", alt = "" } = Astro.props;
+const { src, width = 800, alt = "" } = Astro.props;
 const images = import.meta.glob<ImageMetadata>(
 	["../pages/fotoalbums/**/*.jpg", "../pages/fotoalbums/**/*.jpeg"],
 	{ import: "default" }
