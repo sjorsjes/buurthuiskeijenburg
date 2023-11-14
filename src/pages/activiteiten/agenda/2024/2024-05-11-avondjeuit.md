@@ -23,6 +23,6 @@ Afsluiten: 22.30 uur. (bestel deeltaxi's niet later dan 22.45 uur, de vrijwillig
 Heb je vragen over deze avondjes uit?
 Bel,app of mail Margot Traa van Dansschool Quick and Slow.
 telefoonnummer: 0630661810
-mail: dansschoolquickandslow@gmail.com
+mail: dansschoolquickandslow@gmail.com 
 
 Buurthuis Keijenburg is rolsstoelvriendelijk!
