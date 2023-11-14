@@ -1,4 +1,3 @@
-
 ---
 layout: "../../../../layouts/content.astro"
 title: Avondje uit 
