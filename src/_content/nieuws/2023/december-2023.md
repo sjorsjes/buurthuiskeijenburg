@@ -18,7 +18,7 @@ Ook stellen de verenigingen zich voor! (klik op verenigingen)
 
 
 ## Komende weken gaan we onze eigen activiteiten voor 2024 plannen! Houdt de site en agenda dus goed in de gaten!
-(denk hierbij aan de dansmiddagen, filmmidagen, beweegbingo ed)
+(denk hierbij aan de dansmiddagen, filmmiddagen, beweegbingo ed)
 Daarnaast zijn we te vinden op facebook en instagram.
 
 
@@ -26,3 +26,18 @@ Daarnaast zijn we te vinden op facebook en instagram.
 
 Koffie en een goed gesprek. Niks is zo fijn als een bakje koffie en een gesprek met een ander. Even eruit, even een babbeltje.
 Wees welkom, het is gratis. Kijk in de agenda op onze site voor alle data en info!
+
+# Terugblik 2023.
+Zo op het einde van 2023 kijken wij als Team terug op een mooi verbindend jaar.
+We hebben vele oude bekenden, maar ook nieuwe gasten mogen ontvangen. We hebben nieuwe sociale activiteiten op mogen zetten met dank aan de subsidie van gemeente Roosendaal. Sommigen sloegen goed aan, zoals de filmmiddagen, sommigen hebben we anders vorm gegeven zoals de G disco. We hebben mogen zien dat aciviteiten steeds bekender worden en meer mensen Keijenburg daarmee weten te vinden. Echter blijft dit toch de uitdaging. Er is veel te doen bij Keijenburg, maar dit is nog te weinig bekend.
+Mocht je daarbij willen helpen door bijvoorbeeld Flyers op het raam te hangen... heel graag! Loop eens binnen bij Annebelle.
+Ook zijn we blijvend op zoek naar ondersteuning van onze vrijwilligers. dat kan zijn als bestuurslid, maar zeker ook als barmedewerker, technische man/vrouw, iemand die verstand heeft van bouwkundige zaken of het opzetten van (al dan niet) nieuwe activiteiten.
+Alles is mogelijk en je bent zeer welkom en hebben een gezellig ' bad' waar je in terecht komt!
+
+Dank allen voor een mooi jaar!
+We hopen jullie allemaal in 2024 weer te mogen begroeten,
+en neem vooral de buurman/vrouw eens mee! ;)
+
+Voor nu wensen wij iedereen hele fijne dagen en een gelukkig, gezond en gezamenlijk nieuwjaar!
+
+Team Keijenburg.
