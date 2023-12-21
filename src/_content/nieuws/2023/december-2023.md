@@ -29,7 +29,7 @@ Wees welkom, het is gratis. Kijk in de agenda op onze site voor alle data en inf
 
 # Terugblik 2023.
 Zo op het einde van 2023 kijken wij als Team terug op een mooi verbindend jaar.
-We hebben vele oude bekenden, maar ook nieuwe gasten mogen ontvangen. We hebben nieuwe sociale activiteiten op mogen zetten met dank aan de subsidie van gemeente Roosendaal. Sommigen sloegen goed aan, zoals de filmmiddagen, sommigen hebben we anders vorm gegeven zoals de G disco. We hebben mogen zien dat aciviteiten steeds bekender worden en meer mensen Keijenburg daarmee weten te vinden. Echter blijft dit toch de uitdaging. Er is veel te doen bij Keijenburg, maar dit is nog te weinig bekend.
+We hebben vele oude bekenden, maar ook nieuwe gasten mogen ontvangen. We hebben nieuwe sociale activiteiten op mogen zetten met dank aan de subsidie van gemeente Roosendaal. Sommigen sloegen goed aan, zoals de filmmiddagen, sommigen hebben we anders vorm gegeven zoals de G disco. We hebben mogen zien dat aciviteiten steeds bekender worden en meer mensen Keijenburg daarmee weten te vinden. Echter blijft dit toch de uitdaging. Er is veel te doen bij Keijenburg!
 Mocht je daarbij willen helpen door bijvoorbeeld Flyers op het raam te hangen... heel graag! Loop eens binnen bij Annebelle.
 Ook zijn we blijvend op zoek naar ondersteuning van onze vrijwilligers. dat kan zijn als bestuurslid, maar zeker ook als barmedewerker, technische man/vrouw, iemand die verstand heeft van bouwkundige zaken of het opzetten van (al dan niet) nieuwe activiteiten.
 Alles is mogelijk en je bent zeer welkom en hebben een gezellig ' bad' waar je in terecht komt!
