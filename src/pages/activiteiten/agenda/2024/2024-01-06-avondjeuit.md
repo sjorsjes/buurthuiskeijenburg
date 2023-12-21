@@ -12,10 +12,12 @@ Hoe meer mensen hoe meer vreugde.
 Wat gaan we doen? dansen, spelletjes, zingen.. het kan allemaal! Geef vooral aan wat je leuk vindt.
 
 Data: 06 januari 
-Thema: volgt zsm.
+Thema: happy new year!
+
 Kosten: 5 euro; betalen bij de entree. (hiervoor krijg je een hapje en 1 consumtiemunt voor thee/koffie/warme choco of fris) 
 Begeleiding; vrijwilligers
 Vervoer; zelf regelen.
+
 Zaal open: 19.00 uur (niet eerder!)
 Afsluiten: 22.30 uur. (bestel deeltaxi's niet later dan 22.45 uur, de vrijwilligers blijven tot de laatste gast naar huis is)
 
