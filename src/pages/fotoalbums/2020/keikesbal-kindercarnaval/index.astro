@@ -1,0 +1,11 @@
+---
+import FotoAlbum from '../../_fotoalbum.astro';
+
+export const title = "Keikesbal kindercarnaval"
+
+const images = await Astro.glob('./*.{jpeg,jpg,png,gif}');
+---
+
+<FotoAlbum title={title} images={images}>
+	In samenwerking met OVW8
+</FotoAlbum>

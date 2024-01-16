@@ -1,0 +1,142 @@
+---
+import { Image } from 'astro:assets';
+import { dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { readdirSync } from 'node:fs';
+
+import BaseLayout from "../../layouts/base.astro";
+import Content from "../../components/Content.astro";
+import type { AstroInstance } from 'astro';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const getDirectories = (source: string) =>
+  readdirSync(source, { withFileTypes: true })
+    .filter((dirent) => dirent.isDirectory())
+    .map((dirent) => dirent.name);
+
+const availableYears = getDirectories(__dirname).reverse();
+const posts = await Astro.glob('./**/*.astro');
+const images = await Astro.glob('./**/*.jpg');
+
+const filterPostsByYear = (year: string) => posts.filter((post) => {
+	return post.url?.includes(year) && !post.url?.endsWith(year);
+});
+
+const postsPerYear: { year: string, posts: AstroInstance[] }[] = availableYears.map((year: string) => {
+	const posts = filterPostsByYear(year);
+
+	if (posts.length) {
+		const test = posts.map((post) => {
+			const image = images.filter((image) => image.default.src.includes(post.url))[0];
+
+			return {
+				...post,
+				image
+			};
+		});
+
+		return {
+			year,
+			posts: test
+		}
+	}
+}).filter(Boolean); // filter out undefined when a year has no posts
+---
+
+<BaseLayout title="Fotoalbums">
+	<Content title="Fotoalbums">
+		{
+			postsPerYear.map(({ year, posts }) => (
+				<h2 id={`year-${year}`}>{year}</h2>
+				<div class="gallery__list">
+					{
+						posts.map((post) => (
+							<a
+								href={post.url}
+								class="gallery__list-item"
+							>
+								<div class="gallery__list-item__title">
+									<h3>{post?.title}</h3>
+								</div>
+
+								<div class="gallery__list-item__img">
+									<Image
+										src={post?.image.default}
+										width="250"
+										aspectRatio="4:3"
+										alt=""
+									/>
+								</div>
+							</a>
+						))
+					}
+				</div>
+			))
+		}
+	</Content>
+</BaseLayout>
+
+<style>
+	.gallery__list {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: flex-start;
+
+		margin-right: -0.5rem;
+		margin-bottom: 3rem;
+		margin-left: -0.5rem;
+	}
+
+	.gallery__list-item__img {
+		filter: blur(2px);
+	}
+
+	.gallery__list-item {
+		position: relative;
+		display: block;
+
+		overflow: hidden;
+
+		width: 100%;
+		height: 155px;
+
+		margin: 0.5rem;
+
+		&:hover .gallery__list-item__title {
+			background-color: rgba(245, 155, 30, 0.2);
+			border: 2px solid var(--color-yellow);
+		}
+	}
+
+	.gallery__list-item__title {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		z-index: 2;
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		text-align: center;
+		text-shadow: 0 0 7px var(--color-true-black);
+
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+
+	.gallery__list-item__title h3 {
+		padding: 0 1rem;
+
+		color: var(--color-white);
+		font-size: var(--font-size-l);
+	}
+
+	@media (min-width: 30rem) {
+		.gallery__list-item {
+			width: 210px;
+			height: 155px;
+		}
+	}
+</style>

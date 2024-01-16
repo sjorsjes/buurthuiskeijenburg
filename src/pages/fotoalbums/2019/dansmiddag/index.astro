@@ -1,0 +1,9 @@
+---
+import FotoAlbum from '../../_fotoalbum.astro';
+
+export const title = "Dansmiddag"
+
+const images = await Astro.glob('./*.{jpeg,jpg,png,gif}');
+---
+
+<FotoAlbum title={title} images={images} />

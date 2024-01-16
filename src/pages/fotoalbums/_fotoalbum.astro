@@ -1,0 +1,20 @@
+---
+import BaseLayout from "../../layouts/base.astro";
+import Content from "../../components/Content.astro";
+
+import { Image } from 'astro:assets';
+
+const { title, images = [] } = Astro.props;
+---
+
+<BaseLayout title={title}>
+	<Content title={title}>
+		<slot />
+
+		{
+			images.length && images.map((image) => (
+				<Image src={image.default} alt="" />
+			))
+		}
+	</Content>
+</BaseLayout>
