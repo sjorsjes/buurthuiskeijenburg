@@ -1,6 +1,6 @@
 ---
-"../../../../layouts/content.astro"
-title: Dance experience; gratis open dag/open level. 
+layout: "../../../../layouts/content.astro"
+title: Dance experience; gratis open dag/open level.
 time: "19.30"
 date: "2024-01-24"
 ---
