@@ -191,8 +191,11 @@
             {
               "name": "VOGG (2e wo v.d. mnd)",
               "url": "/verenigingen/vogg/"
-            }
-          ]
+            },
+            {
+              "name": "Dance 2 date",
+            },
+            {          ]
         }
       ]
     },
@@ -207,7 +210,7 @@
               "url": "/verenigingen/wandelkeijen/"
             },
             {
-              "name": "Biljart W groep"
+              "name": "Biljart W groep",
             },
             {
               "name": "Bewegen op muziek, ja voor Iedereen",
@@ -239,13 +242,13 @@
               "url": "/verenigingen/biljartclub-keijenburg77/"
             },
             {
-              "name": "Nederlandse les via Bharosa Taaluiting)"
+              "name": "Nederlandse les via Bharosa Taaluiting)",
             },
             {
-              "name": "KBO (3e donderdag van de maand)"
+              "name": "KBO (3e donderdag van de maand)",
             },
             {
-              "name": "Gymgroep VIB"
+              "name": "Gymgroep VIB",
             }
           ]
         },
@@ -255,7 +258,12 @@
             {
               "name": "Roosendaals gemengd Koor",
               "url": "/verenigingen/roosendaals-gemengd-kamerkoor/"
-            }
+            },
+            {
+              "name": "Line Dance met Antoinette",
+              "url": "/verenigingen/line-dance-antoinette/"
+            },
+            {         
           ]
         }
       ]
