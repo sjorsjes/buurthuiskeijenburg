@@ -2,7 +2,7 @@
 layout: "../../../../layouts/content.astro"
 title: Koffie en een goed gesprek
 time: "13.30"
-date: "2024-04-24"
+date: "2024-01-24"
 ---
 
 ## Up gesprekken.
@@ -11,7 +11,7 @@ date: "2024-04-24"
 ik ben echt blij dat ik me heb aangemeld." - Wilma (81 )
 
 Humanitas werkt samen met andere sociale partners bij het organiseren dan deze gesprekken.
-Met berhulp van open vragen ingebracht door een getrainde gespreksleider, 
+Met berhulp van open vragen ingebracht door een getrainde gespreksleider,
 hebben we het over belangrijke onderwerpen die er toe doen bij het ouder worden.
 Centraal staan thema's die normaal gesproken niet zo vaak aan de orde komen.
 

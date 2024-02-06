@@ -9,12 +9,12 @@ Weet u nog....
 Vroeger gingen we altijd naar de film bij keijenburg!
 En dat gaan we nu weer doen! :)
 
-2 zondagmiddagen  toveren we buurthuis Keijenburg om tot een filmzaal.
+2 zondagmiddagen toveren we buurthuis Keijenburg om tot een filmzaal.
 Waar we films van vroeger gaan vertonen.
 Stap met ons mee terug in de tijd en kom lekker binnen voor een gezellige middag!
 Welke film er gedraaid wordt is nog even een verrassing.
 
-Entree is 2.50 euro, voor de film en consumptie; bij binnenkomst betalen. 
+Entree is 2.50 euro, voor de film en consumptie; bij binnenkomst betalen.
 Reserveren is niet nodig.
 Overige consumpties zijn te koop bij de bar.
 
