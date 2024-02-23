@@ -2,7 +2,7 @@
 layout: ../../../layouts/content.astro
 visual: content/wijktafel.jpg
 icon: info.png
-excerpt: "Elke 2de donderdag van de maand kunnen bewoners, ondernemers en partners uit Burgerhout in gesprek gaan met de sociale partners uit de wijk Burgerhout."
+excerpt: "Elk kwartaal kunnen bewoners, ondernemers en partners uit Burgerhout in gesprek gaan met de sociale partners uit de wijk Burgerhout."
 ---
 
 # Wijktafel Burgerhout
@@ -20,9 +20,9 @@ Hier kunnen bewoners, ondernemers en partners uit Burgerhout maandelijks in gesp
 
 Gespreksonderwerpen kunnen gaan over leefbaarheid, welzijn, zorg en veiligheid.
 
-Iedere 2de donderdag van de maand van 16.00 tot 17.00 in Buurthuis Keijenburg.
+Elk kwartaal (feb, mei, sept, dec 2024) in Buurthuis Keijenburg.
 
-Heeft u vooraf vragen over de wijktafel neem dan contact op met de Opbouwwerker Edwin Spitters.
+Voor precieze data of heeft u vooraf vragen over de wijktafel neem dan contact op met de Opbouwwerker Edwin Spitters.
 Email: edwin.spitters@wijzijntraversegroep.nl
 Telefoon: +31614001960
 +31 165 750050
