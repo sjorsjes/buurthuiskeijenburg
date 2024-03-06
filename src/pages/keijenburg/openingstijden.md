@@ -19,15 +19,15 @@ title: "Openingstijden"
 
 Zaterdag en zondag op aanvraag.
 
-## Sluitingsdata 2023
+## Sluitingsdata 2024
 
 |                   |                             |
 | ----------------- | --------------------------- | --- |
-| **Carnaval**      | 20 februari t/m 26 februari |
-| **Pasen**         | 8,9 en 10 April             |
-| **Koningsdag**    | 27 en 28 April              |
-| **Hemelvaart**    | 18 en 19 mei                |
-| **Pinksteren**    | 28 en 29 mei                |
-| **Zomervakantie** | 24 juli t/m 20 augustus     |
+| **Carnaval**      | 10 februari t/m 13 februari |
+| **Pasen**         | 30,31 maart en 1 April      |
+| **Koningsdag**    | 27 April                    |
+| **Hemelvaart**    | 9 mei                       |
+| **Pinksteren**    | 19 en 20 mei                |
+| **Zomervakantie** | 15 juli t/m 11 augustus     |
 | **Sinterklaas**   | 5 december (avond)          |     |
-| **Kerstvakantie** | 25 december t/m 1 januari   |
+| **Kerstvakantie** | 23 december t/m 1 januari   |
