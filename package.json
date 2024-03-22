@@ -21,9 +21,9 @@
   },
   "dependencies": {
     "@types/lodash.truncate": "^4.4.9",
-    "astro": "^4.5.7",
+    "astro": "^4.5.8",
     "lodash.truncate": "^4.4.2",
-    "postcss-import": "^16.0.1",
+    "postcss-import": "^16.1.0",
     "postcss-nested": "^6.0.1"
   },
   "devDependencies": {
