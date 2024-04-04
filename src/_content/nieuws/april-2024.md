@@ -14,12 +14,12 @@ Neem uw buurman/buurvrouw/vriend/vriendin ook eens gezellig mee!
 
 ## Nieuw!
 Met grote regelmaat zijn er nieuwe activiteiten binnen Keijenburg!
-Op dit moment is er bijvoorbeeld Buchacha dans 2 date op woensdag avond.
+Op dit moment is er bijvoorbeeld dans 2 date op woensdag avond.
 Ook starten er maandag avond 8 April meditatielessen, en is er kinderyoga gestart 
 en volgen er papier mache middagen.
 
 Genoeg te doen! Kijk vooral eens in de ' vaste agenda'.
-Daar vindt u alles wat Keijehiurg per dagdeel aanbiedt!
+Daar vindt u alles wat Keijenburg per dagdeel aanbiedt!
 
 ## Komt u ook?
 (mer informatie vindt u in onder het tabblad agenda)
