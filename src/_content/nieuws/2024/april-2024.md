@@ -29,6 +29,7 @@ Daar vindt u alles wat Keijenburg per dagdeel aanbiedt!
 -   Zaterdag 6 April; Avondje uit met Quick and slow
 -   Vrijdag 12 April; Bingo
 -   Zondagmiddag 14 April; ouderwetse film middag
+-   Zondagmiddag 21 April; KBO middag
 -   Vrijdag 10 mei; Bingo
 -   Zaterdag 11 mei; Avondje uit met Quick and slow
 -   Zondag 26 mei; Voorjaarsbeurs Creaveres
