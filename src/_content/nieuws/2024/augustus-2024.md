@@ -1,0 +1,30 @@
+---
+date: 2024-08-20
+---
+
+## Wees welkom bij Buurthuis Keijenburg!
+
+Naast alles wat we [zelf organiseren (zie hiervoor de agenda)](/activiteiten/agenda)
+huisvesten we ook veel verenigingen.
+
+[Zij stellen zich voor! (klik op verenigingen))](/verenigingen)
+en u bent altijd welkom om bij hun activiteit te komen kijken.
+
+Neem uw buurman/buurvrouw/vriend/vriendin ook eens gezellig mee!
+
+## Nieuw!
+Sinds een tijdje hebben we een laadpaal voor electirsche fietsen, scooters en scootmobielen.
+Hij staat achter het hek. Maakt u er vooral gebruik van tijdens uw bezoek aan het buurthuis.
+
+## Komt u ook?
+
+(mer informatie vindt u in onder het tabblad agenda)
+
+13 sept is er weer BINGO!
+15 sept is er weer een filmmiddag.
+
+U komt toch ook?
+
+Wist u al dat we te ook vinden zijn op facebook en instagram. :)
+
+![Filmmiddag](/images/temp/film-middag.jpg)
