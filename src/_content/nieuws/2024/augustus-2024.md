@@ -25,6 +25,9 @@ Hij staat achter het hek. Maakt u er vooral gebruik van tijdens uw bezoek aan he
 
 U komt toch ook?
 
+## Geen Prikpost
+Helaas heeft Diagnovum besloten te minderen in het aantal prikpost locaties. Dit betekend dat Keijenburg geen prikpost meer heeft. Wij verwijzen u naar ” De snip” aan de doctor Schaepmanlaan. Elke donderdag ochtend van 08.30 -9.15 uur kunt u daar terecht om bloed te prikken via Diagnovum.
+
 Wist u al dat we te ook vinden zijn op facebook en instagram. :)
 
 ![Filmmiddag](/images/temp/film-middag.jpg)
