@@ -1,7 +1,7 @@
 ---
 layout: "../../../../layouts/content.astro"
 title: Linedance middag
-time: "13.30 tot 17.30 uur
+time: "13.30 tot 17.30 uur"
 date: "2024-09-08"
 ---
 Antoinette Line Dance presenteerd een gezellige linedance middag bij buurthuis keijenburg!
