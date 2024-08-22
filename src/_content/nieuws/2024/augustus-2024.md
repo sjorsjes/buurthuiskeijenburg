@@ -19,9 +19,11 @@ Hij staat achter het hek. Maakt u er vooral gebruik van tijdens uw bezoek aan he
 ## Komt u ook?
 
 (mer informatie vindt u in onder het tabblad agenda)
-
+08 september is er een gezellige line dance middag.
 13 sept is er weer BINGO!
 15 sept is er weer een filmmiddag.
+19 september is er een KBO bingo.
+28 september is er weer een avondje uit vanuit Quick ansd Slow!
 
 U komt toch ook?
 
