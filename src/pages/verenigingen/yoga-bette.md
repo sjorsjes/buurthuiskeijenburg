@@ -10,8 +10,7 @@ Yoga zorgt voor meer flexibiliteit, ruimte, balans, rust en ontspanning in licha
 
 Yoga is er voor alle leeftijden.
 
-**De lessen zijn op:
-maandag van 14.00 tot 15.15 uur (deze les kan gevolgd worden vanaf een stoel en vindt plaat op de begane grond)
+**De les is op:
 dinsdag van 19.30 tot 20.45 uur (deze vinden plaats op de Yoga zolder)**
 
 Matjes zijn aanwezig.
