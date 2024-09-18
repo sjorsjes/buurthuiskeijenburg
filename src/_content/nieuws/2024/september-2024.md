@@ -17,8 +17,9 @@ Heb jij een dagdeel per week (of om de week) tijd voor vrijwilligerswerk in het 
 Wij zoeken mensen voor achter de bar die onze gasten naast koffie en thee ook een warm welkom geven.
 
 Op dit moment zoeken we mensen voor de 
-- Maandag ochtend
+- Maandag avond
 - Woensdag ochtend (om de week en 2 personen)
+- Donderdag middag
 - Donderdag avond
 
 Voor meer informatie bel of mail AnneBelle. 0165-535439 of buurthuis.keijenburg@home.nl
