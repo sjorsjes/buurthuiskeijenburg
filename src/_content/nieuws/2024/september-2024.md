@@ -18,7 +18,6 @@ Wij zoeken mensen voor achter de bar die onze gasten naast koffie en thee ook ee
 
 Op dit moment zoeken we mensen voor de 
 - Maandag avond
-- Woensdag ochtend (om de week en 2 personen)
 - Donderdag middag
 - Donderdag avond
 
