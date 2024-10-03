@@ -5,10 +5,6 @@
       "people": [
         {
           "name": "Ad",
-          "image": "vrijwilligers/ad.png"
-        },
-        {
-          "name": "Ad",
           "image": "vrijwilligers/ad-2.png"
         },
         {
@@ -24,6 +20,18 @@
           "image": "vrijwilligers/ed.png"
         },
         {
+          "name": "Giel",
+          "image": "anoniem.png"       
+        },
+        {
+          "name": "Gijs",
+          "image": "anoniem.png"
+        },
+        {
+          "name": "Hennie",
+          "image": "anoniem.png"
+        },
+        {
           "name": "Janny",
           "image": "vrijwilligers/janny.png"
         },
@@ -36,8 +44,20 @@
           "image": "vrijwilligers/jolanda.png"
         },
         {
+          "name": "Jolanda S",
+          "image": "anoniem.png"
+        },
+        {
+          "name": "Karien",
+          "image": "anoniem.png"
+        },
+        {
           "name": "Lizet",
           "image": "vrijwilligers/lizet.png"
+        },
+        {
+          "name" "Marcel"
+          "image": "anoniem.png"
         },
         {
           "name": "Marianne",
@@ -50,6 +70,10 @@
         {
           "name": "Mieke",
           "image": "vrijwilligers/mieke.png"
+        },
+        {
+          "name": "Monique",
+          "image": "anoniem.png"
         },
         {
           "name": "Nel",
@@ -78,7 +102,14 @@
         {
           "name": "Suzan",
           "image": "vrijwilligers/suzan.png"
-        }
+        },
+        {
+          "name": "Willem",
+          "image": "anoniem.png"       
+        },
+        {
+          "name": "Qasim",
+          "image": "anoniem.png"        }
       ]
     },
     {
