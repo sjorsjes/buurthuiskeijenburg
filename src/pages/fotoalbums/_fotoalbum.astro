@@ -11,10 +11,8 @@ const { title, images = [] } = Astro.props;
 	<Content title={title}>
 		<slot />
 
-		{
-			images.length && images.map((image) => (
-				<Image src={image.default} alt="" />
-			))
-		}
+		{images.map((src) => (
+			<Image src={src} alt="" />
+		))}
 	</Content>
 </BaseLayout>

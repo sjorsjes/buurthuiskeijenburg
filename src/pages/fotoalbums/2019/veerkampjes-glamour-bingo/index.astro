@@ -3,7 +3,11 @@ import FotoAlbum from '../../_fotoalbum.astro';
 
 export const title = "Veerkampjes Glamour bingo"
 
-const images = await Astro.glob('./*.{jpeg,jpg,png,gif}');
+// Glob all images in a specific directory
+const imageImports = import.meta.glob('../../../../../public/images/fotoalbums/2019/veerkampjes-glamour-bingo/*.{jpeg,jpg,png,gif}', { eager: true });
+
+// Convert the glob object into an array of image imports
+const images = Object.values(imageImports).map((img) => img.default);
 ---
 
 <FotoAlbum title={title} images={images} />
