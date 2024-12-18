@@ -35,3 +35,5 @@ Buurthuis keijenburg sluit haarn deuren van 23 dec t/m 1 jan 2025.
 
 
 Wist u al dat we te ook vinden zijn op facebook en instagram. :)
+
+![Nationale Snertdag](/images/content/nieuws/kerstflyer-2024.jpg)
