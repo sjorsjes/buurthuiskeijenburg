@@ -2,7 +2,7 @@
 date: 2025-01-07
 ---
 
-## Namens ons hele team wensen wij jullie het allerbeste voor 2025. 
+## Namens ons hele team wensen wij<br>jullie het allerbeste voor 2025.
 Laten we er samen een warm jaar van maken vol leuke activiteiten! 
 
 ## Wees welkom bij Buurthuis Keijenburg!
@@ -24,6 +24,8 @@ Elke woensdag middag zijn er 2 nieuwe activiteiten bij Keijenburg.
   Ook is er een cratieve middag elke woensdag. Neem je eigen werkje mee, of werk aan iets uit onze mogelijkheden. 
   Deze activiteit is gratis.
 
-  
+Wist u al dat we te ook vinden zijn op [facebook](https://www.facebook.com/buurthuiskeijenburg) en [instagram](https://www.instagram.com/buurthuis_keijenburg_/). :)
 
-Wist u al dat we te ook vinden zijn op facebook en instagram. :)
+![Filmmiddag](/files/kaartmiddag-2025.jpg)
+
+![Filmmiddag](/files/crea-keijen-2025.jpg)

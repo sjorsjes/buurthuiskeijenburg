@@ -2,14 +2,23 @@
 	<div class="container">
 		<div class="footer__wrapper">
 			<div class="footer__item text-center">
-				<h2 class="footer__title">Volg ons ook op Facebook</h2>
+				<h2 class="footer__title">Volg ons ook op social media</h2>
 
 				<a
 					href="https://www.facebook.com/buurthuiskeijenburg"
-					class="footer__social"
+					class="footer__social footer__social--facebook"
 				>
 					<img src="/images/facebook.svg" alt="Volg ons ook op facebook!" />
 				</a>
+
+				<a
+				href="https://www.instagram.com/buurthuis_keijenburg_/"
+				class="footer__social footer__social--insta"
+			>
+				<img src="/images/instagram.svg" alt="Volg ons ook op Instagram!" />
+			</a>
+
+				
 
 				<div class="footer__contact">
 					<h3 class="footer__title">Contactgegevens</h3>
@@ -137,6 +146,17 @@
 
 			&:hover {
 				background-color: #3b5998; /* facebook blue */
+			}
+		}
+
+		&__social--insta {
+			&:hover {
+				border-radius: 20%;
+			}
+		}
+
+		&__social--facebook {
+			&:hover {
 				border-radius: 50%;
 			}
 		}

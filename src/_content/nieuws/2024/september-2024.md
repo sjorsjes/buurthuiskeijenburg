@@ -37,4 +37,4 @@ Helaas heeft Diagnovum besloten te minderen in het aantal prikpost locaties. Dit
 
 Wist u al dat we te ook vinden zijn op facebook en instagram. :)
 
-![Filmmiddag](/images/temp/film-middag.jpg)
+![Filmmiddag](/files//temp/film-middag.jpg)
