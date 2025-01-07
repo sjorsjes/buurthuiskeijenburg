@@ -11,7 +11,7 @@ Kom jij ook voor een gezellige avond?
 Hoe meer mensen hoe meer vreugde.
 Wat gaan we doen? dansen, spelletjes, zingen.. het kan allemaal! Geef vooral aan wat je leuk vindt.
 
-Data: 25 januari 
+Data: 22 februari
 Thema: Carnaval
 
 Kosten: 5 euro; betalen bij de entree. (hiervoor krijg je een hapje en 1 consumtiemunt voor thee/koffie/warme choco of fris) 
