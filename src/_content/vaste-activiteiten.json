@@ -167,7 +167,15 @@
               "name": "Biljart W groep"
             },
             {
-              "name": "Nederlandse les Bharosa Taaluiting"
+                "name": "CreaKeijen"
+                "url": "/verenigingen/creakeijen/"            
+            },
+            {             
+                "name": "KaartKeijen"
+                "url": "/verenigingen/kaartkeijen/"            
+            },
+            {                          
+                "name": "Nederlandse les Bharosa Taaluiting"
             },
             {
               "name": "Nederlandse les EBC talen"
