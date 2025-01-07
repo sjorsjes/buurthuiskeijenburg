@@ -4,6 +4,7 @@ title: koffie inloop (gratis)
 ---
 
 Elke dinsdag middag organiseren stichting Quiet en buurthuis Keijenburg een koffie inloop.
+Tijd: van 14 tot 17 uur
 
 Voor iedereen die behoefte heeft aan een praatje, even de deur uit wilt of 
 gewoon zin heeft in een bakje koffie... Iedereen is welkom, hoe groot of klein je beurs ook is.
