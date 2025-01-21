@@ -2,21 +2,10 @@
 date: 2025-01-07
 ---
 
-## Namens ons hele team wensen wij<br>jullie het allerbeste voor 2025.
-Laten we er samen een warm jaar van maken vol leuke activiteiten! 
-
 ## Wees welkom bij Buurthuis Keijenburg!
 
-Naast alles wat we [zelf organiseren (zie hiervoor de agenda)](/activiteiten/agenda)
-huisvesten we ook veel verenigingen.
-
-[Zij stellen zich voor! (klik op verenigingen))](/verenigingen)
-en u bent altijd welkom om bij hun activiteit te komen kijken.
-
-Neem uw buurman/buurvrouw/vriend/vriendin ook eens gezellig mee!
-
 ## Nieuw!
-Elke woensdag middag zijn er 2 nieuwe activiteiten bij Keijenburg.
+
 - KaartKeijen.
   Elke woensdag middag kun je rikken of jokeren bij keijenburg. Inleg is 2,50 euro voor de prijzenpot.
 
@@ -31,6 +20,12 @@ Elke woensdag middag zijn er 2 nieuwe activiteiten bij Keijenburg.
   Denk aan eenvoudige vormen zoals lijnen, cirkels, blaadjes, of wat je zelf mooi vindt. Het gaat niet om perfectie, 
   maar om het proces van iets unieks laten ontstaan vanuit jezelf.
   Meer info vindt je onder de knop "maand agenda"
+
+- Groen inloopspreekuur; elke 3e woensdag in de maand in het cafe.
+  Jasmijn Gisler, omgevingsmanager Idverde (werkt samen met gemeente Roosendaal), staat voor u klaar voor vragen,
+  opmerkingen of ideeen mbt het openbaar groen in onze wijk en stad.
+
+## Voor alle activiteiten kijkt u in onze agenda op deze site!
 
 Wist u al dat we te ook vinden zijn op [facebook](https://www.facebook.com/buurthuiskeijenburg) en [instagram](https://www.instagram.com/buurthuis_keijenburg_/). :)
 
