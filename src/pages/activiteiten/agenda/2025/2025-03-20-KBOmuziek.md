@@ -1,6 +1,6 @@
 ---
 layout: "../../../../layouts/content.astro"
-title: KBO Toneel De vrolijke spelers.
+title: KBO Muziek
 time: "14.00 uur"
 date: "2025-03-20"
 ---
