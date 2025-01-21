@@ -1,7 +1,7 @@
 ---
 layout: "../../../../layouts/content.astro"
 title: Ut groot Keijenbal
-time: "13.11 - 18.11"
+time: "13.11 - 17.11"
 date: "2025-02-23"
 ---
 
@@ -15,6 +15,6 @@ Het drietal is ook weer uitgenodigd!
 Een gezellige middag met een zitplaats!
 Komt allen!
 
-Datum: 23 februari 2023
+Datum: 23 februari 2025
 Kosten: Gratis incl een hapje!
 Tijd aanvang: 13.11 uur
