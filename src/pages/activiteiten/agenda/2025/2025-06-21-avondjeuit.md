@@ -12,6 +12,7 @@ Hoe meer mensen hoe meer vreugde.
 Wat gaan we doen? dansen, spelletjes, zingen.. het kan allemaal! Geef vooral aan wat je leuk vindt.
 
 Data: 21 Juni 
+Thema: Summerparty!
 
 Kosten: 5 euro; betalen bij de entree. (hiervoor krijg je een hapje en 1 consumtiemunt voor thee/koffie/warme choco of fris) 
 Begeleiding; vrijwilligers
