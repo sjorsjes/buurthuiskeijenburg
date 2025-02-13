@@ -4,6 +4,12 @@ date: 2025-01-07
 
 ## Wees welkom bij Buurthuis Keijenburg!
 
+## Binnenkort:
+- vrijdag 14 feb; Bingo
+- Donderdag 20 feb; KBO toneel
+- zaterdag 22 feb; Kindercarnaval met het keijkesbal
+- zondag 23 feb; ouderen carnaval met het groot keijenbal
+
 ## Nieuw!
 
 - KaartKeijen.
