@@ -1,6 +1,6 @@
 ---
 layout: "../../../../layouts/content.astro"
-title: Avondje uit 
+title: Avondje uit Carnaval
 time: "19.00"
 date: "2025-02-22"
 ---
