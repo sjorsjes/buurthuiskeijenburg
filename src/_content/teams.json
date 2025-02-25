@@ -8,6 +8,14 @@
           "image": "vrijwilligers/ad-2.png"
         },
         {
+          "name": "Ad",
+          "image": "vrijwilligers/ad-3.png"
+        },
+        {
+          "name": "Arnoud",
+          "image": "vrijwilligers/arnoud.png"
+        },
+        {
           "name": "Cees",
           "image": "vrijwilligers/cees.png"
         },
@@ -69,7 +77,7 @@
         },
         {
           "name": "Monique",
-          "image": "anoniem.png"
+          "image": "vrijwilligers/monique.png"
         },
         {
           "name": "Nel",
