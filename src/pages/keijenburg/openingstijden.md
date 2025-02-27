@@ -25,8 +25,9 @@ Zaterdag en zondag op aanvraag.
 | **Carnaval**      | 1 Maart t/m 4 Maart         |
 | **Pasen**         | 19,20 en 21 April           |
 | **Koningsdag**    | zaterdag 26 April           |
+| **Bevrijdingsdag**| maandag 5 mei               |
 | **Hemelvaart**    | donderdag 29 Mei            |
 | **Pinksteren**    | 8 en 9 Juni                 |
 | **Zomervakantie** | 14 juli t/m 10 augustus     |
-| **Sinterklaas**   | 5 december (avond)          |     |
+| **Sinterklaas**   | 5 december (avond)          |     
 | **Kerstvakantie** | 22 december t/m 4 januari   |
