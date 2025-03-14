@@ -7,7 +7,7 @@ date: 2025-03-12
 ## Binnenkort:
 - vrijdag 14 maart; Bingo
 - zondag 16 maart; Filmmiddag!
-- donderdag 20 Maart KBO Muziek; Smidje verholen
+- donderdag 20 Maart KBO Muziek; Roselander Combo
 - zondag 25 maart; dansmiddag met duo Eradic
 
 ## Nieuw!
