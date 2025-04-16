@@ -4,6 +4,8 @@ date: 2025-04-16
 
 ## Wees welkom bij Buurthuis Keijenburg!
 
+## Bevrijdingsdag 2025; op maandag 5 mei zijn we gesloten!
+
 ## Binnenkort:
 - woensdag 16 april; groen inloop spreekuur; groen in de wijk.
 - donderdag 17 april; paasontbijt (uitverkocht)
