@@ -4,7 +4,7 @@ import FotoAlbum from '../../_fotoalbum.astro';
 export const title = "dansmiddag 10 maart 24"
 
 // Glob all images in a specific directory
-const imageImports = import.meta.glob('../../../../../public/images/fotoalbums/2024/dansmiddag maart 24/*.{jpeg,jpg,png,gif}', { eager: true });
+const imageImports = import.meta.glob('../../../../../public/images/fotoalbums/2024/dansmiddag 10 maart 24/*.{jpeg,jpg,png,gif}', { eager: true });
 
 // Convert the glob object into an array of image imports
 const images = Object.values(imageImports).map((img) => img.default);

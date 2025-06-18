@@ -17,18 +17,19 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "prettier": "prettier --write --loglevel warn ."
+    "prettier": "prettier --write --loglevel warn .",
+    "update": "npx npm-check -u"
   },
   "dependencies": {
     "@types/lodash.truncate": "^4.4.9",
-    "astro": "^5.0.9",
+    "astro": "^5.9.4",
     "lodash.truncate": "^4.4.2",
-    "postcss-import": "^16.1.0",
+    "postcss-import": "^16.1.1",
     "postcss-nested": "^7.0.2"
   },
   "devDependencies": {
-    "@types/node": "^22.10.2",
-    "fast-glob": "^3.3.2",
-    "prettier": "^3.4.2"
+    "@types/node": "^24.0.3",
+    "fast-glob": "^3.3.3",
+    "prettier": "^3.5.3"
   }
 }
