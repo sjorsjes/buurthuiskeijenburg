@@ -163,15 +163,15 @@
               "name": "Biljart W groep"
             },
             {
-                "name": "CreaKeijen",
-                "url": "/verenigingen/creakeijen/"            
+              "name": "CreaKeijen",
+              "url": "/verenigingen/creakeijen/"
             },
-            {             
-                "name": "KaartKeijen",
-                "url": "/verenigingen/kaartkeijen/"            
+            {
+              "name": "KaartKeijen",
+              "url": "/verenigingen/kaartkeijen/"
             },
-            {                          
-                "name": "Nederlandse les Bharosa Taaluiting"
+            {
+              "name": "Nederlandse les Bharosa Taaluiting"
             },
             {
               "name": "Nederlandse les EBC talen"
@@ -214,7 +214,7 @@
               "name": "Bewegen op muziek, ja voor iedereen!",
               "url": "/verenigingen/bewegen-op-muziek-voor-iedereen/"
             },
-            {             
+            {
               "name": "Biljart W groep"
             },
             {
@@ -262,7 +262,7 @@
               "url": "/verenigingen/kinderyoga-deyogazolder/"
             },
             {
-              "name": "Biljart"          
+              "name": "Biljart"
             }
           ]
         },
@@ -277,13 +277,15 @@
               "name": "Spaanse les Comlex",
               "url": "/verenigingen/spaanse-les-comlex/"
             },
-            } 
+            {
               "name": "Hatha Yoha van Vera van Kalmthout",
               "url": "/verenigingen/yoga-vera/"
-           }
-        ]
-      },
-      {
+            }
+          ]
+        }
+      ]
+    },
+    {
       "day": "vrijdag",
       "parts": [
         {
@@ -325,7 +327,7 @@
               "url": "/verenigingen/kinderyoga-deyogazolder/"
             },
             {
-              "name": "Keytime eens per maand" 
+              "name": "Keytime eens per maand"
             }
           ]
         },
