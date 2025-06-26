@@ -1,0 +1,13 @@
+---
+import FotoAlbum from '../../_fotoalbum.astro';
+
+export const title = "Keijkesbal 2024"
+
+// Glob all images in a specific directory
+const imageImports = import.meta.glob('../../../../../public/images/fotoalbums/2024/keijkesbal-2024/*.{jpeg,jpg,png,gif}', { eager: true });
+
+// Convert the glob object into an array of image imports
+const images = Object.values(imageImports).map((img) => img.default);
+---
+
+<FotoAlbum title={title} images={images} />
