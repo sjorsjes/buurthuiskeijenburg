@@ -3,35 +3,28 @@ layout: "../../layouts/content.astro"
 title: Workshop Aquarel en Doodles door Lies Design
 ---
 
-Workshops Aquarel & Doodles in Buurthuis Keijenburg
+Workshops Aquarel & Doodles
 
-Heb je zin om creatief aan de slag te gaan met aquarelverf en doodles? In deze workshops leer je op een ontspannen manier
-werken met aquarel, zelfs als je nog nooit met verf hebt gewerkt.
+Heb je zin om creatief aan de slag te gaan met aquarelverf en doodles? In deze workshops ga je op een ontspannen manier werken met aquarel — ook als je nog nooit eerder met verf hebt gewerkt. Geen realistische schilderijen, maar juist de focus op vorm, kleur en vooral het plezier van creativiteit.
+Er zijn 2 verschillende workshopniveaus: 1 en 2.
 
-Wat doen we precies?
+Wat doen we bij Aquarel & Doodle 1?
 
-Spelen met aquarelverf: Je leert hoe je verf verdunt, kleuren mengt en de nat-in-nat techniek gebruikt 
-om een abstracte achtergrond te maken. Geen realistische schilderijen, maar een focus op vorm, kleur en vooral het plezier 
-van creativiteit.
-Doodlen over je schildering: Zodra je achtergrond droog is, voeg je met fineliners, 
-gelpennen en andere materialen details toe. Denk aan eenvoudige vormen zoals lijnen, cirkels, blaadjes, 
-of wat je zelf mooi vindt. Het gaat niet om perfectie, maar om het proces van iets unieks laten ontstaan vanuit jezelf.
+Deze workshop is het perfecte startpunt voor beginners. Je krijgt uitleg over de materialen, leert hoe je verf verdunt, kleuren mengt en de nat-in-nat techniek gebruikt om een abstracte achtergrond te maken. Daarna gaan we doodlen over je schildering: zodra je achtergrond droog is, voeg je met fineliners, gelpennen en andere materialen details toe. Denk aan eenvoudige vormen zoals lijnen, cirkels, blaadjes — of wat jij zelf mooi vindt. Het gaat niet om perfectie, maar om het proces: iets unieks laten ontstaan vanuit jezelf.
 
-Elke workshop biedt:
+Duidelijke uitleg en oefening met technieken zoals nat-in-nat schilderen
+Handige tips over kleurmenging
+Een ontspannen sfeer waarin je je eigen creativiteit de ruimte geeft
+Aquarel & Doodle 2:
 
-- Duidelijke uitleg en oefening met technieken, zoals nat-in-nat schilderen.
-- Handige tips over kleurmenging.
-- Een ontspannen sfeer waarin je je eigen creativiteit de ruimte geeft.
-- De workshops zijn geschikt voor beginners én voor mensen met ervaring die nieuwe inspiratie willen opdoen. 
+Deze workshop is bedoeld voor wie al bekend is met aquarel, maar graag op een andere manier wil spelen met kleur en materialen — los van het realistisch weergeven van een beeld. Je werkt echt van binnen naar buiten.
+Ik heb een aantal kleine ideeën voor mogelijke startpunten, mocht je daar behoefte aan hebben. Daarna kun je lekker zelf aan de slag, met mijn begeleiding waar nodig. De ervaring leert dat ook de uitwisseling van ideeën en inspiratie tussen deelnemers een grote meerwaarde heeft.
 
-De tweedaagse workshop biedt meer ruimte voor verdieping, maar ook tijdens de eendaagse leer je genoeg om thuis verder te experimenteren.
+Er zijn dus workshops geschikt voor zowel beginners als voor mensen met ervaring.
+Alle praktische informatie en het aanmeldformulier vind je op mijn website:
+👉 https://liesdesign.nl/workshop-aquarel-en-doodles-keijenburg-roosendaal/
 
-Praktische informatie
-De eerste data vind je op:  https://liesdesign.nl/overzicht-workshops/ . 
-
-Hier kun je je ook aanmelden en meer lezen over de inhoud.
-
-Hopelijk tot ziens! 
+Hopelijk tot ziens!
 Liesbeth
 
 
