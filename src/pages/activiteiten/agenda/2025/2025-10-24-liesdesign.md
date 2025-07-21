@@ -16,9 +16,10 @@ Wat doen we bij Aquarel & Doodle 1?
 
 Deze workshop is het perfecte startpunt voor beginners. Je krijgt uitleg over de materialen, leert hoe je verf verdunt, kleuren mengt en de nat-in-nat techniek gebruikt om een abstracte achtergrond te maken. Daarna gaan we doodlen over je schildering: zodra je achtergrond droog is, voeg je met fineliners, gelpennen en andere materialen details toe. Denk aan eenvoudige vormen zoals lijnen, cirkels, blaadjes — of wat jij zelf mooi vindt. Het gaat niet om perfectie, maar om het proces: iets unieks laten ontstaan vanuit jezelf.
 
-Duidelijke uitleg en oefening met technieken zoals nat-in-nat schilderen
-Handige tips over kleurmenging
-Een ontspannen sfeer waarin je je eigen creativiteit de ruimte geeft
+- Duidelijke uitleg en oefening met technieken zoals nat-in-nat schilderen
+- Handige tips over kleurmenging
+- Een ontspannen sfeer waarin je je eigen creativiteit de ruimte geeft
+
 Aquarel & Doodle 2:
 
 Deze workshop is bedoeld voor wie al bekend is met aquarel, maar graag op een andere manier wil spelen met kleur en materialen — los van het realistisch weergeven van een beeld. Je werkt echt van binnen naar buiten.
