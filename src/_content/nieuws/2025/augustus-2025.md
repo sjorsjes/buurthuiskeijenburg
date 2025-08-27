@@ -4,11 +4,15 @@ date: 2025-08-21
 
 ## Wees welkom bij Buurthuis Keijenburg!
 ## Binnenkort:
-Do 21 aug; KBO Bonte middag
 Ma 08 sep; Informatiebijeenkomst valpreventie.(13-15 uur) Zie onderaan deze pagina voor meer info.
 Vr 12 sept; Bingo
 Zo 14 sept; Heropening Toneelzaal met The OpSound!! (kaarten zijn al te koop)
 Zo 21 sept; Dans en Muziekmiddag
+
+## Wist u dat?
+KBO Roosendaal gaat verder onder een nieuwe naam! Voortaan heet het Senioren Roosendaal.
+Verder blijft hun aanbod gelijk. Meer info over wat Senioren Roosendaal voor u kan betekenen vind je onder het kopje "verenigingen".
+
 
 ## Nieuw!
 
