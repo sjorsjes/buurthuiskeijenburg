@@ -35,4 +35,4 @@ Wij zien u graag!
 Groet,
 Team Keijenburg.
 
-[![Flyer](/images/content/flyer_burgerhout_2025_small.jpg)](/images/content/flyer_burgerhout_2025.jpg)
+[![Flyer](/images/content/nieuws/dansen.jpg)](/images/content/nieuws/dansen.jpg)

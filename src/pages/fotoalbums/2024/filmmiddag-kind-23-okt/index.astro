@@ -1,10 +1,10 @@
 ---
 import FotoAlbum from '../../_fotoalbum.astro';
 
-export const title = "filmmiddag kind 23 okt"
+export const title = "Filmmiddag Kind 23 oktober"
 
 // Glob all images in a specific directory
-const imageImports = import.meta.glob('../../../../../public/images/fotoalbums/2024/filmmiddag-kind-23-okt/*.{jpeg,jpg,png,gif}', { eager: true });
+const imageImports = import.meta.glob('../../../../../public/images/fotoalbums/2024/Filmmiddag kind 23 okt/*.{jpeg,jpg,png,gif}', { eager: true });
 
 // Convert the glob object into an array of image imports
 const images = Object.values(imageImports).map((img) => img.default);

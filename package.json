@@ -22,14 +22,14 @@
   },
   "dependencies": {
     "@types/lodash.truncate": "^4.4.9",
-    "astro": "^5.9.4",
+    "astro": "^5.14.1",
     "lodash.truncate": "^4.4.2",
     "postcss-import": "^16.1.1",
     "postcss-nested": "^7.0.2"
   },
   "devDependencies": {
-    "@types/node": "^24.0.3",
+    "@types/node": "^24.6.0",
     "fast-glob": "^3.3.3",
-    "prettier": "^3.5.3"
+    "prettier": "^3.6.2"
   }
 }
