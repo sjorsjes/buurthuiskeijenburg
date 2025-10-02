@@ -1,5 +1,5 @@
 ---
-date: 2025-10-01
+date: 2025-10-02
 ---
 
 ## Wees welkom bij Buurthuis Keijenburg!
@@ -25,12 +25,15 @@ Fijn iedereen na de zomervakantie weer te zien!
 
 ## Nieuw!
 
+Star - SHL Prikpost.
+    Per 2 oktober is er een nieuwe locatie voor bloedafname namens Star- SHL bij Keijenburg.
+    Elke maandag en donderdag van 8.00 tot 9.00 uur kunt u terecht. Een afspraak maken is niet nodig.     star-shl/locaties.nl
+    
 KaartKeijen.
   Elke woensdag middag kun je rikken of jokeren bij keijenburg. Inleg is 2,50 euro voor de prijzenpot.
 
 CreaKeijen.
-  Ook is er een cratieve middag elke woensdag. Neem je eigen werkje mee, of werk aan iets uit onze mogelijkheden. 
-  Deze activiteit is gratis.
+  Ook is er een creatieve middag elke woensdag. Neem je eigen werkje mee, of werk aan iets uit onze     mogelijkheden. Deze activiteit is gratis.
 
 ## zie de maand agenda voor meer informatie!
 
