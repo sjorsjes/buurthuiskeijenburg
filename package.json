@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@types/lodash.truncate": "^4.4.9",
-    "astro": "^5.14.1",
+    "astro": "^5.14.3",
     "lodash.truncate": "^4.4.2",
     "postcss-import": "^16.1.1",
     "postcss-nested": "^7.0.2"
