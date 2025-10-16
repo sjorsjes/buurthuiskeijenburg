@@ -1,22 +1,24 @@
 ---
-date: 2025-10-02
+date: 2025-10-16
 ---
 
 ## Wees welkom bij Buurthuis Keijenburg!
-Fijn iedereen na de zomervakantie weer te zien!
 
 ## Binnenkort:
-* vrij middag 10 okt; Bingo!
-* di avond 14 okt; dansen op jaren 80 muziek! (graag vooraf aanmelden; zie flyer hieronder)
-* Wo middag 15 oktober; (13.00) filmmiddag voor de hele familie; entree incl concumptie 2,50 pp
-* Do 16 okt; Trio sfeer vanuit senioren Rosendaal
+* Do 16 okt; Trio sfeer vanuit senioren Rosendaal.
+* vr 14 nov; Bingo.
+* di 4 nov; dansen op jaren 80 muziek! (graag vooraf aanmelden zie flyer hieronder)
+* wo 19 nov;inloop spreekuur IDverde; groen in de stad.
+* zo 23 nov; najaars markt van creaveres.
+* zo 30 nov; dans en muziek middag met duo EraDic.
+
 
 ## alvast voor de agenda:
-- 4 nov; dansen op jaren 80 muziek! (graag vooraf aanmelden zie flyer hieronder)
-- 23 nov; najaars markt van creaveres
-- 30 nov; dans en muziek middag met duo EraDic
+- zo 14 dec; ouderwetse filmmiddag.
+- zo 21 dec; kerstfeest bij buurthuis Keijenburg. Kaartverkoop start 3 november.
 
 ## Wist u dat?
+- Wij kerstfeest dit jaar als pilot eens eerder vieren. Dit jaar op 21 december.
 - KBO Roosendaal gaat verder onder een nieuwe naam! Voortaan heet het Senioren Roosendaal.
   Verder blijft hun aanbod gelijk. Meer info over wat Senioren Roosendaal voor u kan betekenen vind je onder het kopje "verenigingen".
 - Wij nog enkele opening hebben in de zaalverhuur door de week... Neem contact op voor meer informatie!
