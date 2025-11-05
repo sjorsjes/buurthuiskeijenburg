@@ -7,56 +7,27 @@
         {
           "name": "ochtend",
           "activities": [
-            {
-              "name": "BC Keijenburg"
-            },
-            {
-              "name": "Quilting Bee (1ste maandag v.d. mnd)"
-            },
-            {
-              "name": "Yoga van Lia",
-              "url": "/verenigingen/yoga-lia/"
-            },
-            {
-              "name": "Nederlandse les EBC Talen"
-            }
+            { "name": "BC Keijenburg" },
+            { "name": "Quilting Bee (1ste maandag v.d. mnd)" },
+            { "name": "Yoga van Lia", "url": "/verenigingen/yoga-lia/" },
+            { "name": "Nederlandse les EBC Talen" }
           ]
         },
         {
           "name": "middag",
           "activities": [
-            {
-              "name": "Biljart Fatima",
-              "url": "/verenigingen/biljartclub-maandag-vrijdagmiddag/"
-            },
-            {
-              "name": "Schildersvereniging met Verve",
-              "url": "/verenigingen/schildersvereniging-metverve/"
-            },
-            {
-              "name": "Engelse les",
-              "url": "/verenigingen/engelse-les/"
-            },
-            {
-              "name": "Nederlandse les Bharosa Taaluiting"
-            }
+            { "name": "Biljart Fatima", "url": "/verenigingen/biljartclub-maandag-vrijdagmiddag/" },
+            { "name": "Schildersvereniging met Verve", "url": "/verenigingen/schildersvereniging-metverve/" },
+            { "name": "Engelse les", "url": "/verenigingen/engelse-les/" },
+            { "name": "Nederlandse les Bharosa Taaluiting" }
           ]
         },
         {
           "name": "avond",
           "activities": [
-            {
-              "name": "Roosendaals Kamerkoor",
-              "url": "/verenigingen/roosendaals-kamerkoor/"
-            },
-            {
-              "name": "Fotowerkgroep Roosendaal (2e ma v.d. mnd)",
-              "url": "/verenigingen/fotowerkgroep-roosendaal/"
-            },
-            {
-              "name": "Meander Koor",
-              "url": "/verenigingen/meander-koor/"
-            }
+            { "name": "Roosendaals Kamerkoor", "url": "/verenigingen/roosendaals-kamerkoor/" },
+            { "name": "Fotowerkgroep Roosendaal (2e ma v.d. mnd)", "url": "/verenigingen/fotowerkgroep-roosendaal/" },
+            { "name": "Meander Koor", "url": "/verenigingen/meander-koor/" }
           ]
         }
       ]
@@ -67,64 +38,29 @@
         {
           "name": "ochtend",
           "activities": [
-            {
-              "name": "BC Keijenburg"
-            },
-            {
-              "name": "Nederlandse les Bharosa Taaluiting"
-            },
-            {
-              "name": "Zeevrouwenkoor Zout en Zoet",
-              "url": "/verenigingen/zeevrouwenkoor-zout-en-zoet/"
-            },
-            {
-              "name": "Koersbal",
-              "url": "/verenigingen/koersbal/"
-            }
+            { "name": "BC Keijenburg" },
+            { "name": "Nederlandse les Bharosa Taaluiting" },
+            { "name": "Zeevrouwenkoor Zout en Zoet", "url": "/verenigingen/zeevrouwenkoor-zout-en-zoet/" },
+            { "name": "Koersbal", "url": "/verenigingen/koersbal/" }
           ]
         },
         {
           "name": "middag",
           "activities": [
-            {
-              "name": "Biljart Keijenburg 77",
-              "url": "/verenigingen/biljartclub-keijenburg77/"
-            },
-            {
-              "name": "Nederlandse les Bharosa Taaluiting"
-            },
-            {
-              "name": "Inloop Koffiemoment vanuit Quiet en Keijenburg",
-              "url": "/verenigingen/koffie-quiet-kb/"
-            },
-            {
-              "name": "Caeser Therapie"
-            },
-            {
-              "name": "The Op-Sound",
-              "url": "/verenigingen/the-op-sound/"
-            }
+            { "name": "Biljart Keijenburg 77", "url": "/verenigingen/biljartclub-keijenburg77/" },
+            { "name": "Nederlandse les Bharosa Taaluiting" },
+            { "name": "Inloop Koffiemoment vanuit Quiet en Keijenburg", "url": "/verenigingen/koffie-quiet-kb/" },
+            { "name": "Caeser Therapie" },
+            { "name": "The Op-Sound", "url": "/verenigingen/the-op-sound/" }
           ]
         },
         {
           "name": "avond",
           "activities": [
-            {
-              "name": "Damvereniging de Schijf",
-              "url": "/verenigingen/damvereniging-de-schijf/"
-            },
-            {
-              "name": "Komedikato",
-              "url": "/verenigingen/komedikato/"
-            },
-            {
-              "name": "Schotse dansgroep Schiehallion",
-              "url": "/verenigingen/schotse-dansgroep-schiehallion/"
-            },
-            {
-              "name": "Spaanse les Comlex",
-              "url": "/verenigingen/spaanse-les-comlex/"
-            }
+            { "name": "Damvereniging de Schijf", "url": "/verenigingen/damvereniging-de-schijf/" },
+            { "name": "Komedikato", "url": "/verenigingen/komedikato/" },
+            { "name": "Schotse dansgroep Schiehallion", "url": "/verenigingen/schotse-dansgroep-schiehallion/" },
+            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" }
           ]
         }
       ]
@@ -135,67 +71,30 @@
         {
           "name": "ochtend",
           "activities": [
-            {
-              "name": "Meer Bewegen Voor Ouderen",
-              "url": "/verenigingen/meer-bewegen-voor-ouderen/"
-            },
-            {
-              "name": "Lapjesberg",
-              "url": "/verenigingen/lapjesberg/"
-            },
-            {
-              "name": "Yoga van Lia",
-              "url": "/verenigingen/yoga-lia/"
-            },
-            {
-              "name": "Nederlandse les Bharosa Taaluiting"
-            },
-            {
-              "name": "Soepuurtje",
-              "url": "/activiteiten/vaste-activiteiten/soepuurtje/"
-            }
+            { "name": "Meer Bewegen Voor Ouderen", "url": "/verenigingen/meer-bewegen-voor-ouderen/" },
+            { "name": "Lapjesberg", "url": "/verenigingen/lapjesberg/" },
+            { "name": "Yoga van Lia", "url": "/verenigingen/yoga-lia/" },
+            { "name": "Nederlandse les Bharosa Taaluiting" },
+            { "name": "Soepuurtje", "url": "/activiteiten/vaste-activiteiten/soepuurtje/" }
           ]
         },
         {
           "name": "middag",
           "activities": [
-            {
-              "name": "BC Keijenburg"
-            },
-            {
-              "name": "CreaKeijen",
-              "url": "/verenigingen/creakeijen/"
-            },
-            {
-              "name": "KaartKeijen",
-              "url": "/verenigingen/kaartkeijen/"
-            },
-            {
-              "name": "Nederlandse les Bharosa Taaluiting"
-            },
-            {
-              "name": "Nederlandse les EBC talen"
-            }
+            { "name": "BC Keijenburg" },
+            { "name": "CreaKeijen", "url": "/verenigingen/creakeijen/" },
+            { "name": "KaartKeijen", "url": "/verenigingen/kaartkeijen/" },
+            { "name": "Nederlandse les Bharosa Taaluiting" },
+            { "name": "Nederlandse les EBC talen" }
           ]
         },
         {
           "name": "avond",
           "activities": [
-            {
-              "name": "Spaanse les Comlex",
-              "url": "/verenigingen/spaanse-les-comlex/"
-            },
-            {
-              "name": "Nouveau",
-              "url": "/verenigingen/nouveau/"
-            },
-            {
-              "name": "VOGG (2e wo v.d. mnd)",
-              "url": "/verenigingen/vogg/"
-            },
-            {
-              "name": "Biljart"
-            }
+            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" },
+            { "name": "Nouveau", "url": "/verenigingen/nouveau/" },
+            { "name": "VOGG (2e wo v.d. mnd)", "url": "/verenigingen/vogg/" },
+            { "name": "Biljart" }
           ]
         }
       ]
@@ -206,77 +105,36 @@
         {
           "name": "ochtend",
           "activities": [
-            {
-              "name": "Wandelclub de wandelkeijen om 10 uur",
-              "url": "/verenigingen/wandelkeijen/"
-            },
-            {
-              "name": "Bewegen op muziek, ja voor iedereen!",
-              "url": "/verenigingen/bewegen-op-muziek-voor-iedereen/"
-            },
-            {
-              "name": "BC Keijenburg"
-            },
-            {
-              "name": "Nederlandse les Bharosa Taaluiting"
-            },
-            {
-              "name": "Spaanse les Comlex",
-              "url": "/verenigingen/spaanse-les-comlex/"
-            },
-            {
-              "name": "Kantklossen (om de week)",
-              "url": "/verenigingen/kantklossen/"
-            },
-            {
-              "name": "Soepuurtje",
-              "url": "/activiteiten/vaste-activiteiten/soepuurtje/"
-            }
+            { "name": "Wandelclub de wandelkeijen om 10 uur", "url": "/verenigingen/wandelkeijen/" },
+            { "name": "Bewegen op muziek, ja voor iedereen!", "url": "/verenigingen/bewegen-op-muziek-voor-iedereen/" },
+            { "name": "BC Keijenburg" },
+            { "name": "Nederlandse les Bharosa Taaluiting" },
+            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" },
+            { "name": "Kantklossen (om de week)", "url": "/verenigingen/kantklossen/" },
+            { "name": "Soepuurtje", "url": "/activiteiten/vaste-activiteiten/soepuurtje/" }
           ]
         },
         {
           "name": "middag",
           "activities": [
-            {
-              "name": "Wijktafel burgerhout (1x per kwartaal)",
-              "url": "/activiteiten/vaste-activiteiten/wijktafel-burgerhout/"
-            },
-            {
-              "name": "Nederlandse les ECB talen"
-            },
-            {
-              "name": "Nederlandse les Bharosa Taaluiting"
-            },
-            {
-              "name": "Senioren Roosendaal (voorheen KBO) (3e donderdag van de maand)",
-              "url": "/activiteiten/vaste-activiteiten/senioren-roosendaal/"           
-            },
-            {
-              "name": "Gymgroep VIB"
-            },
-            {
-              "name": "Kinderyoga de Yogazolder  4 - 6 jaar",
-              "url": "/verenigingen/kinderyoga-deyogazolder/"
-            },
-            {
-              "name": "Kinderyoga de Yogazolder  7 - 9 jaar",
-              "url": "/verenigingen/kinderyoga-deyogazolder/"
-            },
-            {
-              "name": "Biljart"
-            }
+            { "name": "Wijktafel burgerhout (1x per kwartaal)", "url": "/activiteiten/vaste-activiteiten/wijktafel-burgerhout/" },
+            { "name": "Nederlandse les ECB talen" },
+            { "name": "Nederlandse les Bharosa Taaluiting" },
+            { "name": "Senioren Roosendaal (voorheen KBO) (3e donderdag van de maand)", "url": "/activiteiten/vaste-activiteiten/senioren-roosendaal/" },
+            { "name": "Gymgroep VIB" },
+            { "name": "Kinderyoga de Yogazolder  4 - 6 jaar", "url": "/verenigingen/kinderyoga-deyogazolder/" },
+            { "name": "Kinderyoga de Yogazolder  7 - 9 jaar", "url": "/verenigingen/kinderyoga-deyogazolder/" },
+            { "name": "Biljart" }
           ]
         },
         {
           "name": "avond",
           "activities": [
-            {
-              "name": "Line Dance met Antoinette",
-              "url": "/verenigingen/line-dance-antoinette/"
-            },
-            {
-              "name": "Spaanse les Comlex",
-              "url": "/verenigingen/spaanse-les-comlex/"
+            { "name": "Line Dance met Antoinette", "url": "/verenigingen/line-dance-antoinette/" },
+            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" }
+          ]
+        }
+      ]
     },
     {
       "day": "vrijdag",
@@ -284,60 +142,28 @@
         {
           "name": "ochtend",
           "activities": [
-            {
-              "name": "Bewegen op Muziek Keijenburg",
-              "url": "/verenigingen/bom-keijenburg/"
-            },
-            {
-              "name": "Smartlappenkoor de Wieken",
-              "url": "/verenigingen/smartlappenkoor-de-wieken/"
-            },
-            {
-              "name": "Biljart KB-Veteranen"
-            },
-            {
-              "name": "Nederlandse les Bharosa Taaluiting"
-            }
+            { "name": "Bewegen op Muziek Keijenburg", "url": "/verenigingen/bom-keijenburg/" },
+            { "name": "Smartlappenkoor de Wieken", "url": "/verenigingen/smartlappenkoor-de-wieken/" },
+            { "name": "Biljart KB-Veteranen" },
+            { "name": "Nederlandse les Bharosa Taaluiting" }
           ]
         },
         {
           "name": "middag",
           "activities": [
-            {
-              "name": "Biljart Fatima",
-              "url": "/verenigingen/biljartclub-maandag-vrijdagmiddag/"
-            },
-            {
-              "name": "Bingo Keijenburg (2e vrijdag v.d. mnd)",
-              "url": "/verenigingen/bingo-keijenburg/"
-            },
-            {
-              "name": "Kinderyoga de Yogazolder  7 - 9 jaar",
-              "url": "/verenigingen/kinderyoga-deyogazolder/"
-            },
-            {
-              "name": "Kinderyoga de Yogazolder  10 - 12 jaar",
-              "url": "/verenigingen/kinderyoga-deyogazolder/"
-            },
-            {
-              "name": "Keytime eens per maand"
-            }
+            { "name": "Biljart Fatima", "url": "/verenigingen/biljartclub-maandag-vrijdagmiddag/" },
+            { "name": "Bingo Keijenburg (2e vrijdag v.d. mnd)", "url": "/verenigingen/bingo-keijenburg/" },
+            { "name": "Kinderyoga de Yogazolder  7 - 9 jaar", "url": "/verenigingen/kinderyoga-deyogazolder/" },
+            { "name": "Kinderyoga de Yogazolder  10 - 12 jaar", "url": "/verenigingen/kinderyoga-deyogazolder/" },
+            { "name": "Keytime eens per maand" }
           ]
         },
         {
           "name": "avond",
           "activities": [
-            {
-              "name": "Stijldansclub Keijenburg",
-              "url": "/verenigingen/dansclub-keijenburg/"
-            },
-            {
-              "name": "Dungeons & Dragons (1 a 2 x per maand)"
-            },
-            {
-              "name": "Carnavalsband Woensdag Gak’tdag (sept - feb)",
-              "url": "/verenigingen/woensdag-gaktdag/"
-            }
+            { "name": "Stijldansclub Keijenburg", "url": "/verenigingen/dansclub-keijenburg/" },
+            { "name": "Dungeons & Dragons (1 a 2 x per maand)" },
+            { "name": "Carnavalsband Woensdag Gak’tdag (sept - feb)", "url": "/verenigingen/woensdag-gaktdag/" }
           ]
         }
       ]
