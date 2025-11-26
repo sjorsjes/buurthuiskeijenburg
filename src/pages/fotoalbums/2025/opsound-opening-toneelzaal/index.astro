@@ -1,0 +1,12 @@
+---
+import FotoAlbum from '../../_fotoalbum.astro';
+
+export const title = "OpSound Opening Toneelzaal"
+
+const imageImports = import.meta.glob('../../../../../public/images/fotoalbums/2025/OpSound opening toneelzaal sept 25/*.{jpeg,jpg,png,gif}', { eager: true });
+
+const images = Object.values(imageImports).map((img) => img.default);
+---
+
+<FotoAlbum title={title} images={images} />
+

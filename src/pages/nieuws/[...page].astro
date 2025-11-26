@@ -2,8 +2,9 @@
 import ContentLayout from "../../layouts/content.astro";
 
 export async function getStaticPaths({ paginate }) {
-	const posts = (await Astro.glob("../../_content/nieuws/**/*.{md,mdx}")).sort(
-		(a, b) =>
+	const newsFiles = import.meta.glob("../../_content/nieuws/**/*.{md,mdx}", { eager: true });
+	const posts = Object.values(newsFiles).sort(
+		(a: any, b: any) =>
 			new Date(b.frontmatter.date).valueOf() -
 			new Date(a.frontmatter.date).valueOf()
 	);

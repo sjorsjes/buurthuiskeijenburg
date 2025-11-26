@@ -1,11 +1,10 @@
 ---
-const [{ Content, frontmatter }] = (
-	await Astro.glob("../_content/nieuws/**/*.{md,mdx}")
-).sort(
-	(a, b) =>
+const newsFiles = import.meta.glob("../_content/nieuws/**/*.{md,mdx}", { eager: true });
+const [{ Content, frontmatter }] = Object.values(newsFiles).sort(
+	(a: any, b: any) =>
 		new Date(b.frontmatter.date).valueOf() -
 		new Date(a.frontmatter.date).valueOf()
-);
+) as any[];
 ---
 
 <article class="content container text-center">

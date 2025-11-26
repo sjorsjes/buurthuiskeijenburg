@@ -1,7 +1,12 @@
 ---
-const posts = await Astro.glob(
-	"../pages/activiteiten/vaste-activiteiten/**/*.{md,mdx}"
+const postFiles = import.meta.glob(
+	"../pages/activiteiten/vaste-activiteiten/**/*.{md,mdx}",
+	{ eager: true }
 );
+const posts = Object.entries(postFiles).map(([path, module]: [string, any]) => ({
+	...module,
+	url: path.replace('../pages', '').replace('.md', '').replace('.mdx', ''),
+}));
 ---
 
 <div class="services">

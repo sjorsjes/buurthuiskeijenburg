@@ -1,0 +1,12 @@
+---
+import FotoAlbum from '../../_fotoalbum.astro';
+
+export const title = "Dans en Muziekmiddagen"
+
+const imageImports = import.meta.glob('../../../../../public/images/fotoalbums/2025/dans en muziekmiddagen/*.{jpeg,jpg,png,gif}', { eager: true });
+
+const images = Object.values(imageImports).map((img) => img.default);
+---
+
+<FotoAlbum title={title} images={images} />
+

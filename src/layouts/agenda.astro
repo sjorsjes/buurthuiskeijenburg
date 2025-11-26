@@ -5,7 +5,13 @@ import Content from "../components/Content.astro";
 
 import agenda, { formatDay } from "../js/agenda";
 
-const allItems = await Astro.glob(`../pages/activiteiten/agenda/**/*.md`);
+// Convert import.meta.glob to array format matching old Astro.glob output
+const agendaFiles = import.meta.glob('../pages/activiteiten/agenda/**/*.md', { eager: true });
+const allItems = Object.entries(agendaFiles).map(([path, module]: [string, any]) => ({
+	...module,
+	url: path.replace('../pages', '').replace('.md', ''),
+}));
+
 const upcoming3Months = agenda(allItems);
 
 const { frontmatter } = Astro.props;

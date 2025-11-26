@@ -2,9 +2,13 @@
 import BaseLayout from "./base.astro";
 import Content from "../components/Content.astro";
 
-const verenigingen = (
-	await Astro.glob("../pages/verenigingen/*.{md,mdx}")
-).sort((a, b) => a.frontmatter.title - b.frontmatter.title);
+const verenigingenFiles = import.meta.glob("../pages/verenigingen/*.{md,mdx}", { eager: true });
+const verenigingen = Object.entries(verenigingenFiles)
+	.map(([path, module]: [string, any]) => ({
+		...module,
+		url: path.replace('../pages', '').replace('.md', '').replace('.mdx', ''),
+	}))
+	.sort((a, b) => a.frontmatter.title.localeCompare(b.frontmatter.title));
 
 const { frontmatter } = Astro.props;
 ---
