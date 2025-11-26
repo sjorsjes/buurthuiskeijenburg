@@ -1,5 +1,5 @@
 ---
-date: 2025-23-16
+date: 2025-10-16
 ---
 
 ## Wees welkom bij Buurthuis Keijenburg!

@@ -4,7 +4,7 @@ date: 2025-11-26
 
 ## Wees welkom bij Buurthuis Keijenburg!
 
-## In the spotlight; Smidje Verholen op 10 januarie 2026!
+## In the spotlight; Smidje Verholen op 10 januari 2026!
 zie de flyer hieronder!
 Kaartverkoop is gestart.
 
@@ -18,3 +18,5 @@ Van 22 dec tm 4 jan 2026 zijn wij gesloten en genieten onze keijen van vrijwilll
 
 ## Wij wensen u fijne feestdagen!
 Team Keijenburg.
+
+[![Flyer](/images/content/smidje-verholen_small.jpg)](/images/content/smidje-verholen.jpg)
