@@ -25,15 +25,19 @@
         },
         {
           "name": "Giel",
-          "image": "vrijwilligers/giel.png"       
+          "image": "vrijwilligers/giel.png"
         },
         {
           "name": "Gijs",
           "image": "vrijwilligers/gijs.png"
         },
         {
-          "name": "Hennie",
-          "image": "vrijwilligers/hennie.png"
+          "name": "Greet",
+          "image": "vrijwilligers/greet.png"
+        },
+        {
+          "name": "Henny",
+          "image": "vrijwilligers/henny.png"
         },
         {
           "name": "Janny",
@@ -65,7 +69,7 @@
         },
         {
           "name": "Marionne",
-          "image": "anoniem.png"
+          "image": "vrijwilligers/marionne.png"
         },
         {
           "name": "Mieke",
@@ -84,6 +88,14 @@
           "image": "vrijwilligers/peter.png"
         },
         {
+          "name": "Piet",
+          "image": "vrijwilligers/piet.png"
+        },
+        {
+          "name": "Qasim",
+          "image": "vrijwilligers/qasim.png"
+        },
+        {
           "name": "Ria",
           "image": "vrijwilligers/ria.png"
         },
@@ -100,16 +112,12 @@
           "image": "vrijwilligers/suzan.png"
         },
         {
-          "name": "Qasim",
-          "image": "vrijwilligers/qasim.png"        
-        },
-        {
           "name": "Willem",
-          "image": "vrijwilligers/willem.png"       
+          "image": "vrijwilligers/willem.png"
         },
         {
           "name": "Willy",
-          "image": "vrijwilligers/willy.png"       
+          "image": "vrijwilligers/willy.png"
         }
       ]
     },
