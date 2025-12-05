@@ -21,7 +21,14 @@ Tijd; 13.30 - 16.30 uur
 Aanmelden is niet nodig en aanhaken kan,
 Elke 6 weken aanwezig zijn is wel een must.
 
-(Data zijn voorlopig 28 nov, 9 jan, 20 feb, 3 apr)
+(Data zijn voorlopig 9 jan, 20 feb, 3 apr, 15 mei en 26 juni)
 
 Deelname is gratis en 1 kopje koffie/thee is inbegrepen.
+
+Boek keuzes:
+- 9 jan: Onder de Paramariboom - Johan Fretz.
+- 20 feb: Eiland onder de zon - Isabelle Allende.
+- 3 april: De verloren familie - -Jenna Blum.
+- 15 mei: Het einde van de zomer - -Danielle Steel.
+- 26 juni: Het huis aan het water - Kirstin Hannah.
 
