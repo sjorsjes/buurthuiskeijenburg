@@ -8,7 +8,7 @@ Gun jezelf een moment van volledige rust. Tijdens deze unieke begeleide Relax-se
 je jezelf onder in een uur van pure ontspanning - waar adem, klank en stilte samenkomen.
 * Geniet van een uur volledige ontspanning en rust.
 * Leer ademhalingstechnieken voor je dagelijkse stressverlichting.
-* Ontdek miditatie om j geest te kalmeren en helderheid te creeeren.
+* Ontdek miditatie om je geest te kalmeren en helderheid te creeeren.
 * Laat je meevoeren door de rustgevende klanken van muziek en klankinstrumenten.
 * Bouw positieve gewoonten op voor langdurige mentale gezondheid.
 * Ervaar onmiddelijke voordelen in jouw welzijn na een sessie.
@@ -22,10 +22,11 @@ Door de afwisseling in muziek, meditatie, ademhalingsoefeningen en stilte.
 
 Al na een sessie ervaar je een merkbaar verschil in je energie en welzijn.
 
-De relaxsessie zijn 2 maal per weer.
+De relaxsessie zijn 2 maal per maand.
 - Donderdag avond 19.15 - 20.30 uur
 - Vrijdag ochtend 9.15 - 10.30 uur
 De relaxsessies worden verzorgd voor dames.
+(op de yogazoler; geen lift aanwezig)
 
 Aanmelden kan via https://daphnebuijk.nl/relax-sessies/
 
