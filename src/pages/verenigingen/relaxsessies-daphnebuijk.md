@@ -34,3 +34,38 @@ Heb je vragen?
 Neem vrijblijven contact met me op!
 0613937502
 contact@daphnebuijk.nl
+
+Data 2026:
+Donderdag 8 januari 2026 19:00-20:30 uur
+Vrijdag 9 januari 2026 9:00-10:30 uur
+ 
+Donderdag 5 februari  2026 19:00-20:30 uur
+Vrijdag 6 februari 2026 9:00-10:30 uur
+ 
+Donderdag 5 maart  2026 19:00-20:30 uur
+Vrijdag 6 maart  2026 9:00-10:30 uur
+ 
+Donderdag 2 april i 2026 19:00-20:30 uur
+Vrijdag 3 april 2026 9:00-10:30 uur
+ 
+Donderdag 7 mei  2026 19:00-20:30 uur
+Vrijdag 8 mei 2026 9:00-10:30 uur
+ 
+Donderdag 4 juni  2026 19:00-20:30 uur
+Vrijdag 5 juni 2026 9:00-10:30 uur
+ 
+Donderdag 2 juli 2026 19:00-20:30 uur
+Vrijdag 3 juli 2026 9:00-10:30 uur
+ 
+Donderdag 3 september  2026 19:00-20:30 uur
+Vrijdag 4 september 2026 9:00-10:30 uur
+ 
+Donderdag1 oktober 2026 19:00-20:30 uur
+Vrijdag 2 oktober 2026 9:00-10:30 uur
+ 
+Donderdag 5 november  2026 19:00-20:30 uur
+Vrijdag 6 november 2026 9:00-10:30 uur
+ 
+Donderdag 3 december 2026 19:00-20:30 uur
+Vrijdag 4 december 2026 9:00-10:30 uur
+ 
