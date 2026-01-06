@@ -131,8 +131,8 @@
           "name": "avond",
           "activities": [
             { "name": "Line Dance met Antoinette", "url": "/verenigingen/line-dance-antoinette/" },
-            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" }
-            { "name": "Relaxsessie met Daphne Buijk (2x per maand)", "url": "/verenigingen/relaxsessies-daphnebuijk/" },              
+            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" },
+            { "name": "Relaxsessie met Daphne Buijk (2x per maand)", "url": "/verenigingen/relaxsessies-daphnebuijk/" }              
           ]
         }
       ]
