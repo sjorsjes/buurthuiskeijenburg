@@ -8,9 +8,8 @@ date: 2026-08-01
 ## Bingo 9 jan; geannuleerd!
 Ivm het winterse weer is de Bingo van vrijdag 9 jan afgelast!
 
-## Smidje Verholen 10 jan; verzet wegens het slechte weer!
-Doot de weersomstandigheden van afgelopen dagen en de nog onvoorspelbare verwachtingen van regen, sneeuw en vorst as vrijdag alsmede de flinke weersverandering die aanstaande zaterdag wordt verwacht, hebben we in samenspraak met elkaar besloten het optreden van 
-## Smidje Verholen te verplaatsen naar zondagmiddag 8 maart. 
+## Smidje Verholen 10 jan; verzet naar 8 maart wegens het slechte weer!
+Doot de weersomstandigheden van afgelopen dagen en de nog onvoorspelbare verwachtingen van regen, sneeuw en vorst as vrijdag alsmede de flinke weersverandering die aanstaande zaterdag wordt verwacht, hebben we in samenspraak met elkaar besloten het optreden van Smidje Verholen te verplaatsen naar zondagmiddag 8 maart. 
 De zaal zal dan openen om 13 uur en het optreden start om 14 uur.
 Heeft u al kaarten dan zijn deze gewoon geldig op 8 maart. Degene die deze datum niet kunnen maar al wel kaarten hebben kunnen deze vanaf as maandag 12 januari terug inleveren aan de bar en hun geld terug krijgen. Mensen die met een tikkie hebben betaald worden persoonlijk benaderd.
 We begrijpen dat dit voor een aantal mensen een teleurstelling zal zijn maar wij zien iedereen graag gezond en heel blijven.
