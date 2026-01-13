@@ -11,6 +11,7 @@ Smidje verholen - wie kent ze niet..- treed op in ons buurthuis.
 Aanvangsttijd: 19.00 uur.
 Start Smidje; 20.00 uur.
 
+[![Flyer](/images/content/smidje-small.jpg)](/images/content/smidje.png)
 
 Kosten:
 Entree is 10 euro PP. Dit is inclusief 1 consumptie.

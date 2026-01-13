@@ -19,4 +19,4 @@ Van 22 dec tm 4 jan 2026 zijn wij gesloten en genieten onze keijen van vrijwilll
 ## Wij wensen u fijne feestdagen!
 Team Keijenburg.
 
-[![Flyer](/images/content/smidje-verholen_small.jpg)](/images/content/smidje-verholen.jpg)
+[![Flyer](/images/content/smidje-small.jpg)](/images/content/smidje.png)

@@ -27,4 +27,6 @@ kom jij erbij? Mail naar hilja@buurthuiskeijenburg.nl
 Zaterdag 10 januari een warme avond bij Keijenburg met Smidje Verholen!
 (zie agenda voor meer info)
 
+[![Flyer](/images/content/afterglow-small.jpg)](/images/content/afterglow.jpg)
+
 ![Flyer](/images/content/flyer-bestuurslid.jpg)
