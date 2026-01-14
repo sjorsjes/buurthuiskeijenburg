@@ -14,7 +14,10 @@ kom jij erbij? Mail naar hilja@buurthuiskeijenburg.nl
 ## Voor de agenda:
 - Donderdag 15 Jan; Senioren Roosendaal Bonte middag met bubbels.
 - Vrijdag 13 feb; Bingo!
-- Zondag 22 Maart; Keijsoos met de band Afterglow! (info zie agenda)
+- 14 en 15 maart spelt Komedikato
+- Zondag 8 Maart; Smidje Verholen
+- Zondag 22 Maart; Keijsoos met de band Afterglow!
+(voor meer info zie de agenda)
 
 [![Flyer](/images/content/afterglow-small.jpg)](/images/content/afterglow.jpg)
 
