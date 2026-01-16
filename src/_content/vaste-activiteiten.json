@@ -9,7 +9,7 @@
           "activities": [
             { "name": "BC Keijenburg" },
             { "name": "Quilting Bee (1ste maandag v.d. mnd)" },
-            { "name": "Yoga van Lia", "url": "/verenigingen/yoga-lia/" },
+            { "name": "Yoga van Lia", "url": "/verenigingen/yoga-lia/" }
           ]
         },
         {
@@ -80,7 +80,7 @@
             { "name": "BC Keijenburg" },
             { "name": "CreaKeijen", "url": "/verenigingen/creakeijen/" },
             { "name": "KaartKeijen", "url": "/verenigingen/kaartkeijen/" },
-            { "name": "Nederlandse les Bharosa Taaluiting" },
+            { "name": "Nederlandse les Bharosa Taaluiting" }
           ]
         },
         {
@@ -116,10 +116,10 @@
             { "name": "Nederlandse les Bharosa Taaluiting" },
             { "name": "Senioren Roosendaal (voorheen KBO) (3e donderdag van de maand)", "url": "/activiteiten/vaste-activiteiten/senioren-roosendaal/" },
             { "name": "Gymgroep VIB" },
-            { "name": "Biljart" }
+            { "name": "Biljart" },
             { "name": "Kinderyoga de Yogazolder  7 - 9 jaar", "url": "/verenigingen/kinderyoga-deyogazolder/" },
-            { "name": "Kinderyoga de Yogazolder  10 - 12 jaar", "url": "/verenigingen/kinderyoga-deyogazolder/" },
-                ]
+            { "name": "Kinderyoga de Yogazolder  10 - 12 jaar", "url": "/verenigingen/kinderyoga-deyogazolder/" }
+          ]
         },
         {
           "name": "avond",
@@ -158,7 +158,7 @@
           "activities": [
             { "name": "Stijldansclub Keijenburg", "url": "/verenigingen/dansclub-keijenburg/" },
             { "name": "Dungeons & Dragons (1 a 2 x per maand)" },
-            { "name": "Carnavalsband Woensdag Gak’tdag (sept - feb)", "url": "/verenigingen/woensdag-gaktdag/" }
+            { "name": "Carnavalsband Woensdag Gak'tdag (sept - feb)", "url": "/verenigingen/woensdag-gaktdag/" }
           ]
         }
       ]
