@@ -14,7 +14,7 @@ kom jij erbij? Mail naar hilja@buurthuiskeijenburg.nl
 ## Voor de agenda:
 - Donderdag 15 Jan; Senioren Roosendaal Bonte middag met bubbels.
 - Vrijdag 13 feb; Bingo!
-- 14 en 15 maart spelt Komedikato
+- 14 en 15 maart speelt Komedikato
 - Zondag 8 Maart; Smidje Verholen
 - Zondag 22 Maart; Keijsoos met de band Afterglow!
 (voor meer info zie de agenda)
