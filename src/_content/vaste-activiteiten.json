@@ -10,7 +10,7 @@
             { "name": "BC Keijenburg" },
             { "name": "Quilting Bee (1ste maandag v.d. mnd)" },
             { "name": "Yoga van Lia", "url": "/verenigingen/yoga-lia/" }
-          ]
+            { "name": "Prikpost Star SHL (8-9 uur smorgens" }          ]
         },
         {
           "name": "middag",
@@ -26,7 +26,7 @@
             { "name": "Roosendaals Kamerkoor", "url": "/verenigingen/roosendaals-kamerkoor/" },
             { "name": "Fotowerkgroep Roosendaal (2e ma v.d. mnd)", "url": "/verenigingen/fotowerkgroep-roosendaal/" },
             { "name": "Meander Koor", "url": "/verenigingen/meander-koor/" }
-          ]
+            { "name": "Hilda Nollen Yoga (1x per maand)" }          ]
         }
       ]
     },
@@ -46,7 +46,7 @@
           "activities": [
             { "name": "Biljart Keijenburg 77", "url": "/verenigingen/biljartclub-keijenburg77/" },
             { "name": "Nederlandse les Bharosa Taaluiting" },
-            { "name": "Caeser Therapie" },
+            { "name": "Casar Therapie" },
             { "name": "The Op-Sound", "url": "/verenigingen/the-op-sound/" }
           ]
         },
@@ -55,9 +55,9 @@
           "activities": [
             { "name": "Damvereniging de Schijf", "url": "/verenigingen/damvereniging-de-schijf/" },
             { "name": "Komedikato", "url": "/verenigingen/komedikato/" },
-            { "name": "Schotse dansgroep Schiehallion", "url": "/verenigingen/schotse-dansgroep-schiehallion/" },
+            { "name": "Schotse dansgroep Schiehallion (3x per maand)", "url": "/verenigingen/schotse-dansgroep-schiehallion/" },
             { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" }
-          ]
+            { "name": "Dansavond 80's (1x per maand)" }          ]
         }
       ]
     },
@@ -72,7 +72,7 @@
             { "name": "Yoga van Lia", "url": "/verenigingen/yoga-lia/" },
             { "name": "Nederlandse les Bharosa Taaluiting" },
             { "name": "Soepuurtje", "url": "/activiteiten/vaste-activiteiten/soepuurtje/" }
-          ]
+            { "name": "Biljart" }          ]
         },
         {
           "name": "middag",
@@ -81,7 +81,7 @@
             { "name": "CreaKeijen", "url": "/verenigingen/creakeijen/" },
             { "name": "KaartKeijen", "url": "/verenigingen/kaartkeijen/" },
             { "name": "Nederlandse les Bharosa Taaluiting" }
-          ]
+            { "name": "De Knutseltjes" }          ]
         },
         {
           "name": "avond",
@@ -90,7 +90,8 @@
             { "name": "Nouveau", "url": "/verenigingen/nouveau/" },
             { "name": "VOGG (2e wo v.d. mnd)", "url": "/verenigingen/vogg/" },
             { "name": "Biljart" }
-          ]
+            { "name": "Praktijk LinQ (1x per maand)" }    
+            { "name": "Depressie vereniging (1x per maand)" }          ]
         }
       ]
     },
@@ -101,6 +102,7 @@
           "name": "ochtend",
           "activities": [
             { "name": "Wandelclub de wandelkeijen om 10 uur", "url": "/verenigingen/wandelkeijen/" },
+            { "name": "Prikpost Star SHL (8-9 uur smorgens" }  
             { "name": "Bewegen op muziek, ja voor iedereen!", "url": "/verenigingen/bewegen-op-muziek-voor-iedereen/" },
             { "name": "BC Keijenburg" },
             { "name": "Nederlandse les Bharosa Taaluiting" },
@@ -125,7 +127,7 @@
           "name": "avond",
           "activities": [
             { "name": "Line Dance met Antoinette", "url": "/verenigingen/line-dance-antoinette/" },
-            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" },
+            { "name": "Dansschool Quick en Slow", "url": "/verenigingen/dansschool-quick-and-slow/" },
             { "name": "Relaxsessie met Daphne Buijk (2x per maand do/vr)", "url": "/verenigingen/relaxsessies-daphnebuijk/" }              
           ]
         }
@@ -150,8 +152,8 @@
             { "name": "Biljart Fatima", "url": "/verenigingen/biljartclub-maandag-vrijdagmiddag/" },
             { "name": "Bingo Keijenburg (2e vrijdag v.d. mnd)", "url": "/verenigingen/bingo-keijenburg/" },
             { "name": "leeskeijen Elke 6 weken", "url": "/verenigingen/leeskeijen/" },       
-            { "name": "Keytime eens per maand" }
-          ]
+            { "name": "Stichting Carpe Diem eens per maand" }
+            { "name": "Liesdesign 1x per maand" }          ]
         },
         {
           "name": "avond",
