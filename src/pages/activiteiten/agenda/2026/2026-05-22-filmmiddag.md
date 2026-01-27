@@ -27,5 +27,4 @@ Data 2026 zijn:
 - vrijdagmiddag 27 Maart
 - vrijdagmiddag 22 mei
 - vrijdagmiddag 2 okt
-- woensdagmiddag 21 oktober (kinderfilm in de herfstvakantie)
 - vrijdagmiddag 4 december
