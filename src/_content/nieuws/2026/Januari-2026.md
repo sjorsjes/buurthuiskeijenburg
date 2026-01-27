@@ -32,6 +32,9 @@ Natuurlijk gaan we dit vieren. Uitnodigingen volgen...
 - Zondag 29 Maart; Najaarsbeurs Creaveres
 (voor meer info zie de agenda)
 
+[![Flyer](/images/content/keikesbal_small.jpg)](/images/content/keikesbal.jpg)
+
+[![Flyer](/images/content/ut-groot-keijenbal_small.jpg)](/images/content/ut-groot-keijenbal.jpg)
+
 [![Flyer](/images/content/afterglow-small.jpg)](/images/content/afterglow.jpg)
 
-![Flyer](/images/content/flyer-bestuurslid.jpg)
