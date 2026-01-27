@@ -7,26 +7,56 @@
         {
           "name": "ochtend",
           "activities": [
-            { "name": "BC Keijenburg" },
-            { "name": "Quilting Bee (1ste maandag v.d. mnd)" },
-            { "name": "Yoga van Lia", "url": "/verenigingen/yoga-lia/" }
-            { "name": "Prikpost Star SHL (8-9 uur smorgens" }          ]
+            {
+              "name": "BC Keijenburg"
+            },
+            {
+              "name": "Quilting Bee (1ste maandag v.d. mnd)"
+            },
+            {
+              "name": "Yoga van Lia",
+              "url": "/verenigingen/yoga-lia/"
+            },
+            {
+              "name": "Prikpost Star SHL (8-9 uur smorgens"
+            }
+          ]
         },
         {
           "name": "middag",
           "activities": [
-            { "name": "Biljart Fatima", "url": "/verenigingen/biljartclub-maandag-vrijdagmiddag/" },
-            { "name": "Schildersvereniging met Verve", "url": "/verenigingen/schildersvereniging-metverve/" },
-            { "name": "Nederlandse les Bharosa Taaluiting" }
+            {
+              "name": "Biljart Fatima",
+              "url": "/verenigingen/biljartclub-maandag-vrijdagmiddag/"
+            },
+            {
+              "name": "Schildersvereniging met Verve",
+              "url": "/verenigingen/schildersvereniging-metverve/"
+            },
+            {
+              "name": "Nederlandse les Bharosa Taaluiting"
+            }
           ]
         },
         {
           "name": "avond",
           "activities": [
-            { "name": "Roosendaals Kamerkoor", "url": "/verenigingen/roosendaals-kamerkoor/" },
-            { "name": "Fotowerkgroep Roosendaal (2e ma v.d. mnd)", "url": "/verenigingen/fotowerkgroep-roosendaal/" },
-            { "name": "Meander Koor", "url": "/verenigingen/meander-koor/" }
-            { "name": "Hilda Nollen Yoga (1x per maand)" }          ]
+            {
+              "name": "Roosendaals Kamerkoor",
+              "url": "/verenigingen/roosendaals-kamerkoor/"
+            },
+            {
+              "name": "Fotowerkgroep Roosendaal (2e ma v.d. mnd)",
+              "url": "/verenigingen/fotowerkgroep-roosendaal/"
+            },
+            {
+              "name": "Meander Koor",
+              "url": "/verenigingen/meander-koor/"
+            },
+            {
+              "name": "Hilda Nollen Yoga (1x per maand)"
+            }
+          ]
         }
       ]
     },
@@ -36,28 +66,60 @@
         {
           "name": "ochtend",
           "activities": [
-            { "name": "BC Keijenburg" },
-            { "name": "Nederlandse les Bharosa Taaluiting" },
-            { "name": "Koersbal", "url": "/verenigingen/koersbal/" }
+            {
+              "name": "BC Keijenburg"
+            },
+            {
+              "name": "Nederlandse les Bharosa Taaluiting"
+            },
+            {
+              "name": "Koersbal",
+              "url": "/verenigingen/koersbal/"
+            }
           ]
         },
         {
           "name": "middag",
           "activities": [
-            { "name": "Biljart Keijenburg 77", "url": "/verenigingen/biljartclub-keijenburg77/" },
-            { "name": "Nederlandse les Bharosa Taaluiting" },
-            { "name": "Casar Therapie" },
-            { "name": "The Op-Sound", "url": "/verenigingen/the-op-sound/" }
+            {
+              "name": "Biljart Keijenburg 77",
+              "url": "/verenigingen/biljartclub-keijenburg77/"
+            },
+            {
+              "name": "Nederlandse les Bharosa Taaluiting"
+            },
+            {
+              "name": "Casar Therapie"
+            },
+            {
+              "name": "The Op-Sound",
+              "url": "/verenigingen/the-op-sound/"
+            }
           ]
         },
         {
           "name": "avond",
           "activities": [
-            { "name": "Damvereniging de Schijf", "url": "/verenigingen/damvereniging-de-schijf/" },
-            { "name": "Komedikato", "url": "/verenigingen/komedikato/" },
-            { "name": "Schotse dansgroep Schiehallion (3x per maand)", "url": "/verenigingen/schotse-dansgroep-schiehallion/" },
-            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" }
-            { "name": "Dansavond 80's (1x per maand)" }          ]
+            {
+              "name": "Damvereniging de Schijf",
+              "url": "/verenigingen/damvereniging-de-schijf/"
+            },
+            {
+              "name": "Komedikato",
+              "url": "/verenigingen/komedikato/"
+            },
+            {
+              "name": "Schotse dansgroep Schiehallion (3x per maand)",
+              "url": "/verenigingen/schotse-dansgroep-schiehallion/"
+            },
+            {
+              "name": "Spaanse les Comlex",
+              "url": "/verenigingen/spaanse-les-comlex/"
+            },
+            {
+              "name": "Dansavond 80's (1x per maand)"
+            }
+          ]
         }
       ]
     },
@@ -67,31 +129,77 @@
         {
           "name": "ochtend",
           "activities": [
-            { "name": "Meer Bewegen Voor Ouderen", "url": "/verenigingen/meer-bewegen-voor-ouderen/" },
-            { "name": "Lapjesberg", "url": "/verenigingen/lapjesberg/" },
-            { "name": "Yoga van Lia", "url": "/verenigingen/yoga-lia/" },
-            { "name": "Nederlandse les Bharosa Taaluiting" },
-            { "name": "Soepuurtje", "url": "/activiteiten/vaste-activiteiten/soepuurtje/" }
-            { "name": "Biljart" }          ]
+            {
+              "name": "Meer Bewegen Voor Ouderen",
+              "url": "/verenigingen/meer-bewegen-voor-ouderen/"
+            },
+            {
+              "name": "Lapjesberg",
+              "url": "/verenigingen/lapjesberg/"
+            },
+            {
+              "name": "Yoga van Lia",
+              "url": "/verenigingen/yoga-lia/"
+            },
+            {
+              "name": "Nederlandse les Bharosa Taaluiting"
+            },
+            {
+              "name": "Soepuurtje",
+              "url": "/activiteiten/vaste-activiteiten/soepuurtje/"
+            },
+            {
+              "name": "Biljart"
+            }
+          ]
         },
         {
           "name": "middag",
           "activities": [
-            { "name": "BC Keijenburg" },
-            { "name": "CreaKeijen", "url": "/verenigingen/creakeijen/" },
-            { "name": "KaartKeijen", "url": "/verenigingen/kaartkeijen/" },
-            { "name": "Nederlandse les Bharosa Taaluiting" }
-            { "name": "De Knutseltjes" }          ]
+            {
+              "name": "BC Keijenburg"
+            },
+            {
+              "name": "CreaKeijen",
+              "url": "/verenigingen/creakeijen/"
+            },
+            {
+              "name": "KaartKeijen",
+              "url": "/verenigingen/kaartkeijen/"
+            },
+            {
+              "name": "Nederlandse les Bharosa Taaluiting"
+            },
+            {
+              "name": "De Knutseltjes"
+            }
+          ]
         },
         {
           "name": "avond",
           "activities": [
-            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" },
-            { "name": "Nouveau", "url": "/verenigingen/nouveau/" },
-            { "name": "VOGG (2e wo v.d. mnd)", "url": "/verenigingen/vogg/" },
-            { "name": "Biljart" }
-            { "name": "Praktijk LinQ (1x per maand)" }    
-            { "name": "Depressie vereniging (1x per maand)" }          ]
+            {
+              "name": "Spaanse les Comlex",
+              "url": "/verenigingen/spaanse-les-comlex/"
+            },
+            {
+              "name": "Nouveau",
+              "url": "/verenigingen/nouveau/"
+            },
+            {
+              "name": "VOGG (2e wo v.d. mnd)",
+              "url": "/verenigingen/vogg/"
+            },
+            {
+              "name": "Biljart"
+            },
+            {
+              "name": "Praktijk LinQ (1x per maand)"
+            },
+            {
+              "name": "Depressie vereniging (1x per maand)"
+            }
+          ]
         }
       ]
     },
@@ -101,34 +209,82 @@
         {
           "name": "ochtend",
           "activities": [
-            { "name": "Wandelclub de wandelkeijen om 10 uur", "url": "/verenigingen/wandelkeijen/" },
-            { "name": "Prikpost Star SHL (8-9 uur smorgens" }  
-            { "name": "Bewegen op muziek, ja voor iedereen!", "url": "/verenigingen/bewegen-op-muziek-voor-iedereen/" },
-            { "name": "BC Keijenburg" },
-            { "name": "Nederlandse les Bharosa Taaluiting" },
-            { "name": "Spaanse les Comlex", "url": "/verenigingen/spaanse-les-comlex/" },
-            { "name": "Kantklossen (om de week)", "url": "/verenigingen/kantklossen/" },
-            { "name": "Soepuurtje", "url": "/activiteiten/vaste-activiteiten/soepuurtje/" }
+            {
+              "name": "Wandelclub de wandelkeijen om 10 uur",
+              "url": "/verenigingen/wandelkeijen/"
+            },
+            {
+              "name": "Prikpost Star SHL (8-9 uur smorgens"
+            },
+            {
+              "name": "Bewegen op muziek, ja voor iedereen!",
+              "url": "/verenigingen/bewegen-op-muziek-voor-iedereen/"
+            },
+            {
+              "name": "BC Keijenburg"
+            },
+            {
+              "name": "Nederlandse les Bharosa Taaluiting"
+            },
+            {
+              "name": "Spaanse les Comlex",
+              "url": "/verenigingen/spaanse-les-comlex/"
+            },
+            {
+              "name": "Kantklossen (om de week)",
+              "url": "/verenigingen/kantklossen/"
+            },
+            {
+              "name": "Soepuurtje",
+              "url": "/activiteiten/vaste-activiteiten/soepuurtje/"
+            }
           ]
         },
         {
           "name": "middag",
           "activities": [
-            { "name": "Wijktafel burgerhout (1x per kwartaal)", "url": "/activiteiten/vaste-activiteiten/wijktafel-burgerhout/" },
-            { "name": "Nederlandse les Bharosa Taaluiting" },
-            { "name": "Senioren Roosendaal (voorheen KBO) (3e donderdag van de maand)", "url": "/activiteiten/vaste-activiteiten/senioren-roosendaal/" },
-            { "name": "Gymgroep VIB" },
-            { "name": "Biljart" },
-            { "name": "Kinderyoga de Yogazolder  7 - 9 jaar", "url": "/verenigingen/kinderyoga-deyogazolder/" },
-            { "name": "Kinderyoga de Yogazolder  10 - 12 jaar", "url": "/verenigingen/kinderyoga-deyogazolder/" }
+            {
+              "name": "Wijktafel burgerhout (1x per kwartaal)",
+              "url": "/activiteiten/vaste-activiteiten/wijktafel-burgerhout/"
+            },
+            {
+              "name": "Nederlandse les Bharosa Taaluiting"
+            },
+            {
+              "name": "Senioren Roosendaal (voorheen KBO) (3e donderdag van de maand)",
+              "url": "/activiteiten/vaste-activiteiten/senioren-roosendaal/"
+            },
+            {
+              "name": "Gymgroep VIB"
+            },
+            {
+              "name": "Biljart"
+            },
+            {
+              "name": "Kinderyoga de Yogazolder  7 - 9 jaar",
+              "url": "/verenigingen/kinderyoga-deyogazolder/"
+            },
+            {
+              "name": "Kinderyoga de Yogazolder  10 - 12 jaar",
+              "url": "/verenigingen/kinderyoga-deyogazolder/"
+            }
           ]
         },
         {
           "name": "avond",
           "activities": [
-            { "name": "Line Dance met Antoinette", "url": "/verenigingen/line-dance-antoinette/" },
-            { "name": "Dansschool Quick en Slow", "url": "/verenigingen/dansschool-quick-and-slow/" },
-            { "name": "Relaxsessie met Daphne Buijk (2x per maand do/vr)", "url": "/verenigingen/relaxsessies-daphnebuijk/" }              
+            {
+              "name": "Line Dance met Antoinette",
+              "url": "/verenigingen/line-dance-antoinette/"
+            },
+            {
+              "name": "Dansschool Quick en Slow",
+              "url": "/verenigingen/dansschool-quick-and-slow/"
+            },
+            {
+              "name": "Relaxsessie met Daphne Buijk (2x per maand do/vr)",
+              "url": "/verenigingen/relaxsessies-daphnebuijk/"
+            }
           ]
         }
       ]
@@ -139,28 +295,63 @@
         {
           "name": "ochtend",
           "activities": [
-            { "name": "Bewegen op Muziek Keijenburg", "url": "/verenigingen/bom-keijenburg/" },
-            { "name": "Smartlappenkoor de Wieken", "url": "/verenigingen/smartlappenkoor-de-wieken/" },
-            { "name": "Relaxsessie met Daphne Buijk (2x per maand do/vr)", "url": "/verenigingen/relaxsessies-daphnebuijk/" },            
-            { "name": "Biljart KB-Veteranen" },
-            { "name": "Nederlandse les Bharosa Taaluiting" }
+            {
+              "name": "Bewegen op Muziek Keijenburg",
+              "url": "/verenigingen/bom-keijenburg/"
+            },
+            {
+              "name": "Smartlappenkoor de Wieken",
+              "url": "/verenigingen/smartlappenkoor-de-wieken/"
+            },
+            {
+              "name": "Relaxsessie met Daphne Buijk (2x per maand do/vr)",
+              "url": "/verenigingen/relaxsessies-daphnebuijk/"
+            },
+            {
+              "name": "Biljart KB-Veteranen"
+            },
+            {
+              "name": "Nederlandse les Bharosa Taaluiting"
+            }
           ]
         },
         {
           "name": "middag",
           "activities": [
-            { "name": "Biljart Fatima", "url": "/verenigingen/biljartclub-maandag-vrijdagmiddag/" },
-            { "name": "Bingo Keijenburg (2e vrijdag v.d. mnd)", "url": "/verenigingen/bingo-keijenburg/" },
-            { "name": "leeskeijen Elke 6 weken", "url": "/verenigingen/leeskeijen/" },       
-            { "name": "Stichting Carpe Diem eens per maand" }
-            { "name": "Liesdesign 1x per maand" }          ]
+            {
+              "name": "Biljart Fatima",
+              "url": "/verenigingen/biljartclub-maandag-vrijdagmiddag/"
+            },
+            {
+              "name": "Bingo Keijenburg (2e vrijdag v.d. mnd)",
+              "url": "/verenigingen/bingo-keijenburg/"
+            },
+            {
+              "name": "leeskeijen Elke 6 weken",
+              "url": "/verenigingen/leeskeijen/"
+            },
+            {
+              "name": "Stichting Carpe Diem eens per maand"
+            },
+            {
+              "name": "Liesdesign 1x per maand"
+            }
+          ]
         },
         {
           "name": "avond",
           "activities": [
-            { "name": "Stijldansclub Keijenburg", "url": "/verenigingen/dansclub-keijenburg/" },
-            { "name": "Dungeons & Dragons (1 a 2 x per maand)" },
-            { "name": "Carnavalsband Woensdag Gak'tdag (sept - feb)", "url": "/verenigingen/woensdag-gaktdag/" }
+            {
+              "name": "Stijldansclub Keijenburg",
+              "url": "/verenigingen/dansclub-keijenburg/"
+            },
+            {
+              "name": "Dungeons & Dragons (1 a 2 x per maand)"
+            },
+            {
+              "name": "Carnavalsband Woensdag Gak'tdag (sept - feb)",
+              "url": "/verenigingen/woensdag-gaktdag/"
+            }
           ]
         }
       ]
