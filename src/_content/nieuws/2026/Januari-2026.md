@@ -17,6 +17,10 @@ U kunt gerust binnenlopen.
 
 We heten u graag welkom!
 
+## Wist u dat:
+Keijenburg op 26 januari 2026 al 95 jaar bestaat!! Daar zijn we ontzettend trots op!
+Natuurlijk gaan we dit vieren. Uitnodigingen volgen...
+
 ## Voor de agenda:
 - Zaterdag 7 feb; Keikesbal kindercarnaval
 - Zaterdag 7 feb; Carnaval met Quick en Slow
