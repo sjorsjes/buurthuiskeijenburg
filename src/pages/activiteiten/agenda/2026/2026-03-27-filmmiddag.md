@@ -26,5 +26,5 @@ En mocht je wensen hebben voor films die we de volgende keer kunnen vertonen... 
 Data 2026 zijn:
 - vrijdagmiddag 27 Maart
 - vrijdagmiddag 22 mei
-- vrijdagmiddag 2 okt
+- vrijdagmiddag 23 okt (herfstvakantie)
 - vrijdagmiddag 4 december
