@@ -2,14 +2,14 @@
 layout: "../../../../layouts/content.astro"
 title: Ouderwetse film middag
 time: "13.00"
-date: "2026-10-02"
+date: "2026-10-23"
 ---
 
 Weet u nog....
 Vroeger gingen we altijd naar de film bij keijenburg!
 En dat gaan we nu weer doen! :)
 
-3 vrijdagmiddagen toveren we buurthuis Keijenburg om tot een filmzaal.
+4 vrijdagmiddagen toveren we buurthuis Keijenburg om tot een filmzaal.
 Waar we films van eerder gaan vertonen.
 Stap met ons mee terug in de tijd en kom lekker binnen voor een gezellige middag!
 Welke film er gedraaid wordt is nog even een verrassing.
@@ -26,5 +26,5 @@ En mocht je wensen hebben voor films die we de volgende keer kunnen vertonen... 
 Data 2026 zijn:
 - vrijdagmiddag 27 Maart
 - vrijdagmiddag 22 mei
-- vrijdagmiddag 2 okt
+- vrijdagmiddag 23 okt (herfstvakantie)
 - vrijdagmiddag 4 december
